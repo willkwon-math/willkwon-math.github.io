@@ -1,6 +1,6 @@
 ---
 layout: home
-mathjax: true
+use_math: true
 profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
