@@ -14,6 +14,8 @@ profile_picture:
 
 [Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site.
 
+Here is my CV [CV](https://willkwon-math.github.io/assets/CV_HKwon.pdf).
+
 ## Research Interests
 
 I am interested in the theory of partial differential equations. More precisely, I am interested in the solvability and regularity theory of elliptic and parabolic equations (existence, uniqueness, and regularity properties of weak solutions). Also, I am interested in the same questions on several equations arisen from quantum mechanics and fluid mechanics.
