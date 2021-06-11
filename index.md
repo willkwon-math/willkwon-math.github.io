@@ -31,7 +31,11 @@ The drawing was given by one of students at Republic of Korea Air Force Academy 
 
 ## Research Interests
 
-I am interested in the theory of partial differential equations. More precisely, I am interested in the solvability and regularity theory of elliptic and parabolic equations (existence, uniqueness, and regularity properties of weak solutions). Also, I am interested in the same questions on several equations arisen from quantum mechanics and fluid mechanics.
+My research interests lie on analysis and PDEs. More precisely, I am working and interested on the following topics:
+- boundary value problems for elliptic and parabolic equations with singular drift terms
+- dynamcis of solutions of fluid equations such as Navier-Stokes equation and Euler equations
+- dynamics of solutions of kinetic and dispersive equations
+- real-variable methods in harmonic analysis
 
 ## Publications / Preprints
 
