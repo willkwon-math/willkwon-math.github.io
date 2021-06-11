@@ -2,7 +2,7 @@
 layout: home
 use_math: true
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile.png
   alt: website picture
 ---
 
