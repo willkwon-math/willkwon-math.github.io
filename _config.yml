@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Talks
- #   - name: Blog
+    - name: Notes
 
 footer:
   show_powered_by: true
