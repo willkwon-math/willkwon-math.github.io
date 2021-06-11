@@ -30,5 +30,22 @@ use_math: true
 - Fourier analysis and equidistribution of sequences, Stupid Seminar, May 2014.
 
 
-## $\LaTeX{}$
+## $\text{\LaTeX{}}$ 
+- Introduction to $\text{\LaTeX}$, Lecture series for writing scientific paper, SKKU, Feb. 2021 (Host : Prof. Byung Mook Won)
+- Intensive Lectures on $\text{\LaTeX}$ for mathematicians, CBNU, Nov. 2020 (Host: Prof. Changhun Yang)
+- Intensive Lectures on $\text{\LaTeX}$ for mathematicians, IBS-CGP, Jan. 2019 (Host: Dr. Jin Woo Jang)
+- Writing mathematics symbol in $\text{\LaTeX}$, Korean TeX Society, Kongju University, Nov. 2018.
+- Intensive Lectures on $\text{\LaTeX}$ for mathematicians and physicists, KIAS, Nov. 2018 (Host: Prof. Sung-Jin Oh)
+- About $\text{\LaTeX}$ programming, Sejong Science and Arts Gifted and Talented School, Nov. 2018 (Host: Teacher Yechan Lee)
+- On some difficulties when we use $\text{\LaTeX}$, 2018 KMS Spring Meeting (Special session: Tools and techniques of mathematical research and education), April 2018 (Host: Prof. Seong-Deok Yang)
+- Intensive lecture on $\text{\LaTeX}$ for mathematicians, UNIST, 2018.03.30 (Host: Prof. Hantaek Bae)
+- Lecture series on $\text{\LaTeX}$ for beginners: humanities and social sciences, 2018. 01. 16, 2018. 01. 18, 2018. 01. 23.
+- Tikz in mathematics, Workshop for writing a document, Korean $\text{\TeX}$ Society, Kongju University, Nov. 2017
+- Making a Beamer Class, Korean $\text{\TeX}$ Society Conference 2017, Dongguk University, Feb. 2017
+- Lecture on Command and Environment, Workshop for writing a document, Korean $\text{\TeX}$ Society, Kongju University, Nov. 2016
+- Making $\text{\LaTeX}$ Journal Class, Korean $\text{\TeX}$ Society Conference 2016, Korea University, Jan. 2016.
+- Mathematical Typesetting A to Z, Workshop for writing a document, Korean $\text{\TeX}$ Society, Kongju University, Nov. 2015.
+- Making a program book and abstract book by $\text{\TeX}$, Korean $\text{\TeX}$ Society Conference 2015, NIMS, Jan. 2015.
+- Seoul ICM 2014 and $\text{\LaTeX}$, Workshop for writing a document, Korean $\text{\TeX}$ Society, Kongju University, Nov. 2014.
+- Introduction to LyX and comparison with $\text{\TeX}$, Annual Meeting on Korean $\text{\TeX}$ Society, Hankuk University of Foreign Studies, Feb. 2014.
 
