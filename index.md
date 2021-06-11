@@ -26,6 +26,8 @@ Phone. +82-43-290-6593
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
+The drawing was given by one of students at Republic of Korea Air Force Academy [@cute_bae_am](https://instagram.com/cute_bae_am).
+
 ## Research Interests
 
 I am interested in the theory of partial differential equations. More precisely, I am interested in the solvability and regularity theory of elliptic and parabolic equations (existence, uniqueness, and regularity properties of weak solutions). Also, I am interested in the same questions on several equations arisen from quantum mechanics and fluid mechanics.
