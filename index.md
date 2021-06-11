@@ -14,7 +14,7 @@ profile_picture:
 
 [Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site.
 
-Here is my CV [CV](https://willkwon-math.github.io/assets/CV_HKwon.pdf).
+Here is my [CV](https://willkwon-math.github.io/assets/CV_HKwon.pdf).
 
 ## Research Interests
 
@@ -29,4 +29,13 @@ I am interested in the theory of partial differential equations. More precisely,
 3. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with [H. Kim](https://maths.sogang.ac.kr/kimh), [arXiv:1811.12619 \[math.AP\]](https://arxiv.org/abs/1811.12619) [math.AP]
 
 ## Useful links
+- Online Seminars
+  - [Online Seminars on PDEs and Harmonic Analysis](https://sites.google.com/view/korea-hpde/home)
+  - [HA-GMT-PDE seminar](https://sites.google.com/view/hagmtpdeseminar)
+  - [One World PDE seminar](https://people.bath.ac.uk/mw2319/owpde/)
+  - [PDE seminar via Zoom](https://nguyenquochung1241.wixsite.com/qhung/post/pde-seminar-via-zoom)
 
+- Others
+  - [Stupid Mathematics Seminar in Korea](https://www.facebook.com/mungseminar)  (I am a founder of this seminar)
+  - [MathSciNet](http://www.ams.org/mathscinet)
+  - [On teaching Mathematics (V. I. Arnold)](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
