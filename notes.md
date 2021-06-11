@@ -21,10 +21,10 @@ The following notes are available upon request (incomplete note)
 
 Below are the lecture notes on LaTeX (usually written in Korean)
 
-- PGFPlots과 Tikzcd 사용법
-  - 예제들
-- LaTeX 매크로 기본익히기
-  - 실습자료
-- Lectures on LaTeX for Mathematicians Lecture 1 (Math, beamer) / English Version / Youtube
-- Lectures on LaTeX for Mathematicians Lecture 2 (tikz) / English Version /  Youtube
-  - Examples
+- [PGFPlots과 Tikzcd 사용법](https://willkwon-math.github.io/assets/files/PGFplots(slides).pdf)
+  - [예제들](https://willkwon-math.github.io/assets/files/PGFplots(examples).pdf)
+- [LaTeX 매크로 기본익히기](https://willkwon-math.github.io/assets/files/LaTeX-Macro.pdf)
+  - [실습자료](https://willkwon-math.github.io/assets/files/latexcommand.zip)
+- [Lectures on LaTeX for Mathematicians Lecture 1 (Math, beamer)](https://willkwon-math.github.io/assets/files/lecture1-KIAS.pdf) / [English Version](https://willkwon-math.github.io/assets/files/lecture1-english.pdf) / [Youtube](https://youtu.be/GYipK47OUZc?t=263)
+- [Lectures on LaTeX for Mathematicians Lecture 2 (tikz)](https://willkwon-math.github.io/assets/files/lecture2-KIAS.pdf) / [English Version](https://willkwon-math.github.io/assets/files/lecture2-english.pdf) /  [Youtube](https://www.youtube.com/watch?v=UwrTjXxWD14)
+  - [Examples](https://willkwon-math.github.io/assets/files/examples(KIAS).zip)
