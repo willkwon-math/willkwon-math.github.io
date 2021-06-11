@@ -8,17 +8,12 @@ profile_picture:
 
 ## Contact 
 Department of Mathematics
-
 Republic of Korea Air Force Academy
-
 Postbox 335-2, 635, Danjae-ro
-
 Sangdang-gu, Cheongju-si Chungcheongbuk-do
-
 Republic of Korea
 
 Email. willkwon[at]sogang[dot]ac[dot]kr
-
 Phone. +82-43-290-6593
   
 ## About me 
