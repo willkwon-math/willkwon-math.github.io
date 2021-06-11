@@ -27,7 +27,7 @@ Phone. +82-43-290-6593
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
-The drawing was given by one of students at Republic of Korea Air Force Academy [@cute_bae_am](https://instagram.com/cute_bae_am).
+The drawing was given by one of my students at Republic of Korea Air Force Academy [@cute_bae_am](https://instagram.com/cute_bae_am).
 
 ## Research Interests
 
