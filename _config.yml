@@ -13,6 +13,7 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Research
     - name: Talks
     - name: Teaching
     - name: Notes
