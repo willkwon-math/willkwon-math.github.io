@@ -14,7 +14,7 @@ profile_picture:
 
 [Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site.
 
-Here is my [CV](https://willkwon-math.github.io/assets/CV_HKwon.pdf).
+Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
 ## Research Interests
 
