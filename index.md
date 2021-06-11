@@ -31,8 +31,7 @@ The drawing was given by one of my students at Republic of Korea Air Force Acade
 
 My research interests lie on analysis and PDEs. More precisely, I am working and interested on the following topics:
 - boundary value problems for elliptic and parabolic equations with singular drift terms
-- dynamics of solutions of fluid equations such as Navier-Stokes equation and Euler equations
-- dynamics of solutions of kinetic and dispersive equations
+- dynamics of solutions of equations arisen from physics
 - real-variable methods in harmonic analysis
 
 ## Publications / Preprints
