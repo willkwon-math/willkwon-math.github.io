@@ -5,7 +5,7 @@ profile_picture:
   src: /assets/img/profile.png
   alt: website picture
 ---
-<center> Drawn by [@cute_bae_am](https://instagram.com/cute_bae_am). </center>
+<center> Drawn by <a href="https://instagram.com/cute_bae_am">@cute_bae_am</a> </center>
 
 ## Contact 
 Department of Mathematics,<br>
