@@ -12,6 +12,8 @@ Below are some notes I have written up for some courses I have taken or I gave. 
 
 The following notes are available upon request (incomplete note)
 
+- A study on fluid mechanics (reading seminar on the lecture note of Sverak)
+- Introduction to Partial Differential Equation (written in Korean)
 - Existence of forward self-similar solution of Navier-Stokes for large initial data (review note of the work of Jia-Sverak)
 - Lectures on elliptic and parabolic equations on Holder spaces (based on the book of Krylov)
 - Introduction to Random process (based on the book of Krylov)
@@ -19,7 +21,7 @@ The following notes are available upon request (incomplete note)
 
 ## ${\rm \LaTeX{}}$
 
-Below are the lecture notes on LaTeX (usually written in Korean)
+Below are lecture notes on LaTeX (usually written in Korean)
 
 - [PGFPlots과 Tikzcd 사용법](https://willkwon-math.github.io/assets/files/PGFplots(slides).pdf)
   - [예제들](https://willkwon-math.github.io/assets/files/PGFplots(examples).pdf)
