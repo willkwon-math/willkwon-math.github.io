@@ -45,8 +45,8 @@ My research interests lie on analysis and PDEs. More precisely, I am working and
 
 ## Miscellaneous
 - My footprints related to LaTeX (can be found on the Internet)
-  - I was a technical editor of ICM Proceedings 2014 which can be found in [IMU homepage](https://www.mathunion.org/icm/proceedings/2014).
-  - My name is written in the acknowledgement of [Sobolev and Viscosity Solutions for Fully Nonlinear Elliptic and Parabolic Equations](https://bookstore.ams.org/cdn-1612203880278/surv-233/~~FreeAttachments/surv-233-pref.pdf) written by N. V. Krylov.  
+  - I was a technical editor of ICM Proceedings 2014 which can be found in pdf files in [IMU homepage](https://www.mathunion.org/icm/proceedings/2014).
+  - My name was written in the acknowledgement of [Sobolev and Viscosity Solutions for Fully Nonlinear Elliptic and Parabolic Equations](https://bookstore.ams.org/cdn-1612203880278/surv-233/~~FreeAttachments/surv-233-pref.pdf) written by N. V. Krylov.  
 - Online Seminars
   - [Online Seminars on PDEs and Harmonic Analysis](https://sites.google.com/view/korea-hpde/home)
   - [HA-GMT-PDE seminar](https://sites.google.com/view/hagmtpdeseminar)
