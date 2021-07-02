@@ -47,9 +47,9 @@ My research interests lie on analysis and PDEs. More precisely, I am working and
 <summary>2. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
-\begin{equation*}
+$$
 \text{(a)}\, −\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f,\qquad\text{(b)}\, −\mathrm{div}(A^T\nabla v)−\mathbf{b}\cdot\nabla v=g\quad \text{in } \Omega,
-\end{equation*}
+$$
 where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assuming that $\mathbf{b}\in L^{n,\infty}(\Omega)^n$ has non-negative weak divergence in $\Omega$, we establish existence and uniqueness of weak solution in $W^{1,2+\varepsilon}_0(\Omega)$ of the problem (b) when $A$ is bounded and uniformly elliptic. As an application, we prove unique solvability of weak solution $u$ in $\bigcap_{q<2} W^{1,q}_0(\Omega)$ for the problem (a) for every $f\in \bigcap_{q<2} W^{−1,q}(\Omega)$.
 </div>
 </details>
@@ -59,9 +59,9 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 </summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
-\begin{equation*}
+\[
 −\triangle u+\mathrm{div}(u\mathbf{b})=f\quad \text{and}\quad  −\triangle v−\mathbf{b}\cdot\nabla v=g
-\end{equation*}
+\]
 in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) with the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995, JFA) and Fabes-Mendez-Mitrea (1998, JFA) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in $L^2(\partial\Omega)$.
 </div>
 </details>
