@@ -19,7 +19,7 @@ Phone. +82-43-290-6593
   
 ## About me 
  
-  I'm Hyunwoo Kwon. I am a full-time lecturer in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). Also I am a Ph. D. student(leave of absence due to military service) in the Department of Mathematics, Sogang University. Previously, I did my master in mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).  
+  I'm Hyunwoo Kwon(a.k.a. Will Kwon). I am a full-time lecturer in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). Also I am a Ph. D. student(leave of absence due to military service) in the Department of Mathematics, Sogang University. Previously, I did my master in mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).  
 
 [Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site.
 
