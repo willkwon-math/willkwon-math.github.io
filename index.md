@@ -48,7 +48,7 @@ My research interests lie on analysis and PDEs. More precisely, I am working and
 <div markdown="1">
 **Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
 <center>
-\text{(a)}\, −\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f,\qquad\text{(b)}\, −\mathrm{div}(A^T\nabla v)−\mathbf{b}\cdot\nabla v=g\quad \text{in } \Omega,
+$\text{(a)}\, −\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f,\qquad\text{(b)}\, −\mathrm{div}(A^T\nabla v)−\mathbf{b}\cdot\nabla v=g\quad \text{in } \Omega,$
 </center>
 where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assuming that $\mathbf{b}\in L^{n,\infty}(\Omega)^n$ has non-negative weak divergence in $\Omega$, we establish existence and uniqueness of weak solution in $W^{1,2+\varepsilon}_0(\Omega)$ of the problem (b) when $A$ is bounded and uniformly elliptic. As an application, we prove unique solvability of weak solution $u$ in $\bigcap_{q<2} W^{1,q}_0(\Omega)$ for the problem (a) for every $f\in \bigcap_{q<2} W^{−1,q}(\Omega)$.
 </div>
