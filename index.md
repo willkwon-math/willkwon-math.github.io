@@ -37,14 +37,14 @@ My research interests lie on analysis and PDEs. More precisely, I am working and
 ## Publications / Preprints
 
 <details>
-<summary>1. Elliptic equations with drifts in $L^2$ on Lipschitz domains in $\mathbb{R}^2$, [arXiv:2104.01300 \[math.AP\]](https://arxiv.org/abs/2104.01300)</summary>
+<summary>1. Elliptic equations with drifts in $L^2$ on Lipschitz domains in $\mathbb{R}^2$, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problems for second-order elliptic equations with singular drifts given by b. When the leading coefficients $A$ have small mean oscillations in small balls and $\mathrm{div}\,A$, $\mathbf{b}$ are in $L^2$, we obtain $W^{1,p}$-results on bounded Lipschitz domains in $\mathbb{R}^2$ with small Lipschitz constants.
 </div>
 </details>
 
 <details>
-<summary>2. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, [\[Journal\]](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444),  [arXiv:2011.07524 \[math.AP\]](https://arxiv.org/abs/2011.07524)</summary>
+<summary>2. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
 $$ \text{(a)}\, −\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f,\qquad\text{(b)}\, −\mathrm{div}(A^T\nabla v)−\mathbf{b}\cdot\nabla v=g\quad \text{in } \Omega,$$
@@ -53,12 +53,12 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 </details>
 
 <details>
-<summary>3. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with [H. Kim](https://maths.sogang.ac.kr/kimh), [arXiv:1811.12619 \[math.AP\]](https://arxiv.org/abs/1811.12619) [math.AP]
+<summary>3. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, <a href ="https://arxiv.org/abs/1811.12619"> arXiv:1811.12619 [math.AP] 
 </summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
 $$−\triangle u+\mathrm{div}(u\mathbf{b})=f\quad \text{and}\quad  −\triangle v−\mathbf{b}\cdot\nabla v=g$$
-in a bounded Lipschitz domain $Ω$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) with the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995, JFA) and Fabes-Mendez-Mitrea (1998, JFA) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in $L^2(\partial\Omega)$.
+in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) with the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995, JFA) and Fabes-Mendez-Mitrea (1998, JFA) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in $L^2(\partial\Omega)$.
 </div>
 </details>
 
