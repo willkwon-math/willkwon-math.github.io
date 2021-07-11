@@ -5,11 +5,11 @@ use_math: true
 
 # Research
 
-From Newton’s mechanics, many scientists and mathematicians have devoted  to studying differential equations to explain the several phenomena in the natures  It is a natural to ask whether we can solve boundary value problems of given partial differential equations. If we know an existence of solution of the problem, one can also ask some properties of solutions that have. 
+From Newton’s mechanics, many scientists and mathematicians have devoted  to studying differential equations to explain the several phenomena in the nature.  It is a natural to ask whether we can solve boundary value problems of given partial differential equations. If we know an existence of solution of the problem, one can also ask some properties of solutions that have. 
 
 ## Elliptic equations with singular drift terms
 
-For several years, I have devoted to studying unique solvability of linear elliptic equations with singular drift terms  in Sobolev spaces.  To explain the results, let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. For a fixed constant $\lambda \geq 0$, we consider the following Dirichlet problems of elliptic equations of   second-order: 
+For several years, I have devoted to studying unique solvability of linear elliptic equations with singular drift terms  in Sobolev spaces.  To explain the results, let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. We consider the following Dirichlet problems of elliptic equations of   second-order: 
 <center>
 $(D)\qquad -\mathrm{div}(A \nabla u)+\mathrm{div}(u\mathbf{b})=f\quad \text{in } \Omega\qquad u=0\quad \text{on } \partial\Omega$
 </center>
