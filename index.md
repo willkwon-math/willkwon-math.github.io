@@ -21,7 +21,7 @@ Phone. +82-43-290-6593
  
   I'm Hyunwoo Kwon(a.k.a. Will Kwon). I am a full-time lecturer in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). Previously, I did my master in mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).  
 
-[Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site.
+[Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site. 
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
@@ -33,6 +33,7 @@ My research interests lie on analysis and PDEs. More precisely, I am working and
 - boundary value problems for elliptic and parabolic equations with singular drift terms
 - dynamics of solutions of equations arisen from physics
 - real-variable methods in harmonic analysis
+- others related to mathematical analysis
 
 ## Publications / Preprints
 
