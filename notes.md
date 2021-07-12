@@ -12,7 +12,6 @@ Below are some notes I have written up for some courses I have taken or I gave. 
 
 The following notes are available upon request (incomplete note)
 
-- A study on fluid mechanics (reading seminar on the lecture note of Sverak)
 - Introduction to Partial Differential Equation (written in Korean)
 - Existence of forward self-similar solution of Navier-Stokes for large initial data (review note of the work of Jia-Sverak)
 - Lectures on elliptic and parabolic equations on Holder spaces (based on the book of Krylov)
