@@ -5,7 +5,7 @@ use_math: true
 
 # Research
 
-From Newton’s mechanics, many scientists and mathematicians have devoted  to studying differential equations to explain the several phenomena in the nature.  It is a natural to ask whether we can solve boundary value problems of given partial differential equations. If we know an existence of solution of the problem, one can also ask some properties of solutions that have. 
+From Newton’s mechanics, many scientists and mathematicians have devoted to studying differential equations to explain several phenomena in the nature.  It is  natural to ask whether we can solve boundary value problems of given partial differential equations. If we know an existence of solution of the problem, one can also ask some properties of solutions that have. 
 
 ## Elliptic equations with singular drift terms
 
