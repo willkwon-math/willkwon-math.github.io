@@ -78,7 +78,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
   - [HA-GMT-PDE seminar](https://sites.google.com/view/hagmtpdeseminar)
   - [One World PDE seminar](https://people.bath.ac.uk/mw2319/owpde/)
   - [PDE seminar via Zoom](https://nguyenquochung1241.wixsite.com/qhung/post/pde-seminar-via-zoom)
-  - [UNIST-CUHK Analysis and PDE seminar](https://hkumath.hku.hk/~imr/event/CUHK_HKU_UNIST_Analysis_and_PDE/index.php)
+  - [UNIST-CUHK-UHK Analysis and PDE seminar](https://hkumath.hku.hk/~imr/event/CUHK_HKU_UNIST_Analysis_and_PDE/index.php)
 
 - Others
   - [Stupid Mathematics Seminar in Korea](https://www.facebook.com/mungseminar)  (I am a founder of this seminar)
