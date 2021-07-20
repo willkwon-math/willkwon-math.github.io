@@ -32,6 +32,7 @@ use_math: true
 - Fourier analysis and equidistribution of sequences, Stupid Seminar, May 2014.
 
 ## ${\rm \LaTeX{}}$ 
+- Intensive Lectures on ${\rm \LaTeX}$ for mathematicians, CNU, Aug. 2021.
 - Introduction to ${\rm \LaTeX}$, Lecture series for writing scientific paper, SKKU, Feb. 2021  
 - Intensive Lectures on ${\rm \LaTeX}$ for mathematicians, CBNU, Nov. 2020  
 - Intensive Lectures on ${\rm \LaTeX}$ for mathematicians, IBS-CGP, Jan. 2019  
