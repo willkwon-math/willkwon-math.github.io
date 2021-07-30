@@ -28,10 +28,9 @@ Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 The drawing was given by one of my students at Republic of Korea Air Force Academy [@cute_bae_am](https://instagram.com/cute_bae_am).
 
 ## Research Interests
-
-My research interests lie on analysis and PDEs. More precisely, I am working and interested on the following topics:
-- dynamics of solutions of equations arisen from physics
-- real-variable methods in harmonic analysis
+ 
+- Partial Differential Equations
+- Harmonic Analysis (real-variable methods)
 
 ## Publications / Preprints
 
