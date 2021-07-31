@@ -10,7 +10,7 @@ Below are some notes I have written up for some courses I have taken or I gave. 
 - [2017-1 General Relativity](https://willkwon-math.github.io/assets/files/lecture-notes(General_Relativity).pdf)  (Sogang University, Physics,  [Prof. Jeong-Hyuck Park](http://lab7616.sogang.ac.kr/lab7616/1093.html)) / revised (2019-02-08)
 
 
-The following notes are available upon request (incomplete note)
+The following notes are available upon request (incomplete note/not open to public)
 
 - Introduction to Partial Differential Equation (written in Korean)
 - Existence of forward self-similar solution of Navier-Stokes for large initial data (review note of the work of Jia-Sverak)
