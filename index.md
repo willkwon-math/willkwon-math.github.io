@@ -35,9 +35,13 @@ The drawing was given by one of my students at Republic of Korea Air Force Acade
 ## Publications / Preprints
 
 <details>
-<summary>1. Elliptic equations with drifts in $L^2$ on Lipschitz domains in $\mathbb{R}^2$, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
+<summary>1. Elliptic equations in divergence form with drifts in $L^2$, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
 <div markdown="1">
-**Abstract.**  We consider the Dirichlet problems for second-order elliptic equations with singular drifts given by b. When the leading coefficients $A$ have small mean oscillations in small balls and $\mathrm{div}\,A$, $\mathbf{b}$ are in $L^2$, we obtain $W^{1,p}$-results on bounded Lipschitz domains in $\mathbb{R}^2$ with small Lipschitz constants.
+**Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
+<center>
+$-\mathrm{div} (A\nabla u) + \mathbf{b}\cdot \nabla u +\lambda u = f+\mathrm{div } \mathbf{F}\quad \text{in } \Omega\quad \text{and}\quad u=0\quad \text{on } \partial\Omega,  
+</center>
+in bounded Lipschitz domain $\Omega$ in $\mathbb{R}^2$, where $A:\mathbb{R}^2\rightarrow \mathbb{R}^{2^2}$, $\mathbf{b}: \Omega\rightarrow \mathbb{R}^2$, and $\lambda \geq 0$ are given. If $2<p<\infty$ and $A$ has a small mean oscillation in small balls, $\Omega$ has small Lipschitz constant, and $\mathrm{div } A, \mathbf{b}\in L^2(\Omega;\mathbb{R}^2)$, then we prove existence and uniqueness of weak solutions in $W_0^{1,p}(\Omega)$ of the problem. Similar result also holds for the dual problem.
 </div>
 </details>
 
