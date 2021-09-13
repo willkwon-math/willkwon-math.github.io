@@ -6,6 +6,7 @@ use_math: true
 
 - Fall 2021 – Linear Algebra(Computer Science and Engineering, 1 class / Human and Social Sciences, 2 classes)
   -  [문과 선형대수 1강-2강 유인물](https://willkwon-math.github.io/assets/files/OT-article.pdf) 
+  -  [선형대수 행렬 파이썬](https://willkwon-math.github.io/assets/files/Matrix.ipynb) 
 - Spring 2021 – Calculus(Computer Science and Engineering, 2 classes), Engineering Mathematics I 
 - Winter 2021 – Mathematics and Physics for Fighter
 - Fall 2020 – Linear Algebra(Human and Social Sciences) / Engineering Mathematics I / Engineering Mathematics II 
