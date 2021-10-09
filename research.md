@@ -10,9 +10,13 @@ From Newton’s mechanics, many scientists and mathematicians have devoted to st
 ## Elliptic equations with singular drift terms
 
 For several years, I have devoted to studying unique solvability of linear elliptic equations with singular drift terms  in Sobolev spaces.  To explain the results, let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. We consider the following Dirichlet problems of elliptic equations of   second-order: 
-\[ (D)\qquad -\mathrm{div}(A \nabla u)+\mathrm{div}(u\mathbf{b})=f\quad \text{in } \Omega\qquad u=0\quad \text{on } \partial\Omega \]
+\begin{equation}\tag{$D$}
+\qquad -\mathrm{div}(A \nabla u)+\mathrm{div}(u\mathbf{b})=f\quad \text{in } \Omega\qquad u=0\quad \text{on } \partial\Omega 
+\end{equation}
 and 
-\[ (D')\qquad -\mathrm{div}(A \nabla v)-\mathbf{b}\cdot \nabla v =g\quad \text{in } \Omega\qquad v=0\quad \text{on } \partial\Omega \]
+\begin{equation}\tag{$D'$}
+(D')\qquad -\mathrm{div}(A \nabla v)-\mathbf{b}\cdot \nabla v =g\quad \text{in } \Omega\qquad v=0\quad \text{on } \partial\Omega
+\end{equation}
 Here $A=(a^{ij}):\mathbb{R}^n\rightarrow \mathbb{R}^{n\times n}$ denotes an $n\times n$ real matrix-valued function  which is uniformly elliptic, that is, there exists $0<\delta<1$ such that 
 \begin{equation}\label{eq:uniformly-elliptic} 
 \delta|\xi|^2 \leq a^{ij}(x)\xi_i \xi_j\quad \text{and}\quad |a^{ij}(x)|\leq \delta^{-1}\quad    \text{for all } x,\xi \in \mathbb{R}^n, 
