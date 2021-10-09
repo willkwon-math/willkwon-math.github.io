@@ -34,7 +34,7 @@ The Poisson kernel has several interesting properties. One of important properti
 \end{equation}
 for any $1\leq p \leq \infty$. 
 
-For a function $f:\mathbb{R}^n\rightarrow \mathbb{R}$ and $y>0$, we define $u(x,y)=(P_y*f)(x)$ and we call it the *Poisson integral* of $f$.  We write 
+For a function $f:\mathbb{R}^n\rightarrow \mathbb{R}$ and $y>0$, we define $u(x,y)=(P_y*f)(x)$ and we call it the <em>Poisson integral</em> of $f$.  We write 
 \begin{equation}
 \nonumber
 \Delta u = \sum_{j=1}^n \frac{\partial^2 u}{\partial x_j^2}+ \frac{\partial^2 u}{\partial y^2}.
@@ -45,7 +45,7 @@ Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that 
 </div>
 **Theorem.** Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $u(x,y)$ be its Poisson integral. 
 
-1. $\sup_{y>0} |u(x,y)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.
+1. <div>$\sup_{y>0} |u(x,y)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.</div>
 2. $\lim_{y\rightarrow 0+} u(x,y)=f(x)$ for almost every $x$.
 3. If $1\leq p <\infty$, then $u(\cdot,y)\rightarrow f$ in $L^p$ as $y\rightarrow 0+$. 
 
