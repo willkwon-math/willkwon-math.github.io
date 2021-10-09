@@ -1,7 +1,7 @@
 ---
 layout: post
 use_math: true
-title:  "On some famous theorem on nontangential convergences"
+title:  "On some famous theorem on nontangential maximal functions (incomplete)"
 date:   2021-10-10 10:00:40 
 ---
   
@@ -17,8 +17,13 @@ date:   2021-10-10 10:00:40
 
 #### Introduction
 
-The purpose of this note is to illustrate some famous theorem on nontangential convergence of a function when $u^* \in L^2(\partial\Omega)$. Here $u^*$ denotes the nontangential maximal function over cones associated to the Lipschitz domain $\Omega$ in $\mathbb{R}^n$. 
+Maximal functions are naturally introduced when someone wants to study the pointwise convergence of functions. In particular, nontangential maximal functions are naturally used when we want to analyze a nontangential behavior of a function. 
 
+When the author wrote a research paper [KK19](https://arxiv.org/abs/1811.12619), it was hard to find a proof of the following theorem.
+
+> **Theorem.** Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$. Suppose that $u^* \in L^2 (\partial\Omega)$. Then there exists a function $g$ in $L^2(\partial\Omega)$ such that $u\rightarrow g$ nontangentially a.e. on $\partial\Omega$. 
+
+According to some literatures, this theorem was shown by Dahlberg. 
 
 ##### FOOTNOTES
 
