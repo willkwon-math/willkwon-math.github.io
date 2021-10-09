@@ -36,8 +36,7 @@ footer:
     - name: RSS
       link: /feed.xml
 
-# Build settings
-markdown: kramdown
+# Build settings 
 sass:
     style: :compressed
 plugins:
