@@ -13,7 +13,7 @@ og_image: /assets/img/profile.png
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\n\n"
 incremental: false
 
 header:
@@ -36,9 +36,7 @@ footer:
     - name: RSS
       link: /feed.xml
 
-# Build settings 
-sass:
-    style: :compressed
+# Build settings  
 plugins:
   - jekyll-feed
 
