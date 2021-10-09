@@ -6,8 +6,6 @@ date:   2021-10-10 10:00:40
 ---
   
  
-
-
 #### Table of Contents
 1. [Introduction](#introduction) 
 
@@ -26,13 +24,17 @@ The organization of this post is as follows. We first present the role of nontan
 #### Dirichlet problem for Poisson equation in half-space
 
 For $x\in \mathbb{R}^n$ and $y>0$, we define the *Poisson kernel* by 
+
 \begin{equation*} 
 P_y(x) = \frac{c_n y}{(|x|^2+y)^{(n+1)/2}},\quad c_n = \frac{\Gamma((n+1)/2)}{\pi^{(n+1)/2}}.
 \end{equation*}
+
 For $1\leq p\leq \infty$ and $f\in L^p(\mathbb{R}^n)$, we define the *Poisson integral* of $f$ by 
+
 \begin{equation*}
 u(x,y)=(P_y * f)(x).
 \end{equation*}
+
 In this section, we prove the following theorem.
 
  **Theorem.** Suppose that $f\in L^p(\mathbb{R}^n)$, $1\leq p\leq \infty$, and let $u(x,y)$ be its Poisson integral. Then 
