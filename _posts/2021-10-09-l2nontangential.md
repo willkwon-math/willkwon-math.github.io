@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "$L^2$ nontangential maximal functions"
+use_math: true
 date:   2019-10-26 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme." 
 ---
