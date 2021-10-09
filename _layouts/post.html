@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
+  <head>
   {% include head.html %} 
+  {% if page.use_math %}
+    {% include mathjax.html %}
+  {% endif %}
+  </head>
   <body>
     {% include header.html %}
 
@@ -43,9 +48,6 @@
 
     {% include foot.html %}
     
-  {% if page.use_math %}
-    {% include mathjax.html %}
-  {% endif %}
     {% include scripts.html %}
   </body>
 </html>
