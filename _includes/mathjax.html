@@ -6,6 +6,11 @@
  loader: {
    load: ['ui/menu', '[tex]/ams']
  },
+ tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$'] ],
+    processEscapes: true,
+  }
  startup: {
    ready() {
      MathJax.startup.defaultReady();
