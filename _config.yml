@@ -9,6 +9,13 @@ url: "https://willkwon-math.github.io" # the base hostname & protocol for the si
 og_image: /assets/img/profile.png
 #google_analytics: "UA-121636368-3"
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 header:
   pages:
     - name: Home
