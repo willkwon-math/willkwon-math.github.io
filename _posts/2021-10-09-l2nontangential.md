@@ -1,6 +1,6 @@
 ---
 layout: post
-use_math: true
+mathjax: true
 title:  "Nontangential maximal functions"
 date:   2021-10-10 10:00:40 
 ---
