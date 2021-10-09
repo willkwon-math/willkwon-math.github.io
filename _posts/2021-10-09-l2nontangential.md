@@ -45,15 +45,12 @@ Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that 
 </div>
 <strong> Theorem.</strong>  Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $\int_{\mathbb{R}^n} \psi dx=1$.
 
-1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.</div>
+1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator and $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.</div>
 2. <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div>
 3. <div>If $1\leq p <\infty$, then $(\psi_\varepsilon *f)\rightarrow f$ in $L^p$ as $\varepsilon\rightarrow  0+$. </div>
 
 <div>
-Proof. (1) We prove more general statement. If $\psi$ is non-negative, radial, decreasing and,  integrable, then 
-$$ |(\psi_\varepsilon*f)(x)|\leq \left(\int_{\mathbb{R}^n} \psi dx \right)Mf(x),$$ 
-where $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.
-By scaling and translation invariance, it suffices to show that 
+Proof. (1)  By scaling and translation invariance, it suffices to show that 
 $$ |(\psi * f)(0)|\leq \left(\int_{\mathbb{R}^n} \psi dx \right)Mf(0).$$ 
 
 Set 
