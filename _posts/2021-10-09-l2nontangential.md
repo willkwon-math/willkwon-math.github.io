@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Post example"
-date:   2021-10-10 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+title:  "Nontangential maximal functions"
+date:   2021-10-10 10:00:40 
 use_math: true
 ---
   
