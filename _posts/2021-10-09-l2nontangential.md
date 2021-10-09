@@ -1,7 +1,7 @@
 ---
 layout: post
-mathjax: true
-title:  "Nontangential maximal functions"
+use_math: true
+title:  "On famous theorem on nontangential convergences"
 date:   2021-10-10 10:00:40 
 ---
   
