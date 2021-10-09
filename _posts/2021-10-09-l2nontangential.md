@@ -43,22 +43,50 @@ Then it is easy to check that for $f\in L^p(\mathbb{R}^n)$, $1\leq p\leq \infty$
 
 Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that $(P_y *f)(x)\rightarrow f(x)$ as $y\rightarrow 0+$ if $f$ is sufficiently smooth. However, it is unclear if $f\in L^p$ because of the definition of $L^p$. To discuss the behavior of $u$ as $y\rightarrow 0+$, nontangential maximal function estimate gives an useful information. 
 </div>
+
 **Theorem.** Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $u(x,y)$ be its Poisson integral. 
 
 1. <div>$\sup_{y>0} |u(x,y)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.</div>
 2. $\lim_{y\rightarrow 0+} u(x,y)=f(x)$ for almost every $x$.
 3. If $1\leq p <\infty$, then $u(\cdot,y)\rightarrow f$ in $L^p$ as $y\rightarrow 0+$. 
 
+<div>
+Proof. (1) We prove more general statement. If $\psi$ is non-negative, radial, decreasing and,  integrable, then 
+$$ |(\psi_\varepsilon*f)(x)|\leq \left(\int_{\mathbb{R}^n} \psi dx \right)Mf(x),$$ 
+where $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.
+By scaling and translation invariance, it suffices to show that 
+$$ |(\psi * f)(0)|\leq \left(\int_{\mathbb{R}^n} \psi dx \right)Mf(0).$$ 
 
+Set 
+$$ \lambda(r)=   \int_{\mathbb{S}^{n-1}} f(r\omega) d\sigma(\omega),\quad \Lambda(r)=\int_0^r \lambda(t)t^{n-1}dt.$$
+Since $\psi$ is integrable and decreasing radial function, it follows that 
+$$ \int_{r\leq |x|\leq 2r} \psi(x) dx \geq cr^n \psi(r) $$
+for some constant $c>0$. Hence 
+$$ r^n \psi(r)\rightarrow 0$$
+as $r\rightarrow 0+$ or $r\rightarrow \infty$. 
+
+Therefore a change of variable and integration by part give
+$$  (\psi*f)(0)=\int_0^\infty \Lambda'(r)\psi(r) dr=-\int_0^\infty \Lambda(r)\psi'(r)dr. $$ 
+(of course, we should change improper integral into finite integral...) 
+
+Since 
+$$ \Lambda(r)=\int_{B_r} f(y)dy \leq |B_r| Mf(0)= \frac{r^n \sigma(\mathbb{S}^{n-1})}{n} Mf(0), $$
+it follows that 
+$$ -\int_0^\infty \Lambda(r)\psi'(r)dr \leq -Mf(0)\sigma(\mathbb{S}^{n-1}) \int_0^\infty \frac{r^n}{n} \psi'(r)dr$$
+since $\psi'(r)\leq 0$. 
+
+Integration by part and a change of variable give
+$$\begin{aligned}   -\sigma(\mathbb{S}^{n-1})\int_0^\infty \frac{r^n}{n} \psi'(r)dr
+&=\sigma(\mathbb{S}^{n-1})\int_0^\infty r^{n-1}\psi(r)dr\\
+& = \int_{\mathbb{R}^n} \psi(x)dx.
+\end{aligned}$$
+This implies that 
+$$ (\psi*f)(0)\leq \left(\int_{\mathbb{R}^n} \psi(x) dx\right) Mf(0).$$
+This completes the proof. 
+</div>
 
  
 
 #### References
 1. E. M. Stein, Singular integrals... 
-
-
-Test 
-\[  a=b \] 
-
-#### References
-1. E. M. Stein, Singular integrals... 
+ 
