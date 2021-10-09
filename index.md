@@ -35,24 +35,24 @@ The drawing was given by one of my students at Republic of Korea Air Force Acade
 ## Publications / Preprints
 
 <details>
-<summary>1. Elliptic equations in divergence form with drifts in $L^2$, to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
+<summary>1. Elliptic equations in divergence form with drifts in \(L^2\), to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
 <center>
-$-\mathrm{div} (A\nabla u) + \mathbf{b}\cdot \nabla u +\lambda u = f+\mathrm{div } \mathbf{F}\quad \text{in } \Omega\quad \text{and}\quad u=0\quad \text{on } \partial\Omega$,  
+\(-\mathrm{div} (A\nabla u) + \mathbf{b}\cdot \nabla u +\lambda u = f+\mathrm{div } \mathbf{F}\quad \text{in } \Omega\quad \text{and}\quad u=0\quad \text{on } \partial\Omega\),  
 </center>
-in bounded Lipschitz domain $\Omega$ in $\mathbb{R}^2$, where $A:\mathbb{R}^2\rightarrow \mathbb{R}^{2^2}$, $\mathbf{b}: \Omega\rightarrow \mathbb{R}^2$, and $\lambda \geq 0$ are given. If $2<p<\infty$ and $A$ has a small mean oscillation in small balls, $\Omega$ has small Lipschitz constant, and $\mathrm{div } A, \mathbf{b}\in L^2(\Omega;\mathbb{R}^2)$, then we prove existence and uniqueness of weak solutions in $W_0^{1,p}(\Omega)$ of the problem. Similar result also holds for the dual problem.
+in bounded Lipschitz domain \(\Omega\) in \(\mathbb{R}^2\), where \(A:\mathbb{R}^2\rightarrow \mathbb{R}^{2^2}\), \(\mathbf{b}: \Omega\rightarrow \mathbb{R}^2\), and \(\lambda \geq 0\) are given. If \(2<p<\infty\) and \(A\) has a small mean oscillation in small balls, \(\Omega\) has small Lipschitz constant, and \(\mathrm{div } A, \mathbf{b}\in L^2(\Omega;\mathbb{R}^2)\), then we prove existence and uniqueness of weak solutions in \(W_0^{1,p}(\Omega)\) of the problem. Similar result also holds for the dual problem.
 </div>
 </details>
 
 <details>
-<summary>2. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
+<summary>2. Existence and uniqueness of weak solution in \(W^{1,2+\varepsilon}\) for elliptic equations with drifts in weak-\(L^{n}\) spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
 <div markdown="1">
-**Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
+**Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift \(\mathbf{b}\):
 <center>
-$\text{(a)}\, −\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f,\qquad\text{(b)}\, −\mathrm{div}(A^T\nabla v)−\mathbf{b}\cdot\nabla v=g\quad \text{in } \Omega,$
+\(\text{(a)}\, −\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f,\qquad\text{(b)}\, −\mathrm{div}(A^T\nabla v)−\mathbf{b}\cdot\nabla v=g\quad \text{in } \Omega,\)
 </center>
-where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assuming that $\mathbf{b}\in L^{n,\infty}(\Omega)^n$ has non-negative weak divergence in $\Omega$, we establish existence and uniqueness of weak solution in $W^{1,2+\varepsilon}_0(\Omega)$  of the problem (b) when $A$ is bounded and uniformly elliptic. As an application, we prove unique solvability of weak solution $u$ in $W^{1,2-}_0(\Omega)$ for the problem (a) for every $f\in W^{-1,2-}(\Omega)$.
+where \(\Omega\) is a bounded Lipschitz domain in \(\mathbb{R}^n\), \(n\geq 2\). Assuming that \(\mathbf{b}\in L^{n,\infty}(\Omega)^n\) has non-negative weak divergence in \(\Omega\), we establish existence and uniqueness of weak solution in \(W^{1,2+\varepsilon}_0(\Omega)\)  of the problem (b) when \(A\) is bounded and uniformly elliptic. As an application, we prove unique solvability of weak solution \(u\) in \(W^{1,2-}_0(\Omega)\) for the problem (a) for every \(f\in W^{-1,2-}(\Omega)\).
 </div>
 </details>
 
@@ -62,9 +62,9 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
 <center>
-$−\triangle u+\mathrm{div}(u\mathbf{b})=f\quad \text{and}\quad  −\triangle v−\mathbf{b}\cdot\nabla v=g$
+\(−\triangle u+\mathrm{div}(u\mathbf{b})=f\quad \text{and}\quad  −\triangle v−\mathbf{b}\cdot\nabla v=g\)
 </center>
-in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) with the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995, JFA) and Fabes-Mendez-Mitrea (1998, JFA) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in $L^2(\partial\Omega)$.
+in a bounded Lipschitz domain \(\Omega\) in \(\mathbb{R}^n\) (\(n\geq 3\)), where \(\mathbf{b}:\Omega\rightarrow \mathbb{R}^n\) is a given vector field. Under the assumption that \(\mathbf{b}\in L^n(\Omega)^n\), we first establish existence and uniqueness of solutions in \(L^p_{\alpha}(\Omega)\) for the Dirichlet and Neumann problems. Here \(L^p_{\alpha}(\Omega)\) denotes the Sobolev space (or Bessel potential space) with the pair \((\alpha,p)\) satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995, JFA) and Fabes-Mendez-Mitrea (1998, JFA) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in \(L^2(\partial\Omega)\).
 </div>
 </details>
 
