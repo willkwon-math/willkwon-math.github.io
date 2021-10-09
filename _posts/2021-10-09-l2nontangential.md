@@ -43,7 +43,7 @@ Then it is easy to check that for $f\in L^p(\mathbb{R}^n)$, $1\leq p\leq \infty$
 
 Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that $(P_y *f)(x)\rightarrow f(x)$ as $y\rightarrow 0+$ if $f$ is sufficiently smooth. However, it is unclear if $f\in L^p$ because of the definition of $L^p$. To discuss the behavior of $u$ as $y\rightarrow 0+$, nontangential maximal function estimate gives an useful information. 
 </div>
-<strong> Theorem.</strong> <div> Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $A=\int_{\mathbb{R}^n} \psi dx=1$.
+<strong> Theorem.</strong>  Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $\int_{\mathbb{R}^n} \psi dx=1$.
 
 1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.</div>
 2. <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div>
