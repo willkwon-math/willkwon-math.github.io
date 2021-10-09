@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "ontangential maximal functions"
-date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."  
+title:  "Post example"
+date:   2021-10-10 10:00:40
+blurb: "A look at an example post using Bay Jekyll theme."
 use_math: true
 ---
   
