@@ -17,6 +17,7 @@ header:
     - name: Talks
     - name: Teaching
     - name: Notes
+    - name: Blog
 
 footer:
   show_powered_by: true
