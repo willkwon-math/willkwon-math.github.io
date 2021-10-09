@@ -24,7 +24,7 @@ The organization of this post is as follows. We first present the role of nontan
 <div>
 In this section, we consider the Dirichlet problem for the Poisson equation in $\mathbb{R}^{n+1}_+$, where $\mathbb{R}^{n+1}_+ =\{ (x,y) : x\in \mathbb{R}^n, y>0 \}$. 
 
-For $x\in \mathbb{R}^n$ and $y>0$, we define the *Poisson kernel* by 
+For $x\in \mathbb{R}^n$ and $y>0$, we define the <em>Poisson kernel</em> by 
 \begin{equation}\nonumber
 P_y(x) = \frac{c_n y}{(|x|^2+y)^{(n+1)/2}},\quad c_n = \frac{\Gamma((n+1)/2)}{\pi^{(n+1)/2}}. 
 \end{equation}
@@ -34,7 +34,7 @@ The Poisson kernel has several interesting properties. One of important properti
 \end{equation}
 for any $1\leq p \leq \infty$. 
 
-For a function $f:\mathbb{R}^n\rightarrow \mathbb{R}$ and $y>0$, we define $u(x,y)=(P_y*f)(x)$ and we call it the <em>Poisson integral</em> of $f$.  We write 
+For a function $f:\mathbb{R}^n\rightarrow \mathbb{R}$ and $y>0$, we define $u(x,y)=(P_y*f)(x)$ and we call it the *Poisson integral* of $f$.  We write 
 \begin{equation}
 \nonumber
 \Delta u = \sum_{j=1}^n \frac{\partial^2 u}{\partial x_j^2}+ \frac{\partial^2 u}{\partial y^2}.
@@ -43,12 +43,11 @@ Then it is easy to check that for $f\in L^p(\mathbb{R}^n)$, $1\leq p\leq \infty$
 
 Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that $(P_y *f)(x)\rightarrow f(x)$ as $y\rightarrow 0+$ if $f$ is sufficiently smooth. However, it is unclear if $f\in L^p$ because of the definition of $L^p$. To discuss the behavior of $u$ as $y\rightarrow 0+$, nontangential maximal function estimate gives an useful information. 
 </div>
+<strong> Theorem.</strong> <div> Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $A=\int_{\mathbb{R}^n} \psi dx=1$.
 
-**Theorem.** Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $u(x,y)$ be its Poisson integral. 
-
-1. <div>$\sup_{y>0} |u(x,y)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.</div>
-2. $\lim_{y\rightarrow 0+} u(x,y)=f(x)$ for almost every $x$.
-3. If $1\leq p <\infty$, then $u(\cdot,y)\rightarrow f$ in $L^p$ as $y\rightarrow 0+$. 
+1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator.</div>
+2. <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div>
+3. <div>If $1\leq p <\infty$, then $(\psi_\varepsilon *f)\rightarrow f$ in $L^p$ as $\varepsilon\rightarrow  0+$. </div>
 
 <div>
 Proof. (1) We prove more general statement. If $\psi$ is non-negative, radial, decreasing and,  integrable, then 
@@ -82,11 +81,10 @@ $$\begin{aligned}   -\sigma(\mathbb{S}^{n-1})\int_0^\infty \frac{r^n}{n} \psi'(r
 \end{aligned}$$
 This implies that 
 $$ (\psi*f)(0)\leq \left(\int_{\mathbb{R}^n} \psi(x) dx\right) Mf(0).$$
-This completes the proof. 
-</div>
+This completes the proof of (1).
 
- 
+To show (2), suppose first that $1\leq p<\infty$ and let $\varepsilon>0$ be given. Since $C_c^\infty$ is dense in $L^p$, there exists $f_1 \in C_c^\infty$ such that $\Vert f-f_1 \Vert_{L^p}<\varepsilon$. Note that $f_1*\psi_\eta \rightarrow f_1$ uniformly as $\eta\rightarrow 0$. 
+</div>
 
 #### References
 1. E. M. Stein, Singular integrals... 
- 
