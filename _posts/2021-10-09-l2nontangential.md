@@ -26,7 +26,7 @@ In this section, we consider the Dirichlet problem for the Poisson equation in $
 
 For $x\in \mathbb{R}^n$ and $y>0$, we define the <em>Poisson kernel</em> by 
 \begin{equation}\nonumber
-P_y(x) = \frac{c_n y}{(|x|^2+y)^{(n+1)/2}},\quad c_n = \frac{\Gamma((n+1)/2)}{\pi^{(n+1)/2}}. 
+P_y(x) = \frac{c_n y}{(|x|^2+y^2)^{(n+1)/2}},\quad c_n = \frac{\Gamma((n+1)/2)}{\pi^{(n+1)/2}}. 
 \end{equation}
 The Poisson kernel has several interesting properties. One of important properties is that $\int_{\mathbb{R}^n} P_y(x)dx=1$ for any $y>0$. Hence by Young's convolution theorem, we see that 
 \begin{equation}
@@ -80,7 +80,32 @@ This implies that
 $$ (\psi*f)(0)\leq \left(\int_{\mathbb{R}^n} \psi(x) dx\right) Mf(0).$$
 This completes the proof of (1).
 
-To show (2), suppose first that $1\leq p<\infty$ and let $\varepsilon>0$ be given. Since $C_c^\infty$ is dense in $L^p$, there exists $f_1 \in C_c^\infty$ such that $\Vert f-f_1 \Vert_{L^p}<\varepsilon$. Note that $f_1*\psi_\eta \rightarrow f_1$ uniformly as $\eta\rightarrow 0$. 
+To show (2), suppose first that $1\leq p<\infty$. Define 
+$$ \Omega f(x) = \limsup_{\eta\rightarrow 0+} (\psi_\eta * f)(x)-\liminf_{\eta\rightarrow 0+} (\psi_\eta * f)(x).  $$
+By (1), we have $\Omega(x)\leq 2Mf(x)$.  If $p=1$, then for any $\eta>0$, it follows from the weak $L^1$-bound of maximal function that 
+$$ |\{x : \Omega f(x)>\eta \}| \leq |\{ x : Mf(x)>\eta/2 \}|\leq C\eta^{-1}\Vert f \Vert_{L^1}.   $$
+If $1<p<\infty$, then for any $\eta>0$, it follows from the $L^p$-boundedness of maximal function and Chebyshev's inequality that 
+\begin{align*} 
+|\{ x : \Omega f(x) > \eta \}| &\leq |\{ x : Mf (x)>\eta/2 \}| \\
+&\leq C \eta^{-p} \Vert Mf \Vert_{L^p}^p \\
+&\leq C \eta^{-p} \Vert f \Vert_{L^p}^p. 
+\end{align*}
+From these estimate, we prove (2). Let $\varepsilon>0$ be given. Then there exists $f_1 \in C_c^\infty$ such that $f=f_1+f_2$, where $\Vert f_2 \Vert_{L^p}<\varepsilon$. Since $f_1 \in C_c^\infty$, it follows that $f_1 *\varphi_\eta \rightarrow f_1$ as $\eta\rightarrow 0+$. Hence $\Omega f_1=0$.  When $p=1$, there exists a constant $C>0$ such that
+$$|\{\Omega f >\alpha\}| \leq |\{\Omega f_2>\alpha\}| \leq \frac{C}{\alpha}\Vert{f_2}\Vert_{L^{1}}\leq \frac{C\eta}{\alpha}  $$
+for all $\alpha>0$. Similarly, when $1<p<\infty$, there exists a constant $C>0$ such that
+$$|\{\Omega f >\alpha\}| \leq |\{\Omega f_2>\alpha\}| \leq \frac{C}{\alpha^p}\Vert{f_2}\Vert_{L^{p}}^p\leq \frac{C\eta^p}{\alpha^p}  $$
+for all $\alpha>0$. Hence if we choose sufficiently small $\eta>0$, then we conclude that 
+$$   |\{\Omega f >\alpha\}|=0  $$
+for all $\alpha>0$, which proves that $|\{ \Omega f>0 \}|=0$. Hence $\Omega f=0$ a.e. on $\mathbb{R}^n$. This proves that $f*\varphi_\eta\rightarrow f$ a.e. as $\eta\rightarrow 0+$. 
+
+If $p=\infty$, fix a ball $B$. We show that $f*\varphi_\eta\rightarrow f$ a.e. $x\in B$. Let $B_1$ be any other ball which strictly contains $B$, and let $\delta=\mathrm{dist}(B,B_1^c)$. Let $f_1=f\chi_{B_1}$ and $f_2=f-f_1$. Then $f_1 \in L^1$ and $\Omega f_1=0$ a.e. on $\mathbb{R}^d$ by the previous step. Note also  that for $x\in B$, we have 
+\begin{align*}
+|(f_2 *\varphi_\eta)(x)|&\leq \int_{|y|\geq \delta>0} | f_2(x-y)| |\varphi_\eta(y)|dy\\
+&\leq \Vert f \Vert_{L^\infty} \int_{|y|\geq \delta/\eta} |\varphi(y)|dy.
+\end{align*}
+Since $\varphi \in L^1$, it follows from the absolute continuity that $|(f_2*\varphi_\eta)(x)|\rightarrow 0$ as $\eta\rightarrow 0$. Since $\Omega f\leq \Omega f_1+\Omega f_2$, it follows that $\Omega f=0$ a.e. on $x\in B$. This completes the proof of (2).
+
+(3) follows from the standard mollifier technique which could be found in a standard real analysis textbook.
 </div>
 
 #### References
