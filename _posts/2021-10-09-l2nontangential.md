@@ -121,7 +121,7 @@ $$ \lim_{y\rightarrow 0+} u(x,y)=f(x)\quad \text{a.e. on } x\in \mathbb{R}^n.$$
 In this section, we list several well-known facts regarding Lipschitz domains that will be used in the next section. 
 
 <div>
-We say that a domain $\Omega$ is a Lipschitz domain if for each $q\in \partial\Omega$, there exist a rectangular coordinate system $(x,s)$, $x\in \mathbb{R}^{n-1}$, $s\in \mathbb{R}$, a neighborhood$, $U_q \subset \mathbb{R}^n$ containing $q$ and a function $\varphi_q = \varphi : \mathbb{R}^{n-1}\rightarrow \mathbb{R}$ such that 
+We say that a domain $\Omega$ is a Lipschitz domain if for each $q\in \partial\Omega$, there exist a rectangular coordinate system $(x,s)$, $x\in \mathbb{R}^{n-1}$, $s\in \mathbb{R}$, a neighborhood, $U_q \subset \mathbb{R}^n$ containing $q$ and a function $\varphi_q = \varphi : \mathbb{R}^{n-1}\rightarrow \mathbb{R}$ such that 
 </div>
 1. There exists a constant $C>0$ such that $|\varphi(x)-\varphi(y)|\leq C|x-y|$ for all $x,y \in \mathbb{R}^{n-1}$,
 2. $U\cap \Omega = \{ (x,s): x>\varphi(x)\}\cap U$. 
@@ -165,7 +165,9 @@ u^*_i(z) &=N(u,\Gamma_i)(z)=\sup_{x\in \Gamma_i(z)}|u(x)|,\\
 u^*_e(z) &=N(u,\Gamma_e)(z)=\sup_{x\in \Gamma_e(z)}|u(x)|
 \end{align*}
 for $z\in \partial\Omega$. We call these functions as nontangential maximal functions. 
-</div>
+</div><br>
+
+Finally, we end this section by introducing well-known approximation scheme of Lipschitz domains. 
 
 #### References
 1. E. M. Stein, Singular integrals... 
