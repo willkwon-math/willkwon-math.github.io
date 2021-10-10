@@ -125,8 +125,8 @@ In this section, we list several well-known facts regarding Lipschitz domains th
 <div>
 We say that a domain $\Omega$ is a Lipschitz domain if for each $q\in \partial\Omega$, there exist a rectangular coordinate system $(x,s)$, $x\in \mathbb{R}^{n-1}$, $s\in \mathbb{R}$, a neighborhood, $U_q \subset \mathbb{R}^n$ containing $q$ and a function $\varphi_q = \varphi : \mathbb{R}^{n-1}\rightarrow \mathbb{R}$ such that 
 </div>
-1. <div>There exists a constant $C>0$ such that $|\varphi(x)-\varphi(y)|\leq C|x-y|$ for all $x,y \in \mathbb{R}^{n-1}$</div>,
-2. <div>$U\cap \Omega = \{ (x,s): x>\varphi(x)\}\cap U$</div>. 
+1. <div>There exists a constant $C>0$ such that $|\varphi(x)-\varphi(y)|\leq C|x-y|$ for all $x,y \in \mathbb{R}^{n-1}$,</div>
+2. <div>$U\cap \Omega = \{ (x,s): x>\varphi(x)\}\cap U$.</div> 
 
 The coordinate systems may always be taken to be a rotation and translation of the standard rectangular coordinates for $\mathbb{R}^n$. 
 
@@ -139,7 +139,8 @@ By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylind
 3. <div> There is an associated function $\varphi=\varphi_Z:\mathbb{R}^{n-1}\rightarrow \mathbb{R}$ that is Lipschitz, i.e., $|\varphi(x)-\varphi(y)|\leq C |x-y|$, $C=C_Z<\infty$ for all $x, y \in \mathbb{R}^{n-1}$. </div>
 4. $Z\cap \Omega = Z\cap \{(x,s) : s >\varphi(x)\}$
 5. $Q=(0,\varphi(0))$
-The pair $(Z,\varphi)$ is called a *coordinate pair*. For any positive number, $\nu$, <div>$\nu Z_r(q)$</div> will denote the cylinder $\{x\in \mathbb{R}^n : q+(x-q)/\nu \in Z \}$, i.e., the dilation of $Z$ about $q$ by a factor $\nu$. 
+
+  <div>The pair $(Z,\varphi)$ is called a <em>coordinate pair</em>. For any positive number, $\nu$, $\nu Z_r(q)$ will denote the cylinder $\{x\in \mathbb{R}^n : q+(x-q)/\nu \in Z \}$, i.e., the dilation of $Z$ about $q$ by a factor $\nu$. </div>
 
 <div>
 Since $\Omega$ is a bounded Lipschitz domain, it follows from the compactness of $\partial\Omega$ that we can cover the boundary by finitely many coordinate cylinders, say $Z_1$, $Z_2$, ..., $Z_N$. We may choose such cylinders by enlarging these for a later purpose. We also choose our coordinate functions $\varphi_j$ to have compact support in $\mathbb{R}^{n-1}$. Also, there exists a number $M>0$ such that $\max_{1\leq j\leq N} \Vert \nabla \varphi_j \Vert_{L^\infty} \leq M$. The smallest such number is called the Lipschitz constant for $\Omega$.
