@@ -123,13 +123,13 @@ In this section, we list several well-known facts regarding Lipschitz domains th
 <div>
 We say that a domain $\Omega$ is a Lipschitz domain if for each $q\in \partial\Omega$, there exist a rectangular coordinate system $(x,s)$, $x\in \mathbb{R}^{n-1}$, $s\in \mathbb{R}$, a neighborhood, $U_q \subset \mathbb{R}^n$ containing $q$ and a function $\varphi_q = \varphi : \mathbb{R}^{n-1}\rightarrow \mathbb{R}$ such that 
 </div>
-1. There exists a constant $C>0$ such that $|\varphi(x)-\varphi(y)|\leq C|x-y|$ for all $x,y \in \mathbb{R}^{n-1}$,
-2. $U\cap \Omega = \{ (x,s): x>\varphi(x)\}\cap U$. 
+1. <div>There exists a constant $C>0$ such that $|\varphi(x)-\varphi(y)|\leq C|x-y|$ for all $x,y \in \mathbb{R}^{n-1}$</div>,
+2. <div>$U\cap \Omega = \{ (x,s): x>\varphi(x)\}\cap U$</div>. 
 
 The coordinate systems may always be taken to be a rotation and translation of the standard rectangular coordinates for $\mathbb{R}^n$. 
 
 <div>
-By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylinder centered at $x\in \mathbb{R}^n$ with radius equal to $r$. A coordinate cylinder $Z=Z_r(x), $x\partial\Omega$, will be defined by the following properties
+By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylinder centered at $x\in \mathbb{R}^n$ with radius equal to $r$. A coordinate cylinder $Z=Z_r(x)$, $x\partial\Omega$, will be defined by the following properties
 </div>
 
 1. The bases of $Z$ have positive distance from $\partial\Omega$.
@@ -147,15 +147,20 @@ To discuss the nontangential behavior of functions, it is useful to consider con
 
 <div>
 By a cone, it is an open, circular, doubly truncated cone with two non-empty, convex components. If $q\in \partial\Omega$, $\Gamma(q)$ will denote a cone with vertex at $q$ and one component in $\Omega$ and the other in $\mathbb{R}^n\setminus \overline{\Omega}$. The component interior to $\Omega$ will be denoted by $\Gamma_i(q)$ and the component exterior to $\overline{\Omega}$ is denoted by $\Gamma_e(q)$. 
-</div><br>
+</div>
+  
+<br>
 
-We say that a family of cones $\{\Gamma(q) : q\in \partial\Omega \}$ is *regular* if there is a finite covering of $\partial\Omega$ by coordinate cylinders as described above, such that for each <div> $(Z_r,\varphi)$, there are three cones $\alpha,\beta$, and $\gamma$, each with vertex at the origin and axis along the axis of $Z$ such that 
+<div>
+  We say that a family of cones $\{\Gamma(q) : q\in \partial\Omega \}$ is <em>regular</em> if there is a finite covering of $\partial\Omega$ by coordinate cylinders as described above, such that for each <div> $(Z_r,\varphi)$, there are three cones $\alpha,\beta$, and $\gamma$, each with vertex at the origin and axis along the axis of $Z$ such that 
 $$ \alpha \subset \overline{\beta}\setminus \{0\}\subset \gamma$$ 
 and for all $(x,\varphi(x))=q\in (4/5)Z^*\cap \partial\Omega$, 
 $$ \alpha + q \subset \Gamma(q)\subset \overline{\Gamma(q)}\setminus \{q\}\subset \beta +q, $$ 
 $$(\gamma+q)_i \subset \Omega \cap Z^*,\quad \text{and}\quad (\gamma+q)_e \subset Z^*\cap \overline{\Omega}$$
 
-</div><br>
+</div>
+  
+<br>
 
 <div>
 Given a function $u$, we define $u^*$, $u^*_i$, $u^*_e$ by 
@@ -165,7 +170,9 @@ u^*_i(z) &=N(u,\Gamma_i)(z)=\sup_{x\in \Gamma_i(z)}|u(x)|,\\
 u^*_e(z) &=N(u,\Gamma_e)(z)=\sup_{x\in \Gamma_e(z)}|u(x)|
 \end{align*}
 for $z\in \partial\Omega$. We call these functions as nontangential maximal functions. 
-</div><br>
+</div>
+  
+ <br>
 
 Finally, we end this section by introducing well-known approximation scheme of Lipschitz domains. 
 
