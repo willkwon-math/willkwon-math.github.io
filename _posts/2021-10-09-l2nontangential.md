@@ -192,6 +192,8 @@ Finally, we end this section by introducing well-known approximation scheme of L
   
   
 #### References 
-  
-1. E. M. Stein, Singular integrals... 
-2. G. Verchota, Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains. 
+
+<ol>
+  <li> E. M. Stein, Singular integrals... </li>
+  <li> G. Verchota, Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains. </li>
+</ol>
