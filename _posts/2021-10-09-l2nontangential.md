@@ -7,8 +7,9 @@ date:   2021-10-10 10:00:40
   
 #### Table of Contents
 1. [Introduction](#introduction) 
-2. [Dirichlet problem for the Poisson equation in half-space](#DirichletproblemforthePoissonequationinhalfspace)
-3. [Lipschitz domains](#Lipschitzdomain)
+2. [Dirichlet problem for the Poisson equation in half space](#dirichlet-problem-for-the-Poisson-equation-in-half-space)
+3. [Lipschitz domains](#lipschitz-domain)
+4. [References](#references)
 
 #### Introduction
 
@@ -177,10 +178,10 @@ for $z\in \partial\Omega$. We call these functions as nontangential maximal func
   
  <br>
 
-Finally, we end this section by introducing well-known approximation scheme of Lipschitz domains. 
-
-<strong> Theorem. </strong> Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Then the following hold:
+Finally, we end this section by introducing well-known approximation scheme of Lipschitz domains.<br> 
+  
 <div>
+<strong> Theorem. </strong> Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Then the following hold:
   <ol>
 <li>There is a regular family of cones $\{\Gamma\}$ for $\Omega$ as described in the above.</li>
 <li> There is a sequence of $C^\infty$ domains, $\Omega_j\subset \Omega$ and homeomorphisms, $\Lambda_j:\partial\Omega\rightarrow \partial\Omega_j$ such that $\sup_{z\in \partial\Omega} | z-\Lambda_j(z)|\rightarrow 0$ as $j\rightarrow \infty$ and for all $j$ and all $z\in \partial\Omega$, $\Lambda_j(z)\in \Gamma_i(z)$, </li>
@@ -190,6 +191,9 @@ Finally, we end this section by introducing well-known approximation scheme of L
 <li>  There exist $C^\infty$ vector fields $\mathbf{h}$, in $\mathbb{R}^n$ such that for all $j$ and $z\in \partial\Omega$, $\left<\mathbf{h}(\Lambda_j(z)),N(\Lambda_j(z)) \right>\geq C>0$, where $C$ depends only on $\mathbf{h}$ and the Lipschitz constant for $\Omega$.  </li>
 </ol>
   </div>
+
+ Proof of the above approximation scheme can be found in the Ph.D. of Verchota. 
+  
   
 #### References
 1. E. M. Stein, Singular integrals... 
