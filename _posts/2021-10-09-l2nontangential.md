@@ -5,11 +5,7 @@ title:  "On some famous theorem on nontangential maximal functions of harmonic f
 date:   2021-10-10 10:00:40 
 ---
   
-#### Table of Contents
-1. [Introduction](#introduction) 
-2. [Dirichlet problem for the Poisson equation in half space](#dirichlet-problem-for-the-Poisson-equation-in-half-space)
-3. [Lipschitz domains](#lipschitz-domain)
-4. [References](#references)
+{:toc}
 
 #### Introduction
 
