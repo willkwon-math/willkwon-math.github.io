@@ -188,10 +188,10 @@ Finally, we end this section by introducing well-known approximation scheme of L
 </ol>
   </div>
 
- Proof of the above approximation scheme can be found in the Ph.D. dissertation of Verchota. 
+ Proof of the above approximation scheme can be found in the Ph.D. dissertation of Verchota. <br>
   
   
-#### References
+#### References 
   
 1. E. M. Stein, Singular integrals... 
 2. G. Verchota, Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains. 
