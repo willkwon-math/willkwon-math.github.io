@@ -103,10 +103,47 @@ If $p=\infty$, fix a ball $B$. We show that $f*\varphi_\eta\rightarrow f$ a.e. $
 |(f_2 *\varphi_\eta)(x)|&\leq \int_{|y|\geq \delta>0} | f_2(x-y)| |\varphi_\eta(y)|dy\\
 &\leq \Vert f \Vert_{L^\infty} \int_{|y|\geq \delta/\eta} |\varphi(y)|dy.
 \end{align*}
-Since $\varphi \in L^1$, it follows from the absolute continuity that $|(f_2*\varphi_\eta)(x)|\rightarrow 0$ as $\eta\rightarrow 0$. Since $\Omega f\leq \Omega f_1+\Omega f_2$, it follows that $\Omega f=0$ a.e. on $x\in B$. This completes the proof of (2).
+Since $\varphi \in L^1$, it follows from the absolute continuity that $|(f_2*\varphi_\eta)(x)|\rightarrow 0$ as $\eta\rightarrow 0$. Since $\Omega f\leq \Omega f_1+\Omega f_2$, it follows that $\Omega f=0$ a.e. on $x\in B$. This completes the proof of (2).</br>
 
 (3) follows from the standard mollifier technique which could be found in a standard real analysis textbook.
 </div>
+<hr>
+<div>
+It is easy to see that $P_1 (x)$ satisfies the desired property of $\psi$ in the above theorem. Also, $P_y(x)=y^{-n}P_1(x/y)$. Hence we conclude that the Poisson integral of $f \in L^p$ satisfies the following Dirichlet problem in $\mathbb{R}^{n+1}_+$:
+$$ \Delta u=0\quad \text{in } \mathbb{R}^{n+1}_+,\quad u=f\quad \text{on } \mathbb{R}^{n}. $$
+Here we interpret the boundary condition as 
+$$ \lim_{y\rightarrow 0+} u(x,y)=f(x)\quad \text{a.e. on } x\in \mathbb{R}^n.$$
+</div>
+
+
+#### Lipschitz domains
+
+In this section, we list several well-known facts regarding Lipschitz domains that will be used in the next section. 
+
+<div>
+Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$ with boundary $\partial\Omega$. By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylinder centered at $x\in \mathbb{R}^n$ with radius equal to $r$. A coordinate cylinder $Z=Z_r(x), $x\partial\Omega$, will be defined by the following properties
+</div>
+
+1. The bases of $Z$ have positive distance from $\partial\Omega$.
+2. There is a rectangular coordinate system for $\mathbb{R}^n$, $(x,s)$, $x\in \mathbb{R}^{n-1}$, $s\in \mathbb{R}$, with $s$-axis containing the axis of $Z$.
+3. <div> There is an associated function $\varphi=\varphi_Z:\mathbb{R}^{n-1}\rightarrow \mathbb{R}$ that is Lipschitz, i.e., $|\varphi(x)-\varphi(y)|\leq C |x-y|$, $C=C_Z<\infty$ for all $x, y \in \mathbb{R}^{n-1}$. </div>
+4. $Z\cap \Omega = Z\cap \{(x,s) : s >\varphi(x)\}$
+5. $Q=(0,\varphi(0))$
+The pair $(Z,\varphi)$ is called a *coordinate pair*. For any positive number, $\nu$, <div>$\nu Z_r(q)$</div> will denote the cylinder $\{x\in \mathbb{R}^n : q+(x-q)/\nu \in Z \}$, i.e., the dilation of $Z$ about $q$ by a factor $\nu$. 
+
+<div>
+Since $\Omega$ is a bounded Lipschitz domain, it follows from the compactness of $\partial\Omega$ that we can cover the boundary by finitely many coordinate cylinders, say $Z_1$, $Z_2$, ..., $Z_N$. We may choose such cylinders by enlarging these for a later purpose. We also choose our coordinate functions $\varphi_j$ to have compact support in $\mathbb{R}^{n-1}$. Also, there exists a number $M>0$ such that $\max_{1\leq j\leq N} \Vert \nabla \varphi_j \Vert_{L^\infty} \leq M$. The smallest such number is called the Lipschitz constant for $\Omega$.
+</div>
+
+To discuss the nontangential behavior of functions, it is useful to consider cones associated to the domains since we are working on Lipschitz domains. <br>
+
+<div>
+By a cone, it is an open, circular, doubly truncated cone with two non-empty, convex components. If $q\in \partial\Omega$, $\Gamma(q)$ will denote a cone with vertex at $q$ and one component in $\Omega$ and the other in $\mathbb{R}^n\setminus \overline{\Omega}$. The component interior to $\Omega$ will be denoted by $\Gamma_i(q)$ and the component exterior to $\overline{\Omega}$ is denoted by $\Gamma_e(q)$. 
+</div>
+
+We say that a family of cones $\{\Gamma(q) : q\in \partial\Omega \}$ is *regular* if there is a finite covering of $\partial\Omega$ by coordinate cylinders as described above, such that 
+
 
 #### References
 1. E. M. Stein, Singular integrals... 
+2. G. Verchota, Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains. 
