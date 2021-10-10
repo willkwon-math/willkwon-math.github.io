@@ -121,7 +121,15 @@ $$ \lim_{y\rightarrow 0+} u(x,y)=f(x)\quad \text{a.e. on } x\in \mathbb{R}^n.$$
 In this section, we list several well-known facts regarding Lipschitz domains that will be used in the next section. 
 
 <div>
-Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$ with boundary $\partial\Omega$. By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylinder centered at $x\in \mathbb{R}^n$ with radius equal to $r$. A coordinate cylinder $Z=Z_r(x), $x\partial\Omega$, will be defined by the following properties
+We say that a domain $\Omega$ is a Lipschitz domain if for each $q\in \partial\Omega$, there exist a rectangular coordinate system $(x,s)$, $x\in \mathbb{R}^{n-1}$, $s\in \mathbb{R}$, a neighborhood$, $U_q \subset \mathbb{R}^n$ containing $q$ and a function $\varphi_q = \varphi : \mathbb{R}^{n-1}\rightarrow \mathbb{R}$ such that 
+</div>
+1. There exists a constant $C>0$ such that $|\varphi(x)-\varphi(y)|\leq C|x-y|$ for all $x,y \in \mathbb{R}^{n-1}$,
+2. $U\cap \Omega = \{ (x,s): x>\varphi(x)\}\cap U$. 
+
+The coordinate systems may always be taken to be a rotation and translation of the standard rectangular coordinates for $\mathbb{R}^n$. 
+
+<div>
+By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylinder centered at $x\in \mathbb{R}^n$ with radius equal to $r$. A coordinate cylinder $Z=Z_r(x), $x\partial\Omega$, will be defined by the following properties
 </div>
 
 1. The bases of $Z$ have positive distance from $\partial\Omega$.
@@ -133,16 +141,31 @@ The pair $(Z,\varphi)$ is called a *coordinate pair*. For any positive number, $
 
 <div>
 Since $\Omega$ is a bounded Lipschitz domain, it follows from the compactness of $\partial\Omega$ that we can cover the boundary by finitely many coordinate cylinders, say $Z_1$, $Z_2$, ..., $Z_N$. We may choose such cylinders by enlarging these for a later purpose. We also choose our coordinate functions $\varphi_j$ to have compact support in $\mathbb{R}^{n-1}$. Also, there exists a number $M>0$ such that $\max_{1\leq j\leq N} \Vert \nabla \varphi_j \Vert_{L^\infty} \leq M$. The smallest such number is called the Lipschitz constant for $\Omega$.
-</div>
+</div><br>
 
 To discuss the nontangential behavior of functions, it is useful to consider cones associated to the domains since we are working on Lipschitz domains. <br>
 
 <div>
 By a cone, it is an open, circular, doubly truncated cone with two non-empty, convex components. If $q\in \partial\Omega$, $\Gamma(q)$ will denote a cone with vertex at $q$ and one component in $\Omega$ and the other in $\mathbb{R}^n\setminus \overline{\Omega}$. The component interior to $\Omega$ will be denoted by $\Gamma_i(q)$ and the component exterior to $\overline{\Omega}$ is denoted by $\Gamma_e(q)$. 
+</div><br>
+
+We say that a family of cones $\{\Gamma(q) : q\in \partial\Omega \}$ is *regular* if there is a finite covering of $\partial\Omega$ by coordinate cylinders as described above, such that for each <div> $(Z_r,\varphi)$, there are three cones $\alpha,\beta$, and $\gamma$, each with vertex at the origin and axis along the axis of $Z$ such that 
+$$ \alpha \subset \overline{\beta}\setminus \{0\}\subset \gamma$$ 
+and for all $(x,\varphi(x))=q\in (4/5)Z^*\cap \partial\Omega$, 
+$$ \alpha + q \subset \Gamma(q)\subset \overline{\Gamma(q)}\setminus \{q\}\subset \beta +q, $$ 
+$$(\gamma+q)_i \subset \Omega \cap Z^*,\quad \text{and}\quad (\gamma+q)_e \subset Z^*\cap \overline{\Omega}$$
+
+</div><br>
+
+<div>
+Given a function $u$, we define $u^*$, $u^*_i$, $u^*_e$ by 
+\begin{align*}
+u^*(z) &=N(u,\Gamma)(z)=\sup_{x\in \Gamma(z)}|u(x)|,\\
+u^*_i(z) &=N(u,\Gamma_i)(z)=\sup_{x\in \Gamma_i(z)}|u(x)|,\\
+u^*_e(z) &=N(u,\Gamma_e)(z)=\sup_{x\in \Gamma_e(z)}|u(x)|
+\end{align*}
+for $z\in \partial\Omega$. We call these functions as nontangential maximal functions. 
 </div>
-
-We say that a family of cones $\{\Gamma(q) : q\in \partial\Omega \}$ is *regular* if there is a finite covering of $\partial\Omega$ by coordinate cylinders as described above, such that 
-
 
 #### References
 1. E. M. Stein, Singular integrals... 
