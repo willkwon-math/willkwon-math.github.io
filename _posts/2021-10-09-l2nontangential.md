@@ -189,6 +189,7 @@ Finally, we end this section by introducing well-known approximation scheme of L
 <li>  The normal vectors to $\Omega_j$, $N(\Lambda_j(z))$ converges pointwise a.e. and in every $L^q(\partial\Omega)$, $1\leq q<\infty$, to $N(z)$. An analogous statement holds for locally defined tangent vectors. </li>
 <li>  There exist $C^\infty$ vector fields $\mathbf{h}$, in $\mathbb{R}^n$ such that for all $j$ and $z\in \partial\Omega$, $\left<\mathbf{h}(\Lambda_j(z)),N(\Lambda_j(z)) \right>\geq C>0$, where $C$ depends only on $\mathbf{h}$ and the Lipschitz constant for $\Omega$.  </li>
 </ol>
+  </div>
   
 #### References
 1. E. M. Stein, Singular integrals... 
