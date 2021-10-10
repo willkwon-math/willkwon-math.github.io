@@ -140,7 +140,7 @@ By a cylinder $Z_r(x)$, we mean an open, right circular, doubly truncated cylind
 4. $Z\cap \Omega = Z\cap \{(x,s) : s >\varphi(x)\}$
 5. $Q=(0,\varphi(0))$
 
-  <div>The pair $(Z,\varphi)$ is called a <em>coordinate pair</em>. For any positive number, $\nu$, $\nu Z_r(q)$ will denote the cylinder $\{x\in \mathbb{R}^n : q+(x-q)/\nu \in Z \}$, i.e., the dilation of $Z$ about $q$ by a factor $\nu$. </div>
+  <div>The pair $(Z,\varphi)$ is called a <em>coordinate pair</em>. For any positive number, $\nu$, $\nu Z_r(q)$ will denote the cylinder $\{x\in \mathbb{R}^n : q+(x-q)/\nu \in Z \}$, i.e., the dilation of $Z$ about $q$ by a factor $\nu$. </div><br>
 
 <div>
 Since $\Omega$ is a bounded Lipschitz domain, it follows from the compactness of $\partial\Omega$ that we can cover the boundary by finitely many coordinate cylinders, say $Z_1$, $Z_2$, ..., $Z_N$. We may choose such cylinders by enlarging these for a later purpose. We also choose our coordinate functions $\varphi_j$ to have compact support in $\mathbb{R}^{n-1}$. Also, there exists a number $M>0$ such that $\max_{1\leq j\leq N} \Vert \nabla \varphi_j \Vert_{L^\infty} \leq M$. The smallest such number is called the Lipschitz constant for $\Omega$.
@@ -179,6 +179,16 @@ for $z\in \partial\Omega$. We call these functions as nontangential maximal func
 
 Finally, we end this section by introducing well-known approximation scheme of Lipschitz domains. 
 
+<strong> Theorem. </strong> Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Then the following hold:
+
+1. There is a regular family of cones $\{\Gamma\}$ for $\Omega$ as described in the above.
+2. <div>There is a sequence of $C^\infty$ domains, $\Omega_j\subset \Omega$ and homeomorphisms, $\Lambda_j:\partial\Omega\rightarrow \partial\Omega_j$ such that $\sup_{z\in \partial\Omega} | z-\Lambda_j(z)|\rightarrow 0$ as $j\rightarrow \infty$ and for all $j$ and all $z\in \partial\Omega$, $\Lambda_j(z)\in \Gamma_i(z)$,</div>
+3. <div> There is a covering of $\partial\Omega$ by coordinate cylinders, $Z$, so that given a coordinate pair $(Z,\varphi)$, then $Z^*\cap\partial\Omega_j$ is given for each $j$ as the graph of a $C^\infty$ function $\varphi_j$ such that $\varphi_j\rightarrow \varphi$ uniformly, $\Vert \nabla \varphi_j \Vert_{L^\infty} \leq \Vert \nabla \varphi \Vert_{L^\infty}$, and $\nabla \varphi_j\rightarrow \nabla \varphi$ pointwise a.e. and in every $L^q(Z^*\cap \mathbb{R}^{n-1})$, $1\leq q<\infty$. </div>
+4. <div>There are positive functions $\omega_j : \partial\Omega \rightarrow \mathbb{R}_+$ bounded away from zero and infinity uniformly in $j$ such that for any measurable set $E\subset \partial\Omega$, $\int_E \omega_j d\sigma=\int_{\Lambda_j(E)} d\sigma_j$, and so that $\omega_j\rightarrow 1$ pointwise a.e. and in every $L^q(\partial\Omega)$, $1\leq q<\infty$.</div>
+5. <div>The normal vectors to $\Omega_j$, $N(\Lambda_j(z))$ converges pointwise a.e. and in every $L^q(\partial\Omega)$, $1\leq q<\infty$, to $N(z)$. An analogous statement holds for locally defined tangent vectors.</div>
+6. <div>There exist $C^\infty$ vector fields $\mathbf{h}$, in $\mathbb{R}^n$ such that for all $j$ and $z\in \partial\Omega$, $\left<\mathbf{h}(\Lambda_j(z)),N(\Lambda_j(z)) \right>\geq C>0$, where $C$ depends only on $\mathbf{h}$ and the Lipschitz constant for $\Omega$. </div>
+  
+  
 #### References
 1. E. M. Stein, Singular integrals... 
 2. G. Verchota, Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains. 
