@@ -7,7 +7,7 @@ date:   2021-10-10 10:00:40
   
 {:toc}
 
-#### Introduction
+# Introduction
 
 Maximal functions are naturally introduced when someone wants to study the pointwise convergence of functions. In particular, nontangential maximal functions are naturally used when we want to analyze a nontangential behavior of a function. 
 
@@ -19,7 +19,7 @@ According to some literature, this theorem was shown by Dahlberg. Since I am not
 
 The organization of this post is as follows. We first present the role of nontangential maximal function to study the Dirichlet problem for Poisson equation in half-space. 
 
-#### Dirichlet problem for the Poisson equation in half-space
+# Dirichlet problem for the Poisson equation in half-space
 <div>
 In this section, we consider the Dirichlet problem for the Poisson equation in $\mathbb{R}^{n+1}_+$, where $\mathbb{R}^{n+1}_+ =\{ (x,y) : x\in \mathbb{R}^n, y>0 \}$. 
 
@@ -115,7 +115,7 @@ $$ \lim_{y\rightarrow 0+} u(x,y)=f(x)\quad \text{a.e. on } x\in \mathbb{R}^n.$$
 </div>
 
 
-#### Lipschitz domains
+# Lipschitz domains
 
 In this section, we list several well-known facts regarding Lipschitz domains that will be used in the next section. 
 
@@ -191,7 +191,7 @@ Finally, we end this section by introducing well-known approximation scheme of L
  Proof of the above approximation scheme can be found in the Ph.D. dissertation of Verchota. <br>
   
   
-#### References 
+# References 
 
 <ol>
   <li> E. M. Stein, Singular integrals... </li>
