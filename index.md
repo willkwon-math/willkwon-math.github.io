@@ -69,7 +69,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
 </details>
 
 ## Events
-- Alumni workshop for stupid mathematics in korea, co-organized with D. Y. Ko and B. Sohn, February 2022.
+- Alumni workshop for stupid mathematics in Korea, co-organized with D. Y. Ko and B. Sohn, February 2022.
 - [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), co-organized with S. Ryoo, H. Kim, and Y. Lee, July 2018.
  
 
