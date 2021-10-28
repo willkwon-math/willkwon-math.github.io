@@ -284,8 +284,8 @@ Then for $\varepsilon>0$, we have
 It is easy to check that there exists a constant $C$ depending only on $n$ and the Lipschitz character of $\Omega$ such that  
 $$  \left|\int_{V_{\varepsilon}^i(x')\setminus U_\varepsilon^i(x')} K_i(x',y')g(y')dy' \right|\leq C  Mg(x') $$
 for all $\varepsilon>0$. Hence it follows from the Coifman-Meyer-McIntosh theorem that 
-$$  \Vert \sup_{\varepsilon>0}|K_\varepsilon f| \Vert \leq \sum_{i=1}^m \Vert{T_* g}\Vert_{L^p}+C\Vert Mg \Vert_{L^p} \leq C \Vert g \Vert_{L^p}\leq C \Vert f \Vert_{L^p}. $$
-This completes the proof. 
+$$  \Vert \sup_{\varepsilon>0}|K_\varepsilon f| \Vert \leq \sum_{i=1}^m \left(\Vert{T_* g_i}\Vert_{L^p}+C\Vert Mg_i \Vert_{L^p}\right) \leq C \sum_{i=1}^m \Vert g_i \Vert_{L^p}\leq C \Vert f \Vert_{L^p}. $$
+This completes the proof.  
 </div>
 
 <hr>
