@@ -245,16 +245,26 @@ Since $(Z_i,\varphi_i)$ is a coordinate pair, it follows that
 Hence if we define 
 $$ K_i(x',y')= \frac{\varphi_i(x')-\varphi_i(y')-\nabla \varphi_i(y')\cdot (x'-y')}{(|x'-y'|^2+|\varphi_i(x')-\varphi_i(y')|^2)^{n/2}},$$
 then 
-$$ K_\varepsilon f(x)=\frac{1}{n\omega_n} \sum_{i=1}^n \int_{U_\varepsilon^i(x')} K_i(x',y')\zeta_i(y',\varphi_i(y'))f(y',\varphi_i(y')) \sqrt{1+|\nabla \varphi_i(y')|^2} dy',$$
+$$ K_\varepsilon f(x)=\frac{1}{n\omega_n} \sum_{i=1}^n \int_{U_\varepsilon^i(x')} K_i(x',y')g(y')dy',$$
 where 
+$$ g_i(y')=\zeta_i(y',\varphi_i(y'))f(y',\varphi_i(y'))\sqrt{1+|\nabla \varphi_i(y')|^2} $$
+and 
 $$ U_{\varepsilon}^i(x')=\{y' : |x'-y'|^2+|\varphi_i(x')-\varphi_i(y')|^2>\varepsilon^2\}. $$
 Note that $y'\in U_{\varepsilon}^i(x)$ implies $|x'-y'|>\varepsilon /\sqrt{1+\Vert{\nabla \varphi_i}\Vert_{L^\infty}^2}$. 
-
-If we set $g_i(y')=\zeta_i(y',\varphi_i(y'))f(y',\varphi_i(y'))\sqrt{1+|\nabla \varphi_i(y')|^2}$, then we claim that 
+Furthermore, we define 
+$$ V_\varepsilon^i(x')=\{ y' : |x'-y'|>\varepsilon/\sqrt{1+\Vert \nabla \varphi_i\Vert_{L^\infty}^2}.$$
+Then it is easy to check that $U_\varepsilon^i(x')\subset V_{\varepsilon}^i(x')$. 
+We claim that 
 \begin{align*} 
 &\sup_{\varepsilon>0} \left|\int_{U_{\varepsilon}^i(x')}K_i(x',y') g(y')dy'\right|\\
-& \leq \sup_{\varepsilon>0} \int_{|x'-y'|>\varepsilon/\sqrt{1+\Vert \nabla \varphi_i \Vert_{L^\infty}^2}} K_i(x',y')|g(y')|dy'+C Mg(x').
-\end{align*}
+& \leq \sup_{\varepsilon>0} \left|\int_{|x'-y'|>\varepsilon/\sqrt{1+\Vert \nabla \varphi_i \Vert_{L^\infty}^2}} K_i(x',y') g(y')dy'\right|+C Mg(x').
+\end{align*} 
+Indeed, it follows that 
+\begin{align*} 
+&\sup_{\varepsilon>0} \left|\int_{U_{\varepsilon}^i(x')}K_i(x',y') g(y')dy'\right|\\
+& \leq \sup_{\varepsilon>0} \left|\int_{V_{\varepsilon}^i(x')} K_i(x',y')g(y')dy' \right| + \sup_{\varepsilon>0} \left|\int_{V_{\varepsilon}^i(x')\setminus U_\varepsilon^i(x')} K_i(x',y')g(y')dy' \right| .
+\end{align*} 
+
 </div>
 # References 
 
