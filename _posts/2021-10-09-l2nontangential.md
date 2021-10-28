@@ -228,13 +228,35 @@ To investigate the boundary behavior of the double layer potential operators, fo
 $$ K_\varepsilon f(x) =\frac{1}{n\omega_n} \int_{y\in \partial\Omega, |x-y|>\varepsilon} \frac{(x-y)\cdot \nu(y)}{|x-y|^n} f(y)d\sigma(y) $$
 for $x\in \partial\Omega$. 
 </div>
+<div>
+The following theorem was first shown by Calderon and later by Coifman-Meyer-McIntosh.
 <blockquote>
+
+<strong>Theorem. </strong> Suppose that $\varphi:\mathbb{R}^{n-1}\rightarrow \mathbb{R}$ is Lipschitz with compact support. For $x,y\in \mathbb{R}^{n-1}$, $x\neq y$, put 
+$$ k_j(x,y)= \frac{x_j-y_j}{(|x-y|^2+|\varphi(x)-\varphi(y)|^2)^{n/2}},\quad j=1,2,\dots,n-1 $$
+and 
+$$ k_n(x,y)=\frac{\varphi(x)-\varphi(y)}{(|x-y|^2 +|\varphi(x)-\varphi(y)|^2)^{n/2}}.$$
+Letting $k(x,y)$ stand for any $k_j$, $1\leq j,\leq n$, define 
+$$T_\varepsilon f(x)=\int_{|x-y|>\varepsilon} k(x,y)f(y)dy,\quad \varepsilon>0.$$
+Then 
+$$ T_*f(x)=\sup_{\varepsilon>0}|T_\varepsilon f(x)|$$ 
+is a bounded operator on $L^p(\mathbb{R}^{n-1})$, $1<p<\infty$. Moreover, we have 
+$$ \Vert T_* f \Vert_{L^p} \leq C \Vert f \Vert_{L^p}, $$
+where the constant $C$ depends only on  $n$, $p$, and $\Vert \nabla \varphi \Vert$. 
+
+</blockquote>
+
+As an application of the above theorem, we present the $L^p$-boundedness of truncated boundary double layer potential operator.
+
+<blockquote>
+
 
 <strong> Theorem. </strong> Let $1<p<\infty$. Then there exists a constant $C>0$ depending only on $n$, $p$, and the Lipschitz character of $\Omega$ such that 
 $$ \left\Vert {\sup_{\varepsilon>0} |K_\varepsilon f|} \right\Vert_{L^p(\partial\Omega)}\leq C \Vert f \Vert_{L^p(\partial\Omega)}$$
 for all $f\in C(\partial\Omega)$. 
 </blockquote>
-<div>
+
+
 Let $(Z_i,\varphi_i)$ be a coordinate pair associated to the Lipschitz domain $\Omega$ in $\mathbb{R}^n$, $n\geq 2$. Choose a partition of unity $\{\zeta_i\}_{i=1}^m$ so that $0\leq \zeta_i\leq 1$, smooth, finite partition of unity subordinate to the $Z_i$'s. Clearly, 
 \[  K_\varepsilon f(x)=\frac{1}{n\omega_n}\sum_{i=1}^m  \int_{y \in \partial\Omega,|x-y|>\varepsilon} \frac{(x-y)\cdot \nu(y)}{|x-y|^n}\zeta_i(y)f(y)d\sigma(y).  \]
 Since $(Z_i,\varphi_i)$ is a coordinate pair, it follows that 
@@ -254,18 +276,21 @@ Note that $y'\in U_{\varepsilon}^i(x)$ implies $|x'-y'|>\varepsilon /\sqrt{1+\Ve
 Furthermore, we define 
 $$ V_\varepsilon^i(x')=\{ y' : |x'-y'|>\varepsilon/\sqrt{1+\Vert \nabla \varphi_i\Vert_{L^\infty}^2}.$$
 Then it is easy to check that $U_\varepsilon^i(x')\subset V_{\varepsilon}^i(x')$. 
-We claim that 
+Then for $\varepsilon>0$, we have 
 \begin{align*} 
-&\sup_{\varepsilon>0} \left|\int_{U_{\varepsilon}^i(x')}K_i(x',y') g(y')dy'\right|\\
-& \leq \sup_{\varepsilon>0} \left|\int_{|x'-y'|>\varepsilon/\sqrt{1+\Vert \nabla \varphi_i \Vert_{L^\infty}^2}} K_i(x',y') g(y')dy'\right|+C Mg(x').
+&\left|\int_{U_{\varepsilon}^i(x')}K_i(x',y') g(y')dy'\right|\\
+& \leq \left|\int_{V_{\varepsilon}^i(x')} K_i(x',y')g(y')dy' \right| + \left|\int_{V_{\varepsilon}^i(x')\setminus U_\varepsilon^i(x')} K_i(x',y')g(y')dy' \right| .
 \end{align*} 
-Indeed, it follows that 
-\begin{align*} 
-&\sup_{\varepsilon>0} \left|\int_{U_{\varepsilon}^i(x')}K_i(x',y') g(y')dy'\right|\\
-& \leq \sup_{\varepsilon>0} \left|\int_{V_{\varepsilon}^i(x')} K_i(x',y')g(y')dy' \right| + \sup_{\varepsilon>0} \left|\int_{V_{\varepsilon}^i(x')\setminus U_\varepsilon^i(x')} K_i(x',y')g(y')dy' \right| .
-\end{align*} 
-
+It is easy to check that there exists a constant $C$ depending only on $n$ and the Lipschitz character of $\Omega$ such that  
+$$  \left|\int_{V_{\varepsilon}^i(x')\setminus U_\varepsilon^i(x')} K_i(x',y')g(y')dy' \right|\leq C  Mg(x') $$
+for all $\varepsilon>0$. Hence it follows from the Coifman-Meyer-McIntosh theorem that 
+$$  \Vert \sup_{\varepsilon>0}|K_\varepsilon f| \Vert \leq \sum_{i=1}^m \Vert{T_* g}\Vert_{L^p}+C\Vert Mg \Vert_{L^p} \leq C \Vert g \Vert_{L^p}\leq C \Vert f \Vert_{L^p}. $$
+This completes the proof. 
 </div>
+
+<hr>
+
+
 # References 
 
 <ol>
