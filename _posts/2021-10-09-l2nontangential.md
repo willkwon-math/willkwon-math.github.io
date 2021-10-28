@@ -42,11 +42,13 @@ Then it is easy to check that for $f\in L^p(\mathbb{R}^n)$, $1\leq p\leq \infty$
 
 Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that $(P_y *f)(x)\rightarrow f(x)$ as $y\rightarrow 0+$ if $f$ is sufficiently smooth. However, it is unclear if $f\in L^p$ because of the definition of $L^p$. To discuss the behavior of $u$ as $y\rightarrow 0+$, nontangential maximal function estimate gives an useful information. 
 </div>
+<blockquote>
 <strong> Theorem.</strong>  Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $\int_{\mathbb{R}^n} \psi dx=1$.
 
 1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator and $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.</div>
 2. <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div>
 3. <div>If $1\leq p <\infty$, then $(\psi_\varepsilon *f)\rightarrow f$ in $L^p$ as $\varepsilon\rightarrow  0+$. </div>
+</blockquote>
 
 <div>
 Proof. (1)  By scaling and translation invariance, it suffices to show that 
@@ -177,6 +179,7 @@ for $z\in \partial\Omega$. We call these functions as nontangential maximal func
 Finally, we end this section by introducing well-known approximation scheme of Lipschitz domains.<br> 
   
 <div>
+<blockquote>
 <strong> Theorem. </strong> Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Then the following hold:
   <ol>
 <li>There is a regular family of cones $\{\Gamma\}$ for $\Omega$ as described in the above.</li>
@@ -186,11 +189,73 @@ Finally, we end this section by introducing well-known approximation scheme of L
 <li>  The normal vectors to $\Omega_j$, $N(\Lambda_j(z))$ converges pointwise a.e. and in every $L^q(\partial\Omega)$, $1\leq q<\infty$, to $N(z)$. An analogous statement holds for locally defined tangent vectors. </li>
 <li>  There exist $C^\infty$ vector fields $\mathbf{h}$, in $\mathbb{R}^n$ such that for all $j$ and $z\in \partial\Omega$, $\left<\mathbf{h}(\Lambda_j(z)),N(\Lambda_j(z)) \right>\geq C>0$, where $C$ depends only on $\mathbf{h}$ and the Lipschitz constant for $\Omega$.  </li>
 </ol>
+</blockquote>
   </div>
 
  Proof of the above approximation scheme can be found in the Ph.D. dissertation of Verchota. <br>
   
-  
+# Single and double layer potentials
+
+<div>
+In this section, we define single and double layer potentials that are crucial to discuss $L^p$-solvability for Dirichlet and Neumann problems for the Poisson equation on Lipschitz domains. 
+
+Let $\Gamma$ be the fundamental solution of the Laplacian defined by 
+\begin{equation}
+\Gamma(x)=\begin{cases}
+-\frac{1}{2\pi} \log |x|,&\quad (n=2),\\
+\frac{1}{n(n-2)\omega_n} \frac{1}{|x|^{n-2}},&\quad (n\geq 3),
+\end{cases}
+\end{equation}
+where $\omega_n$ is the Euclidean volume of the unit ball in $\mathbb{R}^n$. Recall the Green formula that 
+$$ \int_\Omega u\Delta v-v\Delta u dy =\int_{\partial\Omega} u \frac{\partial v}{\partial \nu}-v\frac{\partial u}{\partial \nu} d\sigma,$$
+where  $\nu$ is the unit normal to the boundary $\partial\Omega$, $d\sigma$ is the surface measure on $\partial\Omega$  If we assume that $u$ is harmonic in $\Omega$ and $v(y)=\Gamma(x-y)$, then by the Green formula on $\Omega\setminus B_\varepsilon(x)$, we have 
+$$ \int_{\Omega\setminus B_\varepsilon(x)} u(y)\Delta \Gamma(x-y)dy=\int_{\partial(\Omega\setminus B_{\varepsilon(x)})} u(y) \frac{\partial}{\partial \nu_y}\Gamma(x-y) - \Gamma(x-y)\frac{\partial u}{\partial \nu_y}(y)d\sigma.$$
+Letting $\varepsilon \rightarrow 0$, we get 
+\begin{equation}\label{eq:green-identity-potential} -u(x)=\int_{\partial\Omega} u(y)\frac{\partial }{\partial \nu_y}\Gamma(x-y)-\Gamma(x-y) \frac{\partial u}{\partial \nu_y}(y)d\sigma(y).
+\end{equation}
+This identity motivates us to define the following operators 
+$$ \mathcal{S}f(x)=\int_{\partial\Omega} \Gamma(x-y)f(y)d\sigma(y),\quad x\in \Omega$$
+  and 
+$$ \mathcal{D}f(x)=\int_{\partial\Omega} \frac{\partial}{\partial \nu_y}\Gamma(x-y)f(y)d\sigma(y),\quad x\in \Omega.$$
+We call $\mathcal{S}f$ the single layer potential of $f$ and $\mathcal{D}f$ the double layer potential of $f$.
+
+Observe that 
+$$ \frac{\partial}{\partial \nu_y}\Gamma(x-y) =\frac{(x-y)\cdot \nu(y)}{n\omega_n |x-y|^n}. $$
+Then the double layer potential operator is given by 
+$$  \mathcal{D}f(x)=\frac{1}{n\omega_n}\int_{\partial\Omega} \frac{(x-y)\cdot \nu(y)}{|x-y|^n} f(y)d\sigma(y). $$
+
+To investigate the boundary behavior of the double layer potential operators, for each $\varepsilon>0$, we define 
+$$ K_\varepsilon f(x) =\frac{1}{n\omega_n} \int_{y\in \partial\Omega, |x-y|>\varepsilon} \frac{(x-y)\cdot \nu(y)}{|x-y|^n} f(y)d\sigma(y) $$
+for $x\in \partial\Omega$. 
+</div>
+<blockquote>
+
+<strong> Theorem. </strong> Let $1<p<\infty$. Then there exists a constant $C>0$ depending only on $n$, $p$, and the Lipschitz character of $\Omega$ such that 
+$$ \left\Vert {\sup_{\varepsilon>0} |K_\varepsilon f|} \right\Vert_{L^p(\partial\Omega)}\leq C \Vert f \Vert_{L^p(\partial\Omega)}$$
+for all $f\in C(\partial\Omega)$. 
+</blockquote>
+<div>
+Let $(Z_i,\varphi_i)$ be a coordinate pair associated to the Lipschitz domain $\Omega$ in $\mathbb{R}^n$, $n\geq 2$. Choose a partition of unity $\{\zeta_i\}_{i=1}^m$ so that $0\leq \zeta_i\leq 1$, smooth, finite partition of unity subordinate to the $Z_i$'s. Clearly, 
+\[  K_\varepsilon f(x)=\frac{1}{n\omega_n}\sum_{i=1}^m  \int_{y \in \partial\Omega,|x-y|>\varepsilon} \frac{(x-y)\cdot \nu(y)}{|x-y|^n}\zeta_i(y)f(y)d\sigma(y).  \]
+Since $(Z_i,\varphi_i)$ is a coordinate pair, it follows that 
+\begin{align*}
+&K_{\varepsilon}f(x)\\
+&=\frac{1}{n\omega_n} \sum_{i=1}^m \int_{|x'-y'|^2+|\varphi_i(x')-\varphi_i(y')|^2 >\varepsilon^2} \frac{\varphi_i(x')-\varphi_i(y')-\nabla \varphi_i(y')\cdot (x'-y')}{|x-y|^n} \zeta_i(y',\varphi_i(y'))f(y',\varphi_i(y'))\sqrt{1+|\nabla \varphi_i(y')|^2}dy'.
+\end{align*}
+Hence if we define 
+$$ K_i(x',y')= \frac{\varphi_i(x')-\varphi_i(y')-\nabla \varphi_i(y')\cdot (x'-y')}{(|x'-y'|^2+|\varphi_i(x')-\varphi_i(y')|^2)^{n/2}},$$
+then 
+$$ K_\varepsilon f(x)=\frac{1}{n\omega_n} \sum_{i=1}^n \int_{U_\varepsilon^i(x')} K_i(x',y')\zeta_i(y',\varphi_i(y'))f(y',\varphi_i(y')) \sqrt{1+|\nabla \varphi_i(y')|^2} dy',$$
+where 
+$$ U_{\varepsilon}^i(x')=\{y' : |x'-y'|^2+|\varphi_i(x')-\varphi_i(y')|^2>\varepsilon^2\}. $$
+Note that $y'\in U_{\varepsilon}^i(x)$ implies $|x'-y'|>\varepsilon /\sqrt{1+\Vert{\nabla \varphi_i}\Vert_{L^\infty}^2}$. 
+
+If we set $g_i(y')=\zeta_i(y',\varphi_i(y'))f(y',\varphi_i(y'))\sqrt{1+|\nabla \varphi_i(y')|^2}$, then we claim that 
+\begin{align*} 
+&\sup_{\varepsilon>0} \left|\int_{U_{\varepsilon}^i(x')}K_i(x',y') g(y')dy'\right|\\
+& \leq \sup_{\varepsilon>0} \int_{|x'-y'|>\varepsilon/\sqrt{1+\Vert \nabla \varphi_i \Vert_{L^\infty}^2}} K_i(x',y')|g(y')|dy'+C Mg(x').
+\end{align*}
+</div>
 # References 
 
 <ol>
