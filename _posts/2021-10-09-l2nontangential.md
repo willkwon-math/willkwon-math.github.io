@@ -1,7 +1,7 @@
 ---
 layout: post
 use_math: true
-title:  "On some famous theorem on nontangential maximal functions of harmonic functions (incomplete)"
+title:  "On some famous theorem on nontangential maximal functions of harmonic functions"
 date:   2021-10-10 10:00:40 
 ---
   
@@ -292,6 +292,14 @@ This completes the proof.
 
 By the above theorem, we can conclude that $ \lim_{\varepsilon \rightarrow 0+ }K_\varepsilon f$ exists a.e. and in $L^p(\partial\Omega)$. We define 
 $$ Kf(x)=\lim_{\varepsilon\rightarrow 0+} K_\varepsilon f(x).$$
+Moreover, we can show the following result. 
+
+<blockquote>
+<strong> Theorem 6. </strong> Let $1<p < \infty$. Then 
+$$ \lim_{x\rightarrow x_0; x\in \gamma_i(x_0)} \mathcal{D}f(x) = \left(\frac{1}{2}I+K \right)f(x_0), $$
+where $\gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \partial\Omega$. 
+
+</blockquote>
 
 
 # Nontangential behavior of harmonic function
@@ -299,7 +307,7 @@ $$ Kf(x)=\lim_{\varepsilon\rightarrow 0+} K_\varepsilon f(x).$$
 Now we are ready to present the main theorem of this post.
 
 <blockquote>
-<strong> Theorem 6. </strong> Suppose that $u$ is harmonic in $\Omega$ and $u^*\in L^2(\partial\Omega)$. Then there exists $f\in L^2(\partial\Omega)$ such that 
+<strong> Theorem 7. </strong> Suppose that $u$ is harmonic in $\Omega$ and $u^*\in L^2(\partial\Omega)$. Then there exists $f\in L^2(\partial\Omega)$ such that 
 $$ \lim_{z\in \gamma(x), z\rightarrow x} u(x)=f(x)\quad \text{a.e. } x\in \partial\Omega.$$ 
 </blockquote>
 
