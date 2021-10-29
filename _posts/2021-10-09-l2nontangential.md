@@ -290,15 +290,18 @@ This completes the proof.
 
 <hr>
 
+  <div>
 By the above theorem, we can conclude that $ \lim_{\varepsilon \rightarrow 0+ }K_\varepsilon f$ exists a.e. and in $L^p(\partial\Omega)$. We define 
 $$ Kf(x)=\lim_{\varepsilon\rightarrow 0+} K_\varepsilon f(x).$$
 Moreover, we can show the following result. 
+  </div>
 
 <blockquote>
+  <div>
 <strong> Theorem 6. </strong> Let $1<p < \infty$. Then 
 $$ \lim_{x\rightarrow x_0; x\in \gamma_i(x_0)} \mathcal{D}f(x) = \left(\frac{1}{2}I+K \right)f(x_0), $$
-where $\gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \partial\Omega$. 
-
+where $\gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \partial\Omega$.
+  </div>
 </blockquote>
 
 
@@ -307,10 +310,12 @@ where $\gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \pa
 Now we are ready to present the main theorem of this post.
 
 <blockquote>
+  <div>
 <strong> Theorem 7. </strong> Suppose that $u$ is harmonic in $\Omega$ and $u^*\in L^2(\partial\Omega)$. Then there exists $f\in L^2(\partial\Omega)$ such that 
 $$ \lim_{z\in \gamma(x), z\rightarrow x} u(x)=f(x)\quad \text{a.e. } x\in \partial\Omega.$$ 
+  </div>
 </blockquote>
-
+<div>
 Choose a sequence of smooth domains $\{\Omega_j\}$ as in Theorem 3 and let $f_j= u|_{\partial\Omega_j}$. Since $u^*\in L^2(\partial\Omega)$, it follows that $\Vert f_j \Vert_{L^2(\partial\Omega)}\leq C<\infty$. Note also that the identity
 $$ u= \mathcal{D}_j\left(\left(\frac{1}{2}I+K_j\right)^{-1}f_j \right)\quad \text{on } \Omega_j $$
 holds, where $\mathcal{D}_j$ and $K_j$ are the double layer potential and the boundary integral  operator associated to $\Omega_j$, respectively. Moreover, we have 
@@ -323,12 +328,13 @@ $$ \mathcal{D}g=u\quad \text{on } \Omega.$$
 Hence, we conclude that 
 $$\lim_{x\rightarrow x_0;x\in \gamma(x_0)} u(x)=\lim_{x\rightarrow x_0;x\in \gamma(x_0)} \mathcal{D} g(x)=\left(\frac{1}{2}I+K \right)g(x),$$
 which proves the desired result since  $\left(\frac{1}{2}I+K \right)g \in L^2(\partial\Omega)$. 
-
+</div>
 <hr>
 
-# References 
+  <strong> References </strong>
 
 <ol>
-  <li> E. M. Stein, Singular integrals... </li>
-  <li> G. Verchota, Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains. </li>
+  <li> M. Mitrea and M. Taylor, <em>Boundary layer methods for Lipschitz domains in Riemannian manifolds</em>, J. Funct. Anal. <strong>163</strong> (1999), 181-251. </li>
+  <li> E. M. Stein, <em>Singular integrals and differentiability properties of functions</em>, Princeton University Press, 1970. </li>
+  <li> G. Verchota, <em>Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains</em>, J. Funct. Anal. <strong>59</strong> (1984), 572-611. </li>
 </ol>
