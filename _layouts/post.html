@@ -5,9 +5,6 @@
   {% if page.use_math %}
     {% include mathjax.html %}
   {% endif %}
-  {% if page.comments %}
-    {% include comments.html %}
-  {% endif %}
   </head>
   <body>
     {% include header.html %}
@@ -45,6 +42,9 @@
 
       </div>
       </div>
+  {% if page.comments %}
+    {% include comments.html %}
+  {% endif %}
     </div>
 
     {% include footer.html %}
