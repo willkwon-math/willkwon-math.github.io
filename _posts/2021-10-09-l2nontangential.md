@@ -304,6 +304,9 @@ $$ \lim_{x\rightarrow x_0; x\in \Gamma_i(x_0)} \mathcal{D}f(x) = \left(\frac{1}{
 where $\Gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \partial\Omega$.
   </div>
 </blockquote>
+  
+  <br>
+  
 
 
 # Nontangential behavior of harmonic function
@@ -331,6 +334,7 @@ $$\lim_{x\rightarrow x_0;x\in \gamma(x_0)} u(x)=\lim_{x\rightarrow x_0;x\in \gam
 which proves the desired result since  $\left(\frac{1}{2}I+K \right)g \in L^2(\partial\Omega)$. 
 </div>
 <hr>
+  <br>
   
 # Remark
 
