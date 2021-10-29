@@ -18,7 +18,7 @@ When I wrote a research paper [[KK19]](https://arxiv.org/abs/1811.12619), it was
 
 According to some literature, this theorem was shown by Dahlberg. Since I am not familiar with geometric measure theory, it was hard for me to follow the essence of the proof. The purpose of this post is to prove this well-known theorem by using layer potential technique. I want to point out that the proof is not original since the proof is well-known to experts. However, I will write this post for those who are not familiar with the concept `nontangential convergence'. 
 
-The organization of this post is as follows. We first present the role of nontangential maximal function to study the Dirichlet problem for Poisson equation in half-space. 
+The organization of this post is as follows. We first present the role of nontangential maximal function to study the Dirichlet problem for Poisson equation in half-space. Next, we recall definitions of Lipschitz domains and introduce geometric objects that are useful when we study analysis on Lipschitz domains. Later, we define single and layer potentials and their mapping properties. Finally, we present a proof of the main theorem.
 
 # Dirichlet problem for the Poisson equation in half-space
 <div>
@@ -309,7 +309,9 @@ where $\Gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \pa
   
 
 
-# Nontangential behavior of harmonic function
+  
+  <strong> Nontangential behavior of harmonic function </strong>    
+  <br>
 
 Now we are ready to present the main theorem of this post.
 
@@ -336,7 +338,9 @@ which proves the desired result since  $\left(\frac{1}{2}I+K \right)g \in L^2(\p
 <hr>
   <br>
   
-# Remark
+  <strong> Remark </strong> 
+  <br>
+  
 
   There is another way to prove this theorem without using layer potential technique. Let $\sigma$ be the surface measure on $\partial\Omega$. By the Perron method, given $f\in C(\partial\Omega)$, we can construct a unique harmonic function $u$ in $\Omega$ satisfying $u=f$ on $\partial\Omega$. They by the maximum principle and the Riesz representation theorem, for each $x\in \Omega$, there exists a harmonic measure $\omega^x$ on $\partial\Omega$ satisfying 
   $$ u(x)=\int_{\partial\Omega} f(y) d\omega^x(y).$$
