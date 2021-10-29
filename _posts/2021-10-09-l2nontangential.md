@@ -13,7 +13,7 @@ Maximal functions are naturally introduced when someone wants to study the point
 
 When I wrote a research paper [[KK19]](https://arxiv.org/abs/1811.12619), it was hard to find a proof of the following theorem.
 
-**Theorem.** Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Suppose that $u$ is harmonic in $\Omega$ and $u^* \in L^2 (\partial\Omega)$. Then there exists a function $g$ in $L^2(\partial\Omega)$ such that $u\rightarrow g$ nontangentially a.e. on $\partial\Omega$. 
+**Theorem 1.** Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Suppose that $u$ is harmonic in $\Omega$ and $u^* \in L^2 (\partial\Omega)$. Then there exists a function $g$ in $L^2(\partial\Omega)$ such that $u\rightarrow g$ nontangentially a.e. on $\partial\Omega$. 
 
 According to some literature, this theorem was shown by Dahlberg. Since I am not familiar with geometric measure theory, it was hard for me to follow the essence of the proof. The purpose of this post is to prove this well-known theorem by using layer potential technique. I want to point out that the proof is not original since the proof is well-known to experts. However, I will write this post for those who are not familiar with the concept `nontangential convergence'. 
 
@@ -43,7 +43,7 @@ Then it is easy to check that for $f\in L^p(\mathbb{R}^n)$, $1\leq p\leq \infty$
 Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that $(P_y *f)(x)\rightarrow f(x)$ as $y\rightarrow 0+$ if $f$ is sufficiently smooth. However, it is unclear if $f\in L^p$ because of the definition of $L^p$. To discuss the behavior of $u$ as $y\rightarrow 0+$, nontangential maximal function estimate gives an useful information. 
 </div>
 <blockquote>
-<strong> Theorem.</strong>  Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $\int_{\mathbb{R}^n} \psi dx=1$.
+<strong> Theorem 2.</strong>  Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $\int_{\mathbb{R}^n} \psi dx=1$.
 
 1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator and $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.</div>
 2. <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div>
@@ -180,7 +180,7 @@ Finally, we end this section by introducing well-known approximation scheme of L
   
 <div>
 <blockquote>
-<strong> Theorem. </strong> Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Then the following hold:
+<strong> Theorem 3. </strong> Let $\Omega$ be a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Then the following hold:
   <ol>
 <li>There is a regular family of cones $\{\Gamma\}$ for $\Omega$ as described in the above.</li>
 <li> There is a sequence of $C^\infty$ domains, $\Omega_j\subset \Omega$ and homeomorphisms, $\Lambda_j:\partial\Omega\rightarrow \partial\Omega_j$ such that $\sup_{z\in \partial\Omega} | z-\Lambda_j(z)|\rightarrow 0$ as $j\rightarrow \infty$ and for all $j$ and all $z\in \partial\Omega$, $\Lambda_j(z)\in \Gamma_i(z)$, </li>
@@ -232,7 +232,7 @@ for $x\in \partial\Omega$.
 The following theorem was first shown by Calderon and later by Coifman-Meyer-McIntosh.
 <blockquote>
 
-<strong>Theorem. </strong> Suppose that $\varphi:\mathbb{R}^{n-1}\rightarrow \mathbb{R}$ is Lipschitz with compact support. For $x,y\in \mathbb{R}^{n-1}$, $x\neq y$, put 
+<strong>Theorem 4. </strong> Suppose that $\varphi:\mathbb{R}^{n-1}\rightarrow \mathbb{R}$ is Lipschitz with compact support. For $x,y\in \mathbb{R}^{n-1}$, $x\neq y$, put 
 $$ k_j(x,y)= \frac{x_j-y_j}{(|x-y|^2+|\varphi(x)-\varphi(y)|^2)^{n/2}},\quad j=1,2,\dots,n-1 $$
 and 
 $$ k_n(x,y)=\frac{\varphi(x)-\varphi(y)}{(|x-y|^2 +|\varphi(x)-\varphi(y)|^2)^{n/2}}.$$
@@ -251,7 +251,7 @@ As an application of the above theorem, we present the $L^p$-boundedness of trun
 <blockquote>
 
 
-<strong> Theorem. </strong> Let $1<p<\infty$. Then there exists a constant $C>0$ depending only on $n$, $p$, and the Lipschitz character of $\Omega$ such that 
+<strong> Theorem 5. </strong> Let $1<p<\infty$. Then there exists a constant $C>0$ depending only on $n$, $p$, and the Lipschitz character of $\Omega$ such that 
 $$ \left\Vert {\sup_{\varepsilon>0} |K_\varepsilon f|} \right\Vert_{L^p(\partial\Omega)}\leq C \Vert f \Vert_{L^p(\partial\Omega)}$$
 for all $f\in C(\partial\Omega)$. 
 </blockquote>
@@ -284,12 +284,39 @@ Then for $\varepsilon>0$, we have
 It is easy to check that there exists a constant $C$ depending only on $n$ and the Lipschitz character of $\Omega$ such that  
 $$  \left|\int_{V_{\varepsilon}^i(x')\setminus U_\varepsilon^i(x')} K_i(x',y')g(y')dy' \right|\leq C  Mg(x') $$
 for all $\varepsilon>0$. Hence it follows from the Coifman-Meyer-McIntosh theorem that 
-$$  \Vert \sup_{\varepsilon>0}|K_\varepsilon f| \Vert \leq \sum_{i=1}^m \left(\Vert{T_* g_i}\Vert_{L^p}+C\Vert Mg_i \Vert_{L^p}\right) \leq C \sum_{i=1}^m \Vert g_i \Vert_{L^p}\leq C \Vert f \Vert_{L^p}. $$
-This completes the proof.  
+$$  \Vert \sup_{\varepsilon>0}|K_\varepsilon f| \Vert_{L^p(\partial\Omega)} \leq \sum_{i=1}^m \left(\Vert{T_* g_i}\Vert_{L^p}+C\Vert Mg_i \Vert_{L^p}\right) \leq C \sum_{i=1}^m \Vert g_i \Vert_{L^p}\leq C \Vert f \Vert_{L^p(\partial\Omega)}. $$
+This completes the proof. 
 </div>
 
 <hr>
 
+By the above theorem, we can conclude that $ \lim_{\varepsilon \rightarrow 0+ }K_\varepsilon f$ exists a.e. and in $L^p(\partial\Omega)$. We define 
+$$ Kf(x)=\lim_{\varepsilon\rightarrow 0+} K_\varepsilon f(x).$$
+
+
+# Nontangential behavior of harmonic function
+
+Now we are ready to present the main theorem of this post.
+
+<blockquote>
+<strong> Theorem 6. </strong> Suppose that $u$ is harmonic in $\Omega$ and $u^*\in L^2(\partial\Omega)$. Then there exists $f\in L^2(\partial\Omega)$ such that 
+$$ \lim_{z\in \gamma(x), z\rightarrow x} u(x)=f(x)\quad \text{a.e. } x\in \partial\Omega.$$ 
+</blockquote>
+
+Choose a sequence of smooth domains $\{\Omega_j\}$ as in Theorem 3 and let $f_j= u|_{\partial\Omega_j}$. Since $u^*\in L^2(\partial\Omega)$, it follows that $\Vert f_j \Vert_{L^2(\partial\Omega)}\leq C<\infty$. Note also that the identity
+$$ u= \mathcal{D}_j\left(\left(\frac{1}{2}I+K_j\right)^{-1}f_j \right)\quad \text{on } \Omega_j $$
+holds, where $\mathcal{D}_j$ and $K_j$ are the double layer potential and the boundary integral  operator associated to $\Omega_j$, respectively. Moreover, we have 
+$$ \left\Vert \left(\frac{1}{2}I+K_j\right)^{-1}f_j  \right\Vert_{L^2(\partial\Omega_j)}\leq C \Vert f_j \Vert_{L^2(\partial\Omega_j)}, $$
+where the constant $C$ does not depend on $j$. 
+If we define 
+$$ g_j = \left(\frac{1}{2}I+K_j\right)^{-1}f_j\circ \Lambda_j,$$
+then $\{g_j\}$ is bounded in $L^2(\partial\Omega)$. Hence by the weak compactness result, there exists a function $g\in L^2(\partial\Omega)$ such that $g_j\rightarrow g$ weakly in $L^2(\partial\Omega)$. Moreover, it follows that $\mathcal{D}g_j\rightarrow u$ in $\Omega$. Therefore, 
+$$ \mathcal{D}g=u\quad \text{on } \Omega.$$
+Hence, we conclude that 
+$$\lim_{x\rightarrow x_0;x\in \gamma(x_0)} u(x)=\lim_{x\rightarrow x_0;x\in \gamma(x_0)} \mathcal{D} g(x)=\left(\frac{1}{2}I+K \right)g(x),$$
+which proves the desired result since  $\left(\frac{1}{2}I+K \right)g \in L^2(\partial\Omega)$. 
+
+<hr>
 
 # References 
 
