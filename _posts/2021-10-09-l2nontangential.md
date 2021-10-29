@@ -330,10 +330,20 @@ $$\lim_{x\rightarrow x_0;x\in \gamma(x_0)} u(x)=\lim_{x\rightarrow x_0;x\in \gam
 which proves the desired result since  $\left(\frac{1}{2}I+K \right)g \in L^2(\partial\Omega)$. 
 </div>
 <hr>
+  
+# Remark
 
+  There is another way to prove this theorem without using layer potential technique. Let $\sigma$ be the surface measure on $\partial\Omega$. By the Perron method, given $f\in C(\partial\Omega)$, we can construct a unique harmonic function $u$ in $\Omega$ satisfying $u=f$ on $\partial\Omega$. They by the maximum principle and the Riesz representation theorem, for each $x\in \Omega$, there exists a harmonic measure $\omega^x$ on $\partial\Omega$ satisfying 
+  $$ u(x)=\int_{\partial\Omega} f(y) d\omega^x(y).$$
+It was shown by Dahlberg that the surface measure and harmonic measure are mutually absolutely continuous. Moreover, if $d\omega^x =h(x)d\sigma$, then $h$ satisfies 
+  $$ \left(\frac{1}{\sigma(B_\delta(x))} \int_{B_\delta(x)} h^2 d\sigma \right)^{1/2}\leq \frac{C}{\sigma(B_\delta(x))} \int_{B_\delta(x)} h d\sigma.$$
+  From this, we conclude that $\Vert u^*\Vert_{L^2(\partial\Omega)} \leq C \Vert f \Vert_{L^2(\partial\Omega)}$. Since it requires a delicate geometric measure theoratic argument, we omit the details.
+  
+  
   <strong> References </strong>
 
 <ol>
+  <li> B. Dahlberg,  <em>Estimates of harmonic measure</em>, Arch. Rational Mech. Anal. <strong>65</strong> (1977), 275-288.
   <li> M. Mitrea and M. Taylor, <em>Boundary layer methods for Lipschitz domains in Riemannian manifolds</em>, J. Funct. Anal. <strong>163</strong> (1999), 181-251. </li>
   <li> E. M. Stein, <em>Singular integrals and differentiability properties of functions</em>, Princeton University Press, 1970. </li>
   <li> G. Verchota, <em>Layer potentials and Regularity for the Dirichlet problem for Laplace's equation in Lipschitz domains</em>, J. Funct. Anal. <strong>59</strong> (1984), 572-611. </li>
