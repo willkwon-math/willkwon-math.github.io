@@ -5,6 +5,9 @@
   {% if page.use_math %}
     {% include mathjax.html %}
   {% endif %}
+  {% if page.comments %}
+    {% include comments.html %}
+  {% endif %}
   </head>
   <body>
     {% include header.html %}
