@@ -310,8 +310,7 @@ where $\Gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \pa
 
 
   
-  <strong> Nontangential behavior of harmonic function </strong>    
-  <br>
+  <h1> Nontangential behavior of harmonic function </h1>
 
 Now we are ready to present the main theorem of this post.
 
@@ -338,18 +337,14 @@ which proves the desired result since  $\left(\frac{1}{2}I+K \right)g \in L^2(\p
 <hr>
   <br>
   
-  <strong> Remark </strong> 
-  <br>
-  
-
-  There is another way to prove this theorem without using layer potential technique. Let $\sigma$ be the surface measure on $\partial\Omega$. By the Perron method, given $f\in C(\partial\Omega)$, we can construct a unique harmonic function $u$ in $\Omega$ satisfying $u=f$ on $\partial\Omega$. They by the maximum principle and the Riesz representation theorem, for each $x\in \Omega$, there exists a harmonic measure $\omega^x$ on $\partial\Omega$ satisfying 
+  <strong> Remark. </strong> There is another way to prove this theorem without using layer potential technique. Let $\sigma$ be the surface measure on $\partial\Omega$. By the Perron method, given $f\in C(\partial\Omega)$, we can construct a unique harmonic function $u$ in $\Omega$ satisfying $u=f$ on $\partial\Omega$. They by the maximum principle and the Riesz representation theorem, for each $x\in \Omega$, there exists a harmonic measure $\omega^x$ on $\partial\Omega$ satisfying 
   $$ u(x)=\int_{\partial\Omega} f(y) d\omega^x(y).$$
 It was shown by Dahlberg that the surface measure and harmonic measure are mutually absolutely continuous. Moreover, if $d\omega^x =h(x)d\sigma$, then $h$ satisfies 
   $$ \left(\frac{1}{\sigma(B_\delta(x))} \int_{B_\delta(x)} h^2 d\sigma \right)^{1/2}\leq \frac{C}{\sigma(B_\delta(x))} \int_{B_\delta(x)} h d\sigma.$$
   From this, we conclude that $\Vert u^*\Vert_{L^2(\partial\Omega)} \leq C \Vert f \Vert_{L^2(\partial\Omega)}$. Since it requires a delicate geometric measure theoratic argument, we omit the details.
   
   
-  <strong> References </strong>
+  <h1> References </h1>
 
 <ol>
   <li> B. Dahlberg,  <em>Estimates of harmonic measure</em>, Arch. Rational Mech. Anal. <strong>65</strong> (1977), 275-288.
