@@ -44,10 +44,11 @@ Since $\int_{\mathbb{R}^n} P_y (x)dx=1$ and $P_y(x)>0$, one can easily see that 
 </div>
 <blockquote>
 <strong> Theorem 2.</strong>  Let $1\leq p \leq \infty$ and $f\in L^p (\mathbb{R}^n)$, and let $\psi$ be a nonnegative, radial, decreasing and integrable function with $\int_{\mathbb{R}^n} \psi dx=1$.
-
-1. <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator and $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.</div>
-2. <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div>
-3. <div>If $1\leq p <\infty$, then $(\psi_\varepsilon *f)\rightarrow f$ in $L^p$ as $\varepsilon\rightarrow  0+$. </div>
+  <ol>
+<li> <div>$\sup_{\varepsilon>0} |\psi_\varepsilon *f(x)|\leq Mf(x)$, where $M$ is the Hardy-Littlewood maximal operator and $\psi_\varepsilon(x)=\varepsilon^{-n} \psi(x/\varepsilon)$.</div></li> 
+<li> <div>$\lim_{y\rightarrow 0+} (\psi_\varepsilon *f)(x)=f(x)$ for almost every $x$.</div></li> 
+<li>  <div>If $1\leq p <\infty$, then $(\psi_\varepsilon *f)\rightarrow f$ in $L^p$ as $\varepsilon\rightarrow  0+$. </div></li> 
+ </ol>
 </blockquote>
 
 <div>
@@ -256,8 +257,7 @@ $$ \left\Vert {\sup_{\varepsilon>0} |K_\varepsilon f|} \right\Vert_{L^p(\partial
 for all $f\in C(\partial\Omega)$. 
 </blockquote>
 
-
-Let $(Z_i,\varphi_i)$ be a coordinate pair associated to the Lipschitz domain $\Omega$ in $\mathbb{R}^n$, $n\geq 2$. Choose a partition of unity $\{\zeta_i\}_{i=1}^m$ so that $0\leq \zeta_i\leq 1$, smooth, finite partition of unity subordinate to the $Z_i$'s. Clearly, 
+Proof. Let $(Z_i,\varphi_i)$ be a coordinate pair associated to the Lipschitz domain $\Omega$ in $\mathbb{R}^n$, $n\geq 2$. Choose a partition of unity $\{\zeta_i\}_{i=1}^m$ so that $0\leq \zeta_i\leq 1$, smooth, finite partition of unity subordinate to the $Z_i$'s. Clearly, 
 \[  K_\varepsilon f(x)=\frac{1}{n\omega_n}\sum_{i=1}^m  \int_{y \in \partial\Omega,|x-y|>\varepsilon} \frac{(x-y)\cdot \nu(y)}{|x-y|^n}\zeta_i(y)f(y)d\sigma(y).  \]
 Since $(Z_i,\varphi_i)$ is a coordinate pair, it follows that 
 \begin{align*}
@@ -299,8 +299,8 @@ Moreover, we can show the following result.
 <blockquote>
   <div>
 <strong> Theorem 6. </strong> Let $1<p < \infty$. Then 
-$$ \lim_{x\rightarrow x_0; x\in \gamma_i(x_0)} \mathcal{D}f(x) = \left(\frac{1}{2}I+K \right)f(x_0), $$
-where $\gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \partial\Omega$.
+$$ \lim_{x\rightarrow x_0; x\in \Gamma_i(x_0)} \mathcal{D}f(x) = \left(\frac{1}{2}I+K \right)f(x_0), $$
+where $\Gamma_i(x_0)$ denotes the inner regular cone with vertex at $x_0 \in \partial\Omega$.
   </div>
 </blockquote>
 
