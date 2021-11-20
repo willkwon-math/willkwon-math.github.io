@@ -64,7 +64,7 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 <center>
 $−\triangle u+\mathrm{div}(u\mathbf{b})=f\quad \text{and}\quad  −\triangle v−\mathbf{b}\cdot\nabla v=g$
 </center>
-in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) with the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995, JFA) and Fabes-Mendez-Mitrea (1998, JFA) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in $L^2(\partial\Omega)$.
+in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) with the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995) and Fabes-Mendez-Mitrea (1998) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem with boundary data in $L^2(\partial\Omega)$. Our results for the Dirichlet problems hold even for the case $n=2$.
 </div>
 </details>
 
