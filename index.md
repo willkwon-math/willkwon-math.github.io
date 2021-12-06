@@ -15,7 +15,7 @@ Sangdang-gu, Cheongju-si Chungcheongbuk-do,<br>
 Republic of Korea
 
 Email. willkwon[at]sogang[dot]ac[dot]kr<br>
-Phone. +82-43-290-6593
+Phone. +82-43-290-6468
   
 ## About me 
  
