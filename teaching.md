@@ -6,7 +6,7 @@ use_math: true
 - Spring 2022 – Calculus, 2 classes / Eigneering Mathematics II
 - Fall 2021 – Linear Algebra(Computer Science and Engineering, 1 class / Human and Social Sciences, 2 classes) 
   -  [선형대수 행렬 파이썬](https://willkwon-math.github.io/assets/files/Matrix.ipynb)   
-  -  [3차시험 대체과제](https://willkwon-math.github.io/assets/files/HW_2021.pdf)
+  -  [3차시험 대체과제](https://willkwon-math.github.io/assets/files/HW_2021.pdf) (기한: 12.24(금) 08:00 / 이과학생만 해당함. 문과는 해당사항 없음)
 - Spring 2021 – Calculus(Computer Science and Engineering, 2 classes), Engineering Mathematics I 
 - Winter 2021 – Mathematics and Physics for Fighter
 - Fall 2020 – Linear Algebra(Human and Social Sciences) / Engineering Mathematics I / Engineering Mathematics II 
