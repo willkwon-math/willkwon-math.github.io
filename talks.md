@@ -7,6 +7,7 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Elliptic equations with singular drifts on planar domains, Workshop for young mathematicians in Korea, Jan. 2022. 
 - $W^{1,2+\varepsilon}$-results for elliptic equations with singular drifts in weak $L^n$-spaces, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2021/), Apr. 2021 (contribution talks)
 - $W^{1,2+\varepsilon}$-results for elliptic equations with drifts in weak $L^n$-spaces, [KIAS Analysis, PDE & Probability Seminar](http://www.kias.re.kr/sub05/sub05_02_01_01.jsp?seqno=PGN1720201229-0001&nowBlock=0&page=1&subject=&mjrcd=1&mjrcd2=1&sdate=20210115&edate=20210115&keyField=&keyWord=&list_url=/sub05/sub05_02_02.jsp&slides=), Jan. 2021 
 - Elliptic equations with singular drifts term on Lipschitz domains, [HA-GMT-PDE seminar](https://sites.google.com/view/hagmtpdeseminar/), Sep. 2020  
@@ -32,6 +33,7 @@ use_math: true
 - Fourier analysis and equidistribution of sequences, Stupid Seminar, May 2014.
 
 ## ${\rm \LaTeX{}}$ 
+- Intensive lectures on ${\rm \LaTeX}$ for mathematicians, SNU, Jan. 2022 and Feb. 2022.
 - Intensive Lectures on ${\rm \LaTeX}$ for mathematicians, CNU, Aug. 2021.
 - Introduction to ${\rm \LaTeX}$, Lecture series for writing scientific paper, SKKU, Feb. 2021  
 - Intensive Lectures on ${\rm \LaTeX}$ for mathematicians, CBNU, Nov. 2020  
