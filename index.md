@@ -5,7 +5,6 @@ profile_picture:
   src: /assets/img/profile.png
   alt: website picture
 ---
-<center> Drawn by <a href="https://instagram.com/cute_bae_am">@cute_bae_am</a> </center>
 
 ## Contact 
 Department of Mathematics,<br>
@@ -25,7 +24,7 @@ I am a full-time lecturer in the Department of Mathematics at [Republic of Korea
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
-The drawing was given by one of my students at Republic of Korea Air Force Academy [@cute_bae_am](https://instagram.com/cute_bae_am).
+The drawing was given by one of my students at Republic of Korea Air Force Academy.
 
 ## Research Interests
  
