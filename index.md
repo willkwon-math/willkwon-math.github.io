@@ -38,9 +38,9 @@ The drawing was given by one of my students at Republic of Korea Air Force Acade
 <div markdown="1">
 **Abstract.** In preparation.
   </div>
-<details>
-<summary>2. Elliptic equations in divergence form with drifts in $L^2$, to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
 </details>
+<details>
+<summary>2. Elliptic equations in divergence form with drifts in $L^2$, to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
 <center>
