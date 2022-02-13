@@ -34,7 +34,8 @@ The drawing was given by one of my students at Republic of Korea Air Force Acade
 ## Publications / Preprints
 
 <details>
-<summary>1. Elliptic equations in divergence form with drifts in $L^2$, to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
+  1. In preparation with H. Kim
+<summary>2. Elliptic equations in divergence form with drifts in $L^2$, to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
 <center>
@@ -45,7 +46,7 @@ in bounded Lipschitz domain $\Omega$ in $\mathbb{R}^2$, where $A:\mathbb{R}^2\ri
 </details>
 
 <details>
-<summary>2. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
+<summary>3. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
 <center>
@@ -56,7 +57,7 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 </details>
 
 <details>
-<summary>3. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, <a href ="https://arxiv.org/abs/1811.12619"> arXiv:1811.12619 [math.AP] </a>
+<summary>4. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, <a href ="https://arxiv.org/abs/1811.12619"> arXiv:1811.12619 [math.AP] </a>
 </summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
