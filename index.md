@@ -18,7 +18,7 @@ Phone. +82-43-290-6468
   
 ## About me  
 
-I am a full-time lecturer in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). Previously, I did my Bachelor and Master in mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/). 
+I am a full-time lecturer in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). Previously, I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/). In September 2022, I will be a member of [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu) as a Ph. D. student. 
 
 [Here](http://willkwon.dothome.co.kr) is my personal mathematics blog site. 
 
