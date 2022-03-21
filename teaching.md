@@ -8,7 +8,7 @@ use_math: true
     - Engineering Mathematics : 2559 007 3585 (Thursday) / 2557 473 3128 (Friday)
     - Calculus (Class 6) : 2556 028 5583 (Wednesday) / 2553 701 0908 (Friday)
     - Calculus (Class 11) : 2556 197 0817 (Wednesday) / 2553 869 9273 (Friday)
-    - Calculus for international cadets : 2559 536 8088 (Thursday, Office Hour)
+    - Calculus for international cadets : 2555 285 0924 (Thursday, Office Hour)
 - Fall 2021 – Linear Algebra(Computer Science and Engineering, 1 class / Human and Social Sciences, 2 classes)  
 - Spring 2021 – Calculus(Computer Science and Engineering, 2 classes), Engineering Mathematics I 
 - Winter 2021 – Mathematics and Physics for Fighter
