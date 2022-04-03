@@ -7,6 +7,7 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Elliptic equations in divergence forms with drifts in $L^2$, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2022/), Apr. 2022 (contribution talks)
 - Elliptic equations with singular drifts on planar domains, Workshop for young mathematicians in Korea, Jan. 2022. 
 - $W^{1,2+\varepsilon}$-results for elliptic equations with singular drifts in weak $L^n$-spaces, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2021/), Apr. 2021 (contribution talks)
 - $W^{1,2+\varepsilon}$-results for elliptic equations with drifts in weak $L^n$-spaces, [KIAS Analysis, PDE & Probability Seminar](http://www.kias.re.kr/sub05/sub05_02_01_01.jsp?seqno=PGN1720201229-0001&nowBlock=0&page=1&subject=&mjrcd=1&mjrcd2=1&sdate=20210115&edate=20210115&keyField=&keyWord=&list_url=/sub05/sub05_02_02.jsp&slides=), Jan. 2021 
@@ -20,6 +21,7 @@ use_math: true
 - Elliptic equations with singular drifts in Lipschitz domain, [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), July 2018.
 
 ## Mathematics(Learning seminar)
+- Survey on Landau damping, POSTECH, Jun. 2022. 
 - On Leray’s fundamental works on Navier-Stokes equation, Stupid Seminar, Jan. 2019.
 - $L^2$-boundedness of the Cauchy integral operator on Lipschitz curves, [KIAS Analysis&PDE Learning seminar](http://www.kias.re.kr/sub05/sub05_02_01_01.jsp?seqno=PGN1720181004-0001&nowBlock=0&page=1&subject=&mjrcd=&mjrcd2=1&sdate=20181005&edate=&keyField=&keyWord=&list_url=/sub05/sub05_02_02.jsp&slides=), Oct 2018 
 - The resolution of the Hilbert 19th problem, Sogang Graduate Student Seminar, Sep 2018.
