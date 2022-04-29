@@ -21,6 +21,7 @@ use_math: true
 - Elliptic equations with singular drifts in Lipschitz domain, [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), July 2018.
 
 ## Mathematics(Expository talks)
+- Survey on Landau damping, PDE and Applied Analysis Seminar, POSTECH, Jun. 2022.
 - On Leray’s fundamental works on Navier-Stokes equation, Stupid Seminar, Jan. 2019.
 - $L^2$-boundedness of the Cauchy integral operator on Lipschitz curves, [KIAS Analysis&PDE Learning seminar](http://www.kias.re.kr/sub05/sub05_02_01_01.jsp?seqno=PGN1720181004-0001&nowBlock=0&page=1&subject=&mjrcd=&mjrcd2=1&sdate=20181005&edate=&keyField=&keyWord=&list_url=/sub05/sub05_02_02.jsp&slides=), Oct 2018 
 - The resolution of the Hilbert 19th problem, Sogang Graduate Student Seminar, Sep 2018.
