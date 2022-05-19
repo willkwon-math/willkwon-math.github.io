@@ -42,7 +42,7 @@ The drawing was given by one of my students at Republic of Korea Air Force Acade
   </div>
 </details>
 <details>
-<summary>2. Elliptic equations in divergence form with drifts in $L^2$, to appear in Proc. Amer. Math. Soc. <a href="https://doi.org/10.1090/proc/15828">doi</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
+<summary>2. Elliptic equations in divergence form with drifts in $L^2$, Proc. Amer. Math. Soc. <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6">[Journal]</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
 <center>
