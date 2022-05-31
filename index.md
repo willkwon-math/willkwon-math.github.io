@@ -19,7 +19,7 @@ Phone. +82-43-290-6468
 
 I am currently working as a researcher in the Department of Mathematics at Sogang University. Previously, I was a full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).
 
-Starting September 2022, I will be a Ph. D. student of [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu).
+Starting September 2022, I will be a Ph. D. student in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu).
  
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
