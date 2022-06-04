@@ -25,7 +25,8 @@ The following notes are available upon request (incomplete note/not open to publ
 ## ${\rm \LaTeX{}}$
 
 Below are lecture notes on LaTeX (usually written in Korean)
-
+- 레이텍 기본부터 심화까지
+ - [1강 강의자료](https://willkwon-math.github.io/blob/master/assets/files/lecture1.pdf)
 - [PGFPlots과 Tikzcd 사용법](https://willkwon-math.github.io/assets/files/PGFplots(slides).pdf)
   - [예제들](https://willkwon-math.github.io/assets/files/PGFplots(examples).pdf)
 - [LaTeX 매크로 기본익히기](https://willkwon-math.github.io/assets/files/LaTeX-Macro.pdf)
