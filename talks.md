@@ -7,6 +7,7 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Elliptic equations with singular drifts, UNIST PDE seminar, Jun. 2022.
 - Elliptic equations in divergence forms with drifts in $L^2$, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2022/), Apr. 2022 (contribution talks)
 - Elliptic equations with singular drifts on planar domains, Workshop for young mathematicians in Korea, Jan. 2022. 
 - $W^{1,2+\varepsilon}$-results for elliptic equations with singular drifts in weak $L^n$-spaces, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2021/), Apr. 2021 (contribution talks)
