@@ -2,9 +2,8 @@
 layout: ordinary
 use_math: true 
 ---
-## At ROKAFA (2019-) as a Lecturer
+## At ROKAFA (2019-2022) as a Lecturer
 - Spring 2022 – Calculus, 2 classes / Engineering Mathematics II
-  - [Slide](https://willkwon-math.github.io/assets/files/Presentation.pdf)
 - Fall 2021 – Linear Algebra(Computer Science and Engineering, 1 class / Human and Social Sciences, 2 classes)  
 - Spring 2021 – Calculus(Computer Science and Engineering, 2 classes), Engineering Mathematics I 
 - Winter 2021 – Mathematics and Physics for Fighter
