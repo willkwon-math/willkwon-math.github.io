@@ -60,7 +60,7 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 </details>
 
 <details>
-<summary>4. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, to appear in Trans. Amer. Math. Soc., <a href = "https://doi.org/10.1090/tran/8730">doi</a>, <a href ="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP] </a>
+<summary>4. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, Trans. Amer. Math. Soc. 375(9), 2022, <a href = "https://doi.org/10.1090/tran/8730">[Journal]</a>, <a href ="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP] </a>
 </summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
