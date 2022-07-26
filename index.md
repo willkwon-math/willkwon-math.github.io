@@ -25,7 +25,7 @@ Starting September 2022, I will be a Ph. D. student in [the Division of Applied 
  
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
-The drawing was given by one of my students at Republic of Korea Air Force Academy.
+The drawing was given by one of my students in the Republic of Korea Air Force Academy.
 
 ## Research Interests
  
