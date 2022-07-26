@@ -7,7 +7,7 @@ profile_picture:
 ---
 
 
-Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon
+**Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon**
 
 ## Contact 
 Department of Mathematics,<br>
