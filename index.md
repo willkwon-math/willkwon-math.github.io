@@ -10,18 +10,16 @@ profile_picture:
 <h2><strong>Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon</strong></h2>
 
 ## Contact 
-Department of Mathematics,<br>
-Sogang University,<br>
-Seoul, Republic of Korea
+Division of Applied Mathematics,<br>
+Brown University,<br>
+182 George Street, Providence, RI 02912, USA
 
-Email. willkwon[at]sogang[dot]ac[dot]kr<br>
+Email. hyun_woo_kwon[at]brown[dot]edu<br>
 Phone. N/A
 
 ## About me  
 
-I am currently working as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). Previously, I was a full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).
-
-Starting September 2022, I will be a Ph. D. student in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu).
+I am Ph. D. student in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was a full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).
  
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
