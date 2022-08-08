@@ -14,7 +14,7 @@ Division of Applied Mathematics,<br>
 Brown University,<br>
 182 George Street, Providence, RI 02912, USA
 
-Email. hyun_woo_kwon[at]brown[dot]edu<br>
+Email. hyunwoo_kwon[at]brown[dot]edu<br>
 Phone. N/A
 
 ## About me  
