@@ -93,3 +93,6 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
   - [Stupid Mathematics Seminar in Korea](https://www.facebook.com/mungseminar)  (I am a founder of this seminar)
   - [MathSciNet](http://www.ams.org/mathscinet)
   - [On teaching Mathematics (V. I. Arnold)](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+- My favorite quotes
+  - 不爲也, 非不能也 (孟子) / A lack of effort, not a lack of ability. (Mencius) [translation source](http://www.acmuller.net/con-dao/mencius.html)
+  - It is not only courage to boldly jump into a dangerous place. It is also courage to ignore the strong temptation to jump in and go on my own path silently. It is foolish to react immediately when a reverse flow occurs in a forward flow. Maintaining your current flow when your opponent has reversed flow becomes countercurrent from the opponent's point of view. Therefore, the attitude of maintaining my flow without wavering is the best defense and offensive means. (Changho Lee, one of the best "baduk(Go)" player) [[translated by Google]]
