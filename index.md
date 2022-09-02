@@ -33,7 +33,7 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Global existence and uniqueness of weak solutions of generalized magnetic relaxation equations, with H. Kim, preprint </summary>
+<summary>1. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with H. Kim, preprint </summary>
 <div markdown="1">
 **Abstract.** In preparation.
   </div>
