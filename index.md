@@ -31,7 +31,7 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
 - Harmonic Analysis (real-variable methods)
 
 ## Events
-- In Fall 2022, I am organizing learning seminar on Harmonic Analysis and PDEs.
+- In Fall 2022, I am organizing learning seminar on [Harmonic analysis related to PDEs](https://willkwon-math.github.io/fall2022-HAPDE).
 
 ## Publications / Preprints
 
