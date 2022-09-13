@@ -30,7 +30,7 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
 - Partial Differential Equations
 - Harmonic Analysis (real-variable methods)
 
-## Events
+## Activity
 - In Fall 2022, I am organizing learning seminar on [Harmonic analysis related to PDEs](https://willkwon-math.github.io/fall2022-HAPDE).
 
 ## Publications / Preprints
@@ -75,7 +75,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
 </div>
 </details>
 
-## Events
+## Previous events
 - [Workshop for young mathematicians in Korea](https://sites.google.com/view/wym2022/), co-organized with D. Ko and B. Sohn, January 2022.
 - [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), co-organized with S. Ryoo, H. Kim, and Y. Lee, July 2018.
  
