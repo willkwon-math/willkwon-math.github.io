@@ -18,7 +18,7 @@ We will meet Tuesday from 4 PM -- 5:20 PM at ( ), 170 Hope Hope Street.
 |Date|Topic|Refs|Speakers|
 |---|---------------------------|-----|---------|
 |Sep/20|Organizational meeting| | |
-|Sep/27|| | |
+|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals| | |
 |Oct/04|| | |
 |Oct/11|| | |
 |Oct/18|| | |
