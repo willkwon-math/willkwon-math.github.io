@@ -27,5 +27,5 @@ We will meet Tuesday from 4 PM -- 5:20 PM at [Sayles Memorial Hall 300](https://
 |Nov/8|Function spaces (Littlewood-Paley characterizations)| | |
 |Nov/15|Paraproducts and Coifman-Meyer theorem| | |
 |Nov/22|Commutator estimates and fractional Leibniz rules| | |
-|Nov/29|Strichartz estimates| | |
+|Nov/29|Make up day| | |
 |Dec/6|Make up day | | | 
