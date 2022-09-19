@@ -11,7 +11,7 @@ The goal of this learning seminar is to study harmonic analysis tools that are c
 
 ## Time/Venue
 
-We will meet Tuesday from 4 PM -- 5:20 PM at ( ), 170 Hope Hope Street.
+We will meet Tuesday from 4 PM -- 5:20 PM at [Sayles Memorial Hall 300](https://goo.gl/maps/xP3toFWLv59ncUKJ6).
 
 ## Schedule
 
