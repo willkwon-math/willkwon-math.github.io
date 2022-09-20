@@ -18,22 +18,22 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Date|Topic|Refs|Speakers|
 |---|---------------------------|-----|---------|
 |Sep/20|Organizational meeting| | |
-|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals||Will|
-|Oct/04|Application of Calderon-Zygmund decomposition, John-Nirenberg theorem||Will|
+|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals|1,7,11|Will|
+|Oct/04|Application of Calderon-Zygmund decomposition, John-Nirenberg theorem|1,12|Will|
 |Oct/11|Sparse operators||?|
-|Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)||Tainara|
-|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)||Nathan|
-|Nov/1|Littlewood-Paley square function theorem ||Hanye|
-|Nov/8|Function spaces (Littlewood-Paley characterizations)||Bekarys|
-|Nov/15|Paraproducts and Coifman-Meyer theorem||Zhuolun|
-|Nov/22|Commutator estimates and fractional Leibniz rules||Nathan|
-|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I||Bruno, Haram|
-|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II| |Bruno, Haram| 
+|Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)|5,12|Tainara|
+|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|3|Nathan|
+|Nov/1|Littlewood-Paley square function theorem |5,9|Hanye|
+|Nov/8|Function spaces (Littlewood-Paley characterizations)|6|Bekarys|
+|Nov/15|Paraproducts and Coifman-Meyer theorem|6,10|Zhuolun|
+|Nov/22|Commutator estimates and fractional Leibniz rules|6,8|Nathan|
+|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Bruno, Haram|
+|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno, Haram| 
 
 ## References
 
 1. L. A. Caffarelli and I. Peral, On $W^{1,p}$ estimates for elliptic equations in divergence form, Comm. Pure Appl. Math. 51 (1998), no.1, 1--21.
-2. H. Dong and D. Kim, On $L_p$-estimates for elliptic and parabolic equations with $A_p$ weights, Trans. Amer. Math. Soc. 370 (2018), no.~7, 5081--5130.
+2. H. Dong and D. Kim, On $L_p$-estimates for elliptic and parabolic equations with $A_p$ weights, Trans. Amer. Math. Soc. 370 (2018), no. 7, 5081--5130.
 3. J. Duoandikoetxea, Fourier analysis, GSM, vol 29, AMS, Providence, RI, 2001.
 4. M. Giaquinta, Multiple integrals in the calculus of variations and nonlinear elliptic systems, Annals of Mathematics Studies, Vol. 105, Princeton University Press, Princeton, NJ, 1983. 
 5. L. Grafakos, Classical Fourier analysis, 3rd Edition, GTM, vol. 249, Springer, New York, 2014.
