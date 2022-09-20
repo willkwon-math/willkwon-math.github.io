@@ -11,7 +11,7 @@ The goal of this learning seminar is to study harmonic analysis tools that are c
 
 ## Time/Venue
 
-We will meet Tuesday from 4 PM -- 5:20 PM at 205, Kassar House.
+We will meet Tuesday from 4 PM -- 5:30 PM at 205, Kassar House.
 
 ## Schedule
 
@@ -28,6 +28,6 @@ We will meet Tuesday from 4 PM -- 5:20 PM at 205, Kassar House.
 |Nov/15|Paraproducts and Coifman-Meyer theorem|Zhoulon| |
 |Nov/22|Commutator estimates and fractional Leibniz rules|Nathan| |
 |Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|Bruno, Haram | |
-|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II| | | 
+|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|Bruno, Haram | | 
 
 ... 
