@@ -33,10 +33,9 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 ## References
 
 1. L. A. Caffarelli and I. Peral, On $W^{1,p}$ estimates for elliptic equations in divergence form, Comm. Pure Appl. Math. 51 (1998), no.1, 1--21.
-2. H. Dong and D. Kim, On $L_p$-estimates for elliptic and parabolic equations with $A_p$ weights
+2. H. Dong and D. Kim, On $L_p$-estimates for elliptic and parabolic equations with $A_p$ weights, Trans. Amer. Math. Soc. 370 (2018), no.~7, 5081--5130.
 3. J. Duoandikoetxea, Fourier analysis, GSM, vol 29, AMS, Providence, RI, 2001.
-4. M. Giaquinta, Multiple integrals in the calculus of variations and
-  nonlinear elliptic systems, Annals of Mathematics Studies, Vol. 105, Princeton University Press, Princeton, NJ, 1983. 
+4. M. Giaquinta, Multiple integrals in the calculus of variations and nonlinear elliptic systems, Annals of Mathematics Studies, Vol. 105, Princeton University Press, Princeton, NJ, 1983. 
 5. L. Grafakos, Classical Fourier analysis, 3rd Edition, GTM, vol. 249, Springer, New York, 2014.
 6. L. Grafakos, Modern Fourier analysis, 3rd Edition, GTM, vol. 249, Springer, New York, 2014.
 7. D. Li, On Kato-Ponce and fractional Leibniz, Rov. Math. Iberoam. 35 (2019), 23--100.
