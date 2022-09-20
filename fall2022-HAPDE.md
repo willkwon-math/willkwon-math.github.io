@@ -11,23 +11,37 @@ The goal of this learning seminar is to study harmonic analysis tools that are c
 
 ## Time/Venue
 
-We will meet Tuesday from 4 PM -- 5:30 PM at 205, Kassar House.
+We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 
 ## Schedule
 
 |Date|Topic|Refs|Speakers|
 |---|---------------------------|-----|---------|
 |Sep/20|Organizational meeting| | |
-|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals|Will| |
-|Oct/04|Application of Calderon-Zygmund decomposition, $\mathcal{H}^1$-$BMO$ duality|Will| |
+|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals||Will|
+|Oct/04|Application of Calderon-Zygmund decomposition, John-Nirenberg theorem||Will|
 |Oct/11|Sparse operators|?| |
-|Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)|Tainara| |
-|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|Nathan| |
-|Nov/1|Littlewood-Paley square function theorem |Hanye| |
-|Nov/8|Function spaces (Littlewood-Paley characterizations)|Bekarys| |
-|Nov/15|Paraproducts and Coifman-Meyer theorem|Zhoulon| |
-|Nov/22|Commutator estimates and fractional Leibniz rules|Nathan| |
-|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|Bruno, Haram | |
-|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|Bruno, Haram | | 
+|Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)||Tainara|
+|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)||Nathan|
+|Nov/1|Littlewood-Paley square function theorem ||Hanye|
+|Nov/8|Function spaces (Littlewood-Paley characterizations)||Bekarys|
+|Nov/15|Paraproducts and Coifman-Meyer theorem||Zhuolun|
+|Nov/22|Commutator estimates and fractional Leibniz rules||Nathan|
+|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I||Bruno, Haram|
+|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II| |Bruno, Haram| 
 
-... 
+## References
+
+1. L. A. Caffarelli and I. Peral, On $W^{1,p}$ estimates for elliptic equations in divergence form, Comm. Pure Appl. Math. 51 (1998), no.1, 1--21.
+2. H. Dong and D. Kim, On $L_p$-estimates for elliptic and parabolic equations with $A_p$ weights
+3. J. Duoandikoetxea, Fourier analysis, GSM, vol 29, AMS, Providence, RI, 2001.
+4. M. Giaquinta, Multiple integrals in the calculus of variations and
+  nonlinear elliptic systems, Annals of Mathematics Studies, Vol. 105, Princeton University Press, Princeton, NJ, 1983. 
+5. L. Grafakos, Classical Fourier analysis, 3rd Edition, GTM, vol. 249, Springer, New York, 2014.
+6. L. Grafakos, Modern Fourier analysis, 3rd Edition, GTM, vol. 249, Springer, New York, 2014.
+7. D. Li, On Kato-Ponce and fractional Leibniz, Rov. Math. Iberoam. 35 (2019), 23--100.
+8. C. Muscalu and W. Schlag, Classical and multilinear harmonic analysis, Vol. I, Cambridge University Press, Cambridge, 2013.
+9. C. Muscalu and W. Schlag, Classical and multilinear harmonic analysis, Vol. II, Cambridge University Press, Cambridge, 2013.
+10. E. M. Stein, Singular integrals and differentiability properties of functions, Princeton Mathematical Series, No. 30., Princeton University Press, Princeton, N.J., 1970.
+11. E. M. Stein, Harmonic analysis: real-variable methods, orthogonality, andPrinceton Mathematical Series, vol.~43, Princeton University Press, Princeton, NJ, 1993, With the assistance of Timothy S. Murphy, Monographs in Harmonic Analysis, III.   
+  
