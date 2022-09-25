@@ -28,7 +28,10 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Nov/15|Paraproducts and Coifman-Meyer theorem|6,10|Zhuolun|
 |Nov/22|Commutator estimates and fractional Leibniz rules|6,8|Nathan|
 |Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Bruno, Haram|
-|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno, Haram| 
+|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno, Haram|
+
+## Notes
+- Week 1 [file](https://willkwon-math.github.io/assets/files/SeminarWeek1.pdf)
 
 ## References
 
