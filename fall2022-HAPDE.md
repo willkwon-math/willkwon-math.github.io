@@ -22,11 +22,11 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Oct/04|Application of Calderon-Zygmund decomposition, John-Nirenberg theorem|1,12|Will|
 |Oct/11|Sparse operators||?|
 |Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)|5,12|Tainara|
-|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|2,3|(Nathan)|
+|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|2,3|Nathan|
 |Nov/1|Littlewood-Paley square function theorem |5,9|Hanye|
 |Nov/8|Function spaces (Littlewood-Paley characterizations)|6|Bekarys|
 |Nov/15|Paraproducts and Coifman-Meyer theorem|6,10|Zhuolun|
-|Nov/22|Commutator estimates and fractional Leibniz rules|6,8|Nathan|
+|Nov/22|Commutator estimates and fractional Leibniz rules|6,8|(Nathan)|
 |Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Bruno, Haram|
 |Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno, Haram|
 
