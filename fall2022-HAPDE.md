@@ -18,15 +18,15 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Date|Topic|Refs|Speakers|
 |---|---------------------------|-----|---------|
 |Sep/20|Organizational meeting| | |
-|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals|1,7,11|Will|
-|Oct/04|Application of Calderon-Zygmund decomposition, John-Nirenberg theorem|1,12|Will|
-|Oct/11|Sparse operators||?|
-|Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)|5,12|Tainara|
-|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|2,3|Nathan|
-|Nov/1|Littlewood-Paley square function theorem |5,9|Hanye|
-|Nov/8|Function spaces (Littlewood-Paley characterizations)|6|Bekarys|
-|Nov/15|Paraproducts and Coifman-Meyer theorem|6,10|Zhuolun|
-|Nov/22|Commutator estimates and fractional Leibniz rules|6,8|(Nathan)|
+|Sep/27|Calderon-Zygmund decomposition and $L_p$-boundedness of singular integrals|1,7,11|[Will](http://willkwon-math.github.io)|
+|Oct/04|Application of Calderon-Zygmund decomposition, John-Nirenberg theorem|1,12|[Will](http://willkwon-math.github.io)|
+|Oct/11|Introduction to sparse operators(guest lecture)||[Jose](https://sites.google.com/view/josecondealonso)|
+|Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)|5,12|[Tainara](https://sites.google.com/brown.edu/tainaraborgeswebpage/home)|
+|Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|2,3|[Nathan](https://nathanawagner.weebly.com)|
+|Nov/1|Littlewood-Paley square function theorem |5,9|[Hanye](https://sites.google.com/brown.edu/hanye-zhu)|
+|Nov/8|Function spaces (Littlewood-Paley characterizations)|6|[Bekarys](https://appliedmath.brown.edu/people/bekarys-bekmaganbetov)|
+|Nov/15|Paraproducts and Coifman-Meyer theorem|6,10|[Zhuolun](https://sites.google.com/view/zhuolunyang)|
+|Nov/22|Commutator estimates and fractional Leibniz rules|6,8|TBD|
 |Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Bruno, Haram|
 |Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno, Haram|
 
