@@ -32,6 +32,7 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 
 ## Notes
 - Week 1 [file](https://willkwon-math.github.io/assets/files/SeminarWeek1.pdf)
+- Week 2 [file](https://willkwon-math.github.io/assets/files/SeminarWeek2.pdf)
 
 ## References
 
