@@ -24,7 +24,7 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Oct/18|$A_p$-weights (Reverse Holder inequality, Singular integrals)|5,12|[Tainara](https://sites.google.com/brown.edu/tainaraborgeswebpage/home)|
 |Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|2,3|[Nathan](https://nathanawagner.weebly.com)|
 |Nov/1|Littlewood-Paley square function theorem |5,9|[Hanye](https://sites.google.com/brown.edu/hanye-zhu)|
-|Nov/8|Function spaces (Littlewood-Paley characterizations)|6|[Bekarys](https://appliedmath.brown.edu/people/bekarys-bekmaganbetov)|
+|Nov/8|No seminar (Election day)|||
 |Nov/15|Commutator estimates and fractional Leibniz rules|6,8|[Nathan](https://nathanawagner.weebly.com)|
 |Nov/22|Paraproducts and Coifman-Meyer theorem|6,10|[Zhuolun](https://sites.google.com/view/zhuolunyang)|
 |Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Bruno, Haram|
