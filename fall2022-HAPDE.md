@@ -25,10 +25,10 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Oct/25|$A_p$-weights (Rubio de Francia extrapolation)|2,3|[Nathan](https://nathanawagner.weebly.com)|
 |Nov/1|Littlewood-Paley square function theorem |5,9|[Hanye](https://sites.google.com/brown.edu/hanye-zhu)|
 |Nov/8|No seminar (Election day)|||
-|Nov/15|Commutator estimates and fractional Leibniz rules|6,8|[Nathan](https://nathanawagner.weebly.com)|
-|Nov/22|Paraproducts and Coifman-Meyer theorem|6,10|[Zhuolun](https://sites.google.com/view/zhuolunyang)|
-|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Bruno, Haram|
-|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno, Haram|
+|Nov/15|Commutator estimates (Coifman-Rosenberg-Weiss)|6,8|[Nathan](https://nathanawagner.weebly.com)|
+|Nov/22|Paraproducts and Coifman-Meyer theorem|6,10|[Will](http://willkwon-math.github.io)|
+|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Haram|
+|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno|
 
 ## Notes
 - Week 1 [file](https://willkwon-math.github.io/assets/files/SeminarWeek1.pdf)
