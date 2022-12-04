@@ -27,12 +27,13 @@ We will meet Tuesday from 4 PM -- 5:30 PM at 205 Kassar House.
 |Nov/8|No seminar (Election day)|||
 |Nov/15|Commutator estimates (Coifman-Rosenberg-Weiss)|6,8|[Nathan](https://nathanawagner.weebly.com)|
 |Nov/22|Paraproducts and Coifman-Meyer theorem|6,10|[Will](http://willkwon-math.github.io)|
-|Nov/29|Oscillatory integrals(Strichartz, stationary phase, ...) I|12|Haram|
-|Dec/6|Oscillatory integrals(Strichartz, stationary phase, ...) II|12|Bruno|
+|Nov/29|Strichartz estimates for Schrodinger equations|12|Haram|
+|Dec/6|Strichartz estimates for wave equations|12|Bruno|
 
 ## Notes
 - Week 1 [file](https://willkwon-math.github.io/assets/files/SeminarWeek1.pdf)
 - Week 2 [file](https://willkwon-math.github.io/assets/files/SeminarWeek2.pdf)
+- Paraproduct and COifman-Meyer theorem (upon request) 
 
 ## References
 
