@@ -7,7 +7,7 @@ use_math: true
 
 
 ## Mathematics(Research talks)
-- Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, 2023 Spring Southeastern Sectional Meeting, Mar. 2023. 
+- Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, 2023 AMS Spring Southeastern Sectional Meeting, Mar. 2023. 
 - Elliptic equations with singular drifts on planar domains, Brown Applied Math Graduate Student Seminar, Oct. 2022.
 - Elliptic equations with singular drifts, UNIST PDE seminar, Jun. 2022.
 - Elliptic equations in divergence forms with drifts in $L^2$, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2022/), Apr. 2022 (contribution talks)
