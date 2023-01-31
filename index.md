@@ -19,7 +19,7 @@ Phone. +1 (401)-863-1519
 
 ## About me  
 
-I am Ph. D. student in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was a full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/).
+I am Ph. D. student in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). My academic advisor is Prof. [Hongjie Dong](https://appliedmath.brown.edu/people/hongjie-dong). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was a full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/). 
  
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
@@ -39,7 +39,8 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
 <details>
 <summary>1. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with H. Kim, preprint </summary>
 <div markdown="1">
-**Abstract.** In preparation.
+**Abstract.** We consider a Stokes-Magneto system  in $\mathbb{R}^d$ ($d\geq 2)$ with fractional diffusions   $\Lambda^{2\alpha}\boldsymbol{u}$ and $\Lambda^{2\beta}\boldsymbol{b}$ for the velocity $\boldsymbol{u}$ and the magnetic field $\boldsymbol{b}$, respectively. Here $\alpha,\beta$ are positive constants and $\Lambda^s = (-\Delta)^{s/2}$ is the fractional Laplacian of order $s$. We establish global existence of weak solutions of the  Stokes-Magneto system   for any initial data in $L_{2}$ when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$,
+and $\min\{\alpha+\beta,2\alpha+\beta-1\}>d/2$. It is also shown that weak solutions are   unique  if $\beta \geq 1$ and $\min \{\alpha+\beta,2\alpha+\beta-1\}\geq d/2+1$, in addition.
   </div>
 </details>
 <details>
