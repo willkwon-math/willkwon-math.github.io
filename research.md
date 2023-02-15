@@ -33,4 +33,18 @@ During the master course, I wrote a research article [[KK18]](https://arxiv.org/
 
 ## Mathematical Fluid Dynamics
 
-Writing.... 
+Recently, I worked on global well-posedness of fluid equations that have fractional dissipations. To explain my result, let us first consider the [magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics) equations:
+\begin{equation}
+\left\{\begin{aligned}
+\partial_t u -\Lambda^{2\alpha}u+(u\cdot\nabla)u+\nabla p &=(b\cdot \nabla)b,\\\
+\partial_t b -\Lambda^{2\beta}b + (u\cdot \nabla)b &=(b\cdot\nabla)u,\\
+\mathrm{div}\, u =\mathrm{div}\, b&=0,\\
+u=u_0,\quad b=b_0&
+\end{aligned}
+\right.
+\end{equation}
+Here for $s>0, $\Lambda^s$ denotes the fractional Laplacian which is defined by the Fourier transform:
+\[  \widehat{\Lambda^s f}(\xi)=|\xi|^s \hat{f}(\xi).\]
+The equation was first introduced by Hannes Alfvén to describe the fluid of motions that were induced by magnetic fields. 
+
+(Writing)
