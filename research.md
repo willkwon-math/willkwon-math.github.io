@@ -33,19 +33,33 @@ During the master course, I wrote a research article [[KK18]](https://arxiv.org/
 
 ## Mathematical Fluid Dynamics
 
-Recently, I worked on global well-posedness of fluid equations that have fractional dissipations. To explain my result, let us first consider the [magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics) equations:
+Recently, I worked on global well-posedness of fluid equations that have fractional dissipations. To explain my result, let us first consider the  generalized [magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics) equations:
 <div>
 \begin{equation}
 \left\{\begin{aligned}
-\partial_t u -\Lambda^{2\alpha}u+(u\cdot\nabla)u+\nabla p &=(b\cdot \nabla)b,\\\
-\partial_t b -\Lambda^{2\beta}b + (u\cdot \nabla)b &=(b\cdot\nabla)u,\\
+\partial_t u -\nu\Lambda^{2\alpha}u+(u\cdot\nabla)u+\nabla p &=(b\cdot \nabla)b,\\\
+\partial_t b -\eta\Lambda^{2\beta}b + (u\cdot \nabla)b &=(b\cdot\nabla)u,\\
 \mathrm{div}\, u =\mathrm{div}\, b&=0,\\
 u=u_0,\quad b=b_0&
 \end{aligned}
 \right.
 \end{equation}
-Here for $s>0, $\Lambda^s$ denotes the fractional Laplacian which is defined by the Fourier transform:
+Here $u:\mathbb{R}^d\times (0,\infty)\rightarrow \mathbb{R}^d$ denotes the velocity field and the magnetic field, respectively. For $s>0, $\Lambda^s$ denotes the fractional Laplacian which is defined by the Fourier transform:
 \[  \widehat{\Lambda^s f}(\xi)=|\xi|^s \hat{f}(\xi).\]
-The equation was first introduced by Hannes Alfvén to describe the fluid of motions that were induced by magnetic fields. 
+When $\alpha=\beta=1$, the system is reduced to the classical MHD equation which was first introduced by Hannes Alfvén to describe the fluid of motions that were induced by magnetic fields. 
 </div>
+Many researchers have devoted themselves to establishing well-posedness theory and regularity properties of solutions to the equation. Duvaut-Lions [[DL72]](https://link.springer.com/article/10.1007/BF00250512) proved the existence of weak solutions to the equation. Later, the result was extended by Wu [[W03]](https://www.sciencedirect.com/science/article/pii/S0022039603002341) for general $\alpha$ and $\beta$. 
+
+Starting from Arnol'd, 
+<div>
+\begin{equation}
+\left\{\begin{aligned}
+\partial_t u -\nu\Lambda^{2\alpha}u+(u\cdot\nabla)u+\nabla p &=(b\cdot \nabla)b,\\\
+\partial_t b -\eta\Lambda^{2\beta}b + (u\cdot \nabla)b &=(b\cdot\nabla)u,\\
+\mathrm{div}\, u =\mathrm{div}\, b&=0,\\
+u=u_0,\quad b=b_0&
+\end{aligned}
+\right.
+\end{equation}
+
 (Writing)
