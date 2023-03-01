@@ -45,7 +45,9 @@ u=u_0,\quad b=b_0&
 \right.
 \end{equation}
 Here $u:\mathbb{R}^d\times (0,\infty)\rightarrow \mathbb{R}^d$ denotes the velocity field and the magnetic field, respectively. For $s>0, $\Lambda^s$ denotes the fractional Laplacian which is defined by the Fourier transform:
-$$  \widehat{\Lambda^s f}(\xi)=|\xi|^s \hat{f}(\xi).$$
+\begin{equation}
+\widehat{\Lambda^s f}(\xi)=|\xi|^s \hat{f}(\xi).
+\end{equation}
 When $\alpha=\beta=1$, the system is reduced to the classical MHD equation which was first introduced by Hannes Alfvén to describe the fluid of motions that were induced by magnetic fields. 
 </div>
 Many researchers have devoted themselves to establishing well-posedness theory and regularity properties of solutions to the equation. Duvaut-Lions [[DL72]](https://link.springer.com/article/10.1007/BF00250512) proved the existence of weak solutions to the equation. Later, the result was extended by Wu [[W03]](https://www.sciencedirect.com/science/article/pii/S0022039603002341) for general $\alpha$ and $\beta$. 
@@ -53,7 +55,7 @@ Many researchers have devoted themselves to establishing well-posedness theory a
 Starting from Arnol'd pioneering work, many researchers studied differential equations via dynamical points of view. It is natural to ask a equilibrium point of the corresponding dynamical systems. Arnol'd considered incompressible Euler equations that are regarded as a geodesic equations to find a fixed point of the equations, which is a steady Euler equation. 
 
 Later, Moffatt considered similar situations by working on magnetic fields. He constructed magnetohydrodyanmics equilibria from ideal MHD equations by letting $t\rightarrow \infty$. This procedure is called a <em>magnetic relaxation</em>. However, his construction has a limitation because of the problem on discontinuity in time variables.
- 
+<div>
 \begin{equation}
 \left\{\begin{aligned}
 \partial_t u -\nu\Lambda^{2\alpha}u+(u\cdot\nabla)u+\nabla p &=(b\cdot \nabla)b,\\\
@@ -63,5 +65,6 @@ u=u_0,\quad b=b_0&
 \end{aligned}
 \right.
 \end{equation}
+</div>
 
 (Writing) 
