@@ -45,7 +45,7 @@ u=u_0,\quad b=b_0&
 \right.
 \end{equation}
 </div>
-Here $u:\mathbb{R}^d\times (0,\infty)\rightarrow \mathbb{R}^d$ denotes the velocity field and the magnetic field, respectively. For $s>0, $\Lambda^s$ denotes the fractional Laplacian which is defined by the Fourier transform:
+Here $u:\mathbb{R}^d\times (0,\infty)\rightarrow \mathbb{R}^d$ denotes the velocity field and the magnetic field, respectively. For $s>0$, $\Lambda^s$ denotes the fractional Laplacian which is defined by the Fourier transform:
 <div>
 \begin{equation}
 \widehat{\Lambda^s f}(\xi)=|\xi|^s \hat{f}(\xi).
