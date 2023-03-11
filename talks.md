@@ -8,6 +8,7 @@ use_math: true
 
 ## Mathematics(Research talks)
 - On global weak solutions of a Stokes-Magneto system with fractional diffusions, [2023 AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2298_program_ss18.html#title), Mar. 2023. 
+- On global weak solutions of a Stokes-Magneto system with fractional diffusions, Brown Applied Math Graduate Student Seminar, Mar. 2023. 
 - Elliptic equations with singular drifts on planar domains, Brown Applied Math Graduate Student Seminar, Oct. 2022.
 - Elliptic equations with singular drifts, UNIST PDE seminar, Jun. 2022.
 - Elliptic equations in divergence forms with drifts in $L^2$, [KMS Spring Meeting](http://www.kms.or.kr/meetings/spring2022/), Apr. 2022 (contribution talks)
@@ -23,7 +24,8 @@ use_math: true
 - Dirichlet problems for elliptic equations with singular drifts in Lipschitz domains, Graduate student seminar at Yonsei Univ, September 2018 
 - Elliptic equations with singular drifts in Lipschitz domain, [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), July 2018.
 
-## Mathematics(Expository talks)
+## Mathematics(Expository talks since 2016)
+- A role of pressures in Navier-Stokes equations, GLESPA, Feb. 2023.
 - Survey on Landau damping, [PDE and Applied Analysis Seminar](https://sites.google.com/view/pde-aa-seminar/home?authuser=0), POSTECH, Jun. 2022.
 - On Leray’s fundamental works on Navier-Stokes equation, Stupid Seminar, Jan. 2019.
 - $L^2$-boundedness of the Cauchy integral operator on Lipschitz curves, [KIAS Analysis&PDE Learning seminar](http://www.kias.re.kr/sub05/sub05_02_01_01.jsp?seqno=PGN1720181004-0001&nowBlock=0&page=1&subject=&mjrcd=&mjrcd2=1&sdate=20181005&edate=&keyField=&keyWord=&list_url=/sub05/sub05_02_02.jsp&slides=), Oct 2018 
@@ -31,11 +33,7 @@ use_math: true
 - How to solve the law of nature?, Freshmen seminar at Sogang University, May 2018.
 - Why Nash got Abel prize?, Quaternion (POSTECH undergraduate seminar), May 2017.
 - On the $L_p$-theory of parabolic and elliptic equations of second order, Night Seminar at KAIST, January 2017  
-- Caccioppoli inequality for linear elliptic systems and stationary Stokes equation, Stupid Seminar, June 2016
-- Equidistribution of Sequences, Workshop for  Mathematician, Sogang University, Mar. 2016. 
-- Sharp estimates of van der Corput’s lemma, Stupid Seminar, Sep 2015.
-- The existence of arithmetic progression of length three, Stupid Seminar, Sep 2014.
-- Fourier analysis and equidistribution of sequences, Stupid Seminar, May 2014.
+- Caccioppoli inequality for linear elliptic systems and stationary Stokes equation, Stupid Seminar, June 2016 
 
 ## ${\rm \LaTeX{}}$ 
 - Intensive lectures on ${\rm \LaTeX}$ for mathematicians, SNU, Jan. 2022 and Feb. 2022.
