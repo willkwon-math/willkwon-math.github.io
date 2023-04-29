@@ -97,7 +97,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
 - Others
   - [CVGMT](https://cvgmt.sns.it)
   - [MathSciNet](http://www.ams.org/mathscinet)
-  - Julia [Julia textbook](https://juliabook.chkwon.net/book) [NeuralPDE](https://neuralpde.sciml.ai/stable/)
+  - Julia [Julia textbook](https://juliabook.chkwon.net/book) [NeuralPDE](https://neuralpde.sciml.ai/stable/) [Julia Calculus](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
   - [Brown University SIAM Student Chapter](https://www.dam.brown.edu/siam/index.html)
   - [Stupid Mathematics Seminar in Korea](https://www.facebook.com/mungseminar)  (I am a founder of this seminar)
 
