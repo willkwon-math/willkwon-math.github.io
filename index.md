@@ -36,8 +36,6 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
 
 ## Publications / Preprints
 
-Test
-
 <details>
 <summary>1. Working progress, with H. Bae </summary>
 <div markdown="1">
