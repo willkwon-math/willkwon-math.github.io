@@ -43,7 +43,6 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
   </div>
 </details>
 <details>
-<details>
 <summary>2. Working progress, with H. Dong </summary>
 <div markdown="1">
 **Abstract.** TBA.
