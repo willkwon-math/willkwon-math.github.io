@@ -118,3 +118,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
 - My favorite quotes
   - 不爲也, 非不能也 (孟子) / A lack of effort, not a lack of ability. (Mencius) [translation source](http://www.acmuller.net/con-dao/mencius.html)
   - It is not only courage to boldly jump into a dangerous place. It is also courage to ignore the strong temptation to jump in and go on my own path silently. It is foolish to react immediately when a reverse flow occurs in a forward flow. Maintaining your current flow when your opponent has reversed flow becomes countercurrent from the opponent's point of view. Therefore, the attitude of maintaining my flow without wavering is the best defense and offensive means. (Changho Lee, one of the best "baduk(Go)" player) [translated by Google]
+
+- Some random footprint in the internet
+ - When I was young, I made a train simulator addon ([Seoul Metro Line 4 with Teciyoo](https://teciyoo.tistory.com/189), released in 2007) based on the program [Bve Transim 4](https://en.wikipedia.org/wiki/BVE_Trainsim).
+   - Some Youtube video [link](https://youtu.be/-mr2a3foE5w?t=3354) who played my version.
