@@ -31,9 +31,9 @@ During the master course, I wrote a research article [[KK18]](https://www.ams.or
 2. When $A$ satisfies (1) and $\mathbf{b} \in L^{n,\infty}(\Omega;\mathbb{R}^n)$, $n\geq 2$, $\mathrm{div} \mathbf{b} \geq 0$ in $\Omega$,  I proved that if $q>2$, then there exists $\varepsilon>0$ such that if $g\in W^{-1,q}(\Omega)$,  then there exists a unique $v\in W_0^{1,2+\varepsilon}(\Omega)$ of the problem $(D')$. As an application, I proved that if $f\in \bigcap_{q<2} W^{-1,q}(\Omega)$, there exists a unique $u\in \bigcap_{q<2} W_0^{1,q}(\Omega)$ satisfying the problem $(D)$. The result can be found in [[K20]](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444).  When $n=2$, this result extends Kim-Tsai [[KT20]](https://epubs.siam.org/doi/abs/10.1137/19M1282969?mobileUi=0&) and Chernobai-Shilkin [[CS19]](https://www.tandfonline.com/doi/abs/10.1080/17476933.2020.1816980). 
 3. In [[K21]](https://arxiv.org/abs/2104.01300), I proved that if $2<p<\infty$, $A$ satisfies mean oscillation in small balls and $\mathrm{div} A \in L^{2}(\Omega;\mathbb{R}^2)$, $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^2$ which has a small Lipschitz constant, and $\mathbf{b} \in L^{2}(\Omega;\mathbb{R}^2)$, then the problem $(D')$ has a unique solution in $W_0^{1,p}(\Omega)$. A similar result was also proved for the problem $(D)$. Results are new even if $A=I$. The results complement Kim-Kim [[KK15]](https://epubs.siam.org/doi/abs/10.1137/14096270X?journalCode=sjmaah) and Kang-Kim [[KK17]](http://www.aimsciences.org/article/doi/10.3934/cpaa.2017038) when $n=2$. Further research should be done to remove an additional assumption on $\mathrm{div} A$. 
 
-## Mathematical Fluid Dynamics
+## Mathematical Fluid Dynamics: equations from Magnetohydrodynamics
 
-Recently, I worked on global well-posedness of fluid equations that have fractional dissipations. To explain my result, let us first consider the  generalized [magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics) equations:
+I also worked on the global well-posedness of fluid equations that have fractional dissipations. To explain my result, let us first consider the  generalized [magnetohydrodynamics](https://en.wikipedia.org/wiki/Magnetohydrodynamics) equations:
 <div>
 \begin{equation}
 \left\{\begin{aligned}
@@ -75,3 +75,8 @@ Moffatt introduced this model when $\alpha=1$ and $\eta=0$. When $\nu,\eta>0$, $
 In a joint work with Hyunseok Kim [[HK22]](https://arxiv.org/abs/2302.02046), we proved existence of global weak solutions of the problem for general $\alpha,\beta$ on whole space $\mathbb{R}^d$, $d\geq 2$. More precisely, if $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$,
 and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$, then we proved the existence of global weak solutions of (4). Moreover, we also proved that weak solutions are unique  if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
 
+In the previous research work, (writing in progress....)
+
+## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
+
+(Writing in progress...)
