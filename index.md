@@ -105,8 +105,6 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
   - I gave several online lectures on Youtube (in Korean) [link](https://www.youtube.com/channel/UCE9KYJ_vqV0NHkvIJy4UIvA). Lecture notes can be found in 'Notes' page.
 - Online Seminars
   - [Brown PDE seminar](https://www.dam.brown.edu/pde/seminar.html)
-  - [One World PDE seminar](https://people.bath.ac.uk/mw2319/owpde/)
-  - [PDE seminar via Zoom](https://nguyenquochung1241.wixsite.com/qhung/post/pde-seminar-via-zoom)
   - [UNIST-CUHK-UHK Analysis and PDE seminar](https://hkumath.hku.hk/~imr/event/CUHK_HKU_UNIST_Analysis_and_PDE/index.php)
 
 - Others
