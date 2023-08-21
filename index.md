@@ -44,7 +44,7 @@ The drawing was given by one of my students in the Republic of Korea Air Force A
 </details>
 
 <details>
-<summary>2. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with H. Dong </summary>
+<summary>2. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with H. Dong, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form with variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
