@@ -2,6 +2,9 @@
 layout: ordinary
 use_math: true 
 ---
+## At Brown (2022-Present) as a TA and instructor
+- Fall 2023 - [APMA 1210 Operations Research: Deterministic Models](https://willkwon-math.github.io/teaching/APMA1210-Fall2023) 
+
 ## At ROKAFA (2019-2022) as a Lecturer
 - Spring 2022 – Calculus, 2 classes / Engineering Mathematics II
 - Fall 2021 – Linear Algebra(Computer Science and Engineering, 1 class / Human and Social Sciences, 2 classes)  
