@@ -33,7 +33,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Teaching
 - [APMA 1210 Operations Research: Deterministic Models](https://willkwon-math.github.io/teaching/APMA1210-Fall2023) (Fall 2023 / TA / Instructor: Amalia Culiuc)
 
-** Students, if you want to reach out to me, please send me an email with a pre-title (APMA 1210) so that I will not miss your email. **
+*Students, if you want to reach out to me, please send me an email with a pre-title (APMA 1210) so that I will not miss your email. *
 
 ## Activity
 - Starting from Spring 2023, I am organizing seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home?authuser=0).
