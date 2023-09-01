@@ -23,12 +23,15 @@ I am Ph. D. student in [the Division of Applied Mathematics](https://appliedmath
  
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
-The drawing was given by one of my students in the Republic of Korea Air Force Academy.
+The drawing was given by one of my students at the Republic of Korea Air Force Academy.
 
 ## Research Interests
  
 - Partial Differential Equations
 - Harmonic Analysis (real-variable methods)
+
+## Teaching
+- APMA 1210 Operations Research: Deterministic Models (Fall 2023 / TA / Instructor: Amalia Culiuc)
 
 ## Activity
 - Starting from Spring 2023, I am organizing seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home?authuser=0).
