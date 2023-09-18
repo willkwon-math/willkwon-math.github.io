@@ -15,7 +15,6 @@ Brown University,<br>
 182 George Street, Providence, RI 02912, USA
 
 Email. hyunwoo_kwon[at]brown[dot]edu<br>
-Phone. +1 (401)-863-1519
 
 ## About me  
 
