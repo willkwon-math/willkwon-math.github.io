@@ -76,9 +76,21 @@ In a joint work with Hyunseok Kim [[HK22]](https://arxiv.org/abs/2302.02046), we
 and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$, then we proved the existence of global weak solutions of (4). Moreover, we also proved that weak solutions are unique  if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
 
 <div>
-In the previous research work, we only proved the uniqueness of weak solutions when $\beta \geq 1$. Even though we can guarantee the existence of weak solutions for $\beta$ below 1, due to the structure that we used, we cannot proceed to guarantee the uniqueness of weak solutions. In the recent joint work with Hantaek Bae and Jaeyong Shin, we proved that when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta>1/2$, $\alpha+\beta<d+1$ (and some additional technical conditions if $\alpha>(d+2)/4$, local-in-time mild solutions exist and global-in-time mild solutions exist for sufficiently small initial data which belongs to the natural scaling critical $L^p$-space corresponding to our Stokes-Magneto system. We also proved that $\lim_{t\rightarrow\infty}\Vert \mathbf{b}(t) \Vert_{L^p}=0$. In the same paper, when $\eta=0$ and on torus, we proved that a local-in-time strong solution exists for more irregular data and it becomes global when $\alpha\geq d/2+1$ and $s\geq 1$. This answers the question on the global existence part given in Question 1 of Beekie-Friedlander-Vicol when $\alpha \geq d/2+1$.
+In the previous research work, we only proved the uniqueness of weak solutions when $\beta \geq 1$. Even though we can guarantee the existence of weak solutions for $\beta$ below 1, due to the structure that we used, we cannot proceed to guarantee the uniqueness of weak solutions. In the recent joint work with Hantaek Bae and Jaeyong Shin, we proved that when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta>1/2$, $\alpha+\beta<d+1$ (and some additional technical conditions if $\alpha>(d+2)/4$), local-in-time mild solutions exist and global-in-time mild solutions exist for sufficiently small initial data which belongs to the natural scaling critical $L^p$-space corresponding to our Stokes-Magneto system. We also proved that $\lim_{t\rightarrow\infty}\Vert {b}(t) \Vert_{L^p}=0$. In the same paper, when $\eta=0$ and on the torus, we proved that a local-in-time strong solution exists for more irregular data and it becomes global when $\alpha\geq d/2+1$ and $s\geq 1$. This answers the question on the global existence part given in Question 1 of Beekie-Friedlander-Vicol when $\alpha \geq d/2+1$.
 </div>
   
 ## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
 
-(Writing in progress...)
+Recently, I also worked on local regularity theory for Stokes equations. To explain this result, let us consider nonstationary Stokes equations with variable viscosity coefficients:
+$$
+\partial_t u - a^{ij}(t,x)D_{ij} u + \nabla p = f,\quad \mathrm{div}\, u=g\quad \text{in } U.
+$$
+Here $a^{ij}(t,x)$ is uniformly elliptic as in the first section. Also, $U$ is a cylindrical domain in $\mathbb{R}^{d+1}$. In the case of the heat equation, it is easy to show that if $u \in L^2(Q_1)$ is a very weak solution to heat equations $\partial_t u-\Delta u =0$ in $Q_1$, then $u$ is smooth in $Q_1$. Moreover, one can also show that 
+$$ \Vert D^2 u \Vert_{L_{2}(Q_{1/2})}\leq N \Vert u \Vert_{L_{2}(Q_1)}.$$
+However, it is not easy to verify that such an estimate holds for Stokes equations due to the presence of pressure. 
+
+When $g=0$ and $a^{ij}=\delta^{ij}$, such estimate was first obtained by Chen-Strain-Yau-Tsai (2008) proved that if $1<s,q<\infty$, then 
+$$ \Vert D^2 u \Vert_{L_{s,q}(Q_{1/2)} \leq N (\Vert u \Vert_{L_{s,1}(Q_1)} + \Vert f \Vert_{L_{s,q}(Q_1)}).$$
+holds. Independently, Jin (2013) and Wolf (2015) also proved the validity of such an estimate when $s=q=2$.
+
+....
