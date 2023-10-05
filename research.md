@@ -75,8 +75,10 @@ Moffatt introduced this model when $\alpha=1$ and $\eta=0$. When $\nu,\eta>0$, $
 In a joint work with Hyunseok Kim [[HK22]](https://arxiv.org/abs/2302.02046), we proved the existence of global weak solutions of the problem for general $\alpha,\beta$ on whole space $\mathbb{R}^d$, $d\geq 2$. More precisely, if $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$,
 and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$, then we proved the existence of global weak solutions of (4). Moreover, we also proved that weak solutions are unique  if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
 
+<div>
 In the previous research work, we only proved the uniqueness of weak solutions when $\beta \geq 1$. Even though we can guarantee the existence of weak solutions for $\beta$ below 1, due to the structure that we used, we cannot proceed to guarantee the uniqueness of weak solutions. In the recent joint work with Hantaek Bae and Jaeyong Shin, we proved that when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta>1/2$, $\alpha+\beta<d+1$ (and some additional technical conditions if $\alpha>(d+2)/4$, local-in-time mild solutions exist and global-in-time mild solutions exist for sufficiently small initial data which belongs to the natural scaling critical $L^p$-space corresponding to our Stokes-Magneto system. In the same paper, when $\eta=0$, we proved that a local-in-time strong solution exists for more irregular data and it becomes global when $\alpha\geq d/2+1$ and $s\geq 1$. This answers the question on the global existence part given in Question 1 of Beekie-Friedlander-Vicol when $\alpha \geq d/2+1$.
-
+</div>
+  
 ## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
 
 (Writing in progress...)
