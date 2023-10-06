@@ -43,7 +43,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 <details>
 <summary>1. Global solutions to Stokes-Magneto equations with fractional dissipations, with H. Bae and J. Shin, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
 <div markdown="1">
-**Abstract.** In this paper, we investigate a Stokes-Magneto system with fractional diffusions. We first deal with the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness with initial magnetic field $\mathbf{b}_0 \in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resistive case with initial data b0 in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that $\Vert \mathbf{b}(t)\Vert_{L^p}$ converges to zero as t→∞ when the initial data is sufficiently small.
+**Abstract.** In this paper, we investigate a Stokes-Magneto system with fractional diffusions. We first deal with the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness with initial magnetic field $\mathbf{b}_0 \in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resistive case with initial data $\mathbf{b}_0$ in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that $\Vert \mathbf{b}(t)\Vert_{L^p}$ converges to zero as $t\rightarrow\infty$ when the initial data is sufficiently small.
   </div>
 </details>
 
