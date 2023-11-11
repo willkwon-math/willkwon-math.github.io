@@ -8,6 +8,8 @@ use_math: true
 
 ## Mathematics(Research talks)
 - Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, Joint Mathematical Meeting 2024, Jan. 2024.
+- Elliptic equations with singular drifts on Lipschitz domains, Analysis Seminar at Temple University, Nov. 2023.
+- Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, 19th Praire Analysis Seminar at Kansas State University, Nov. 2023.
 - Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, PDE and Differential Geometry Seminar at UCONN, Oct. 2023.
 - On global weak solutions of a Stokes-Magneto system with fractional diffusions, [2023 AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2298_program_ss18.html#title), Mar. 2023. 
 - On global weak solutions of a Stokes-Magneto system with fractional diffusions, Brown Applied Math Graduate Student Seminar, Mar. 2023. 
