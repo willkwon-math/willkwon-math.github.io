@@ -95,9 +95,11 @@ $$ \Vert D^2 u \Vert_{L_{2}(Q_{1/2})}\leq N \Vert u \Vert_{L_{2}(Q_1)}.$$
 However, it is not easy to verify that such an estimate holds for Stokes equations due to the presence of pressure. This is captured by a well-known example given by Serrin (1962): consider 
 $$ u(t,x)=c(t)\nabla \phi(x),\quad p(t,x)=-c(t)\phi(x),$$
 where $\phi$ is harmonic. Then $(u,p)$ satisfies 
-$$ \partial_t u -\Delta u + \nabla p=0,\quad \Div u= 0.$$
+$$ \partial_t u -\Delta u + \nabla p=0,\quad \mathrm{div} u= 0.$$
 Note that we can choose $c$ as an absolutely continuous function. 
+</div>
 
+<div>
 When $g=0$ and $a^{ij}=\delta^{ij}$, such estimate was first obtained by Chen-Strain-Yau-Tsai (2008) proved that if $1<s,q<\infty$, then 
 $$\Vert D^2 u \Vert_{L_{s,q}(Q_{1/2)} \leq N (\Vert u \Vert_{L_{s,1}(Q_1)} + \Vert f \Vert_{L_{s,q}(Q_1)}).$$
 holds. Independently, Jin (2013) and Wolf (2015) also proved the validity of such an estimate when $s=q=2$. Later, Dong-Phan (2021) obtained that if $a^{ij}$ is in $VMO_x$, then such regularity estimate is possible even if $g$ is nonzero. However, they need to assume that $u\in \tilde{W}^{1,2}_{s,q}(Q_1)$ to get the desired regularity estimate, where $\tilde{W}^{1,2}_{s,q}(Q_1)=\{ u, Du, D^2 u \in L_{s,q}(Q_1), \partial_t u\in L_1(Q_1)\}$. In the same paper, they also obtained the corresponding results for Stokes equations in divergence form. In this case, the leading coefficient need not be bounded. Observe that these results are a priori results to obtain such regularity results. Recently, Dong-Li (2023) obtained an interior regularity estimate when $s=q$ and $a^{ij}$ is merely measurable in $t$ and Holder continuous in $x$ via level set argument following Caffarelli-Peral, Wang, Byun, etc. 
