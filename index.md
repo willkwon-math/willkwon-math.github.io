@@ -31,11 +31,6 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 - Partial Differential Equations
 - Harmonic Analysis (real-variable methods)
 
-## Teaching
-- [APMA 1210 Operations Research: Deterministic Models](https://willkwon-math.github.io/teaching/APMA1210-Fall2023) (Fall 2023 / TA / Instructor: Amalia Culiuc)
-
-*Students, if you want to reach out to me, please send me an email with a pre-title (APMA 1210) so that I will not miss your email.*
-
 ## Activity
 - Starting from Spring 2023, I am organizing seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home?authuser=0).
 - In Fall 2022, I organized learning seminar on [Harmonic analysis related to PDEs](https://willkwon-math.github.io/fall2022-HAPDE).
@@ -43,20 +38,27 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Global solutions to Stokes-Magneto equations with fractional dissipations, with H. Bae and J. Shin, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
+<summary>1. Working progress with H. Dong </summary>
+<div markdown="1">
+**Abstract.** TBA
+  </div>
+</details>
+
+<details>
+<summary>2. Global solutions to Stokes-Magneto equations with fractional dissipations, with H. Bae and J. Shin, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.** In this paper, we investigate a Stokes-Magneto system with fractional diffusions. We first deal with the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness with initial magnetic field $\boldsymbol{b}_0\in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resisitive case with initial data $\boldsymbol{b}_0$ in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that the $L^p$-norm of $\boldsymbol{b}(t)$ converges to zero as $t\rightarrow\infty$ if the initial data is sufficiently small.
   </div>
 </details>
 
 <details>
-<summary>2. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with H. Dong, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
+<summary>3. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with H. Dong, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form with variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
 </details>
 <details>
-<summary>3. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with H. Kim, to appear in J. Differential Equations, <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
+<summary>4. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with H. Kim, to appear in J. Differential Equations, <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider a Stokes-Magneto system  in $\mathbb{R}^d$ ($d\geq 2)$ with fractional diffusions   $\Lambda^{2\alpha}\boldsymbol{u}$ and $\Lambda^{2\beta}\boldsymbol{b}$ for the velocity $\boldsymbol{u}$ and the magnetic field $\boldsymbol{b}$, respectively. Here $\alpha,\beta$ are positive constants and $\Lambda^s = (-\Delta)^{s/2}$ is the fractional Laplacian of order $s$. We establish global existence of weak solutions of the  Stokes-Magneto system   for any initial data in $L_{2}$ when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$,
 and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$. It is also shown that weak solutions are   unique  if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
@@ -64,7 +66,7 @@ and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$. It is also shown that weak solutio
 </details>
 
 <details>
-<summary>4. Elliptic equations in divergence form with drifts in $L^2$, Proc. Amer. Math. Soc. 150(2022), no. 8, 3415–-3429, 2022 <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6">[Journal]</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
+<summary>5. Elliptic equations in divergence form with drifts in $L^2$, Proc. Amer. Math. Soc. 150(2022), no. 8, 3415–-3429, 2022 <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6">[Journal]</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
 <center>
@@ -75,7 +77,7 @@ in bounded Lipschitz domain $\Omega$ in $\mathbb{R}^2$, where $A:\mathbb{R}^2\ri
 </details>
 
 <details>
-<summary>5. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
+<summary>6. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
 <center>
@@ -86,7 +88,7 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 </details>
 
 <details>
-<summary>6. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, Trans. Amer. Math. Soc. 375(9), 2022, <a href = "https://doi.org/10.1090/tran/8730">[Journal]</a>, <a href ="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP] </a>
+<summary>7. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with H. Kim, Trans. Amer. Math. Soc. 375(9), 2022, <a href = "https://doi.org/10.1090/tran/8730">[Journal]</a>, <a href ="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP] </a>
 </summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
