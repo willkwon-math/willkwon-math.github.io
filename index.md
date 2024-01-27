@@ -111,9 +111,9 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
   - I was a technical editor of ICM Proceedings 2014 which can be found in pdf files in [IMU homepage](https://www.mathunion.org/icm/proceedings/2014).
   - My name was written in the acknowledgement of [Sobolev and Viscosity Solutions for Fully Nonlinear Elliptic and Parabolic Equations](https://bookstore.ams.org/cdn-1612203880278/surv-233/~~FreeAttachments/surv-233-pref.pdf) written by N. V. Krylov.  
   - I gave several online lectures on Youtube (in Korean) [link](https://www.youtube.com/channel/UCE9KYJ_vqV0NHkvIJy4UIvA). Lecture notes can be found in 'Notes' page.
-- Online Seminars
+- Seminars
   - [Brown PDE seminar](https://www.dam.brown.edu/pde/seminar.html)
-  - [UNIST-CUHK-UHK Analysis and PDE seminar](https://hkumath.hku.hk/~imr/event/CUHK_HKU_UNIST_Analysis_and_PDE/index.php)
+  - [Brown Analysis seminar](https://sites.google.com/brown.edu/brownanalysisseminar/home)
 
 - Others
   - [CVGMT](https://cvgmt.sns.it)
