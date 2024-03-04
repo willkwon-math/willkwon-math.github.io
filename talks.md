@@ -29,6 +29,7 @@ use_math: true
 - Elliptic equations with singular drifts in Lipschitz domain, [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), July 2018.
 
 ## Mathematics(Expository talks since 2016)
+- Local Well-posedness and singularity formuation of Burgers equations I, GLESPA, Mar. 2024.
 - A role of pressures in Navier-Stokes equations, GLESPA, Feb. 2023.
 - Survey on Landau damping, [PDE and Applied Analysis Seminar](https://sites.google.com/view/pde-aa-seminar/home?authuser=0), POSTECH, Jun. 2022.
 - On Leray’s fundamental works on Navier-Stokes equation, Stupid Seminar, Jan. 2019.
