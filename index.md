@@ -18,7 +18,7 @@ Email. hyunwoo_kwon[at]brown[dot]edu<br>
 
 ## About me  
 
-I am Ph. D. candidate in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). My thesis advisor is Prof. [Hongjie Dong](https://appliedmath.brown.edu/people/hongjie-dong). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was a full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/). 
+I am Ph. D. candidate in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). My thesis advisor is Prof. [Hongjie Dong](https://appliedmath.brown.edu/people/hongjie-dong). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was an assistant professor and full-time lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](http://maths.sogang.ac.kr/kimh/). 
 
 You can pronounce my Korean name as "Hyeo-nu" (there is a linking sound between un and woo)
  
