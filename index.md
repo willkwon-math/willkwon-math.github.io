@@ -38,7 +38,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Working progress with W. Huang and B. Pausader </summary>
+<summary>1. Working progress with some people </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
