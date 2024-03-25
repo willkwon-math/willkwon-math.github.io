@@ -38,7 +38,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Working progress on kinetic equations with Wenrui Huang </summary>
+<summary>1. Working progress on kinetic equations with W. Huang </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
