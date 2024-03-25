@@ -38,14 +38,14 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Working progress with some people </summary>
+<summary>1. Working progress on kinetic equations with Wenrui Huang </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
 </details>
 
 <details>
-<summary>2. Working progress with H. Dong </summary>
+<summary>2. Working progress on Stokes equations with H. Dong </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
