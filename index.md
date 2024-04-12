@@ -32,7 +32,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 - Harmonic Analysis (real-variable methods)
 
 ## Activity
-- In Fall 2024, I will organize learning seminar on the Cauchy problem on free surface flows.
+- In Fall 2024, I will organize learning seminar on the [Cauchy problem on free surface flows](https://willkwon-math.github.io/fall2024-Muskat).
 - Starting from Spring 2023, I am organizing seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with [Tainara Gobetti Borges](https://sites.google.com/brown.edu/tainaraborgeswebpage/home?authuser=0).
 - In Fall 2022, I organized learning seminar on [Harmonic analysis related to PDEs](https://willkwon-math.github.io/fall2022-HAPDE).
 
