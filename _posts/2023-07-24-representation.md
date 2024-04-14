@@ -33,6 +33,8 @@ $$v(t,x)=\int_{B_{2R}} G(x,y) f(t,y)dy.$$
 From this representation formula, it is easy to show that $v$ is measurable in $(t,x)$. Define 
 $$ G(t,x) = \nabla_x v(t,x)|_{\Omega} + F(t,x).$$
 Then it is easy to show that 
-$$ \mathrm{div}\, G = f+\mathrm{div}\, F=u\quad\text{in } (S,T)\times \Omega \text{and}\quad \Vert G\Vert_{L_{s,q}((S,T)\times \Omega)}\leq N (\Vert{f}\Vert_{L_{s,q}((S,T)\times \Omega)}+\Vert{G}\Vert_{L_{s,q}((S,T)\times \Omega)}),$$
+$$ \mathrm{div}\, G = f+\mathrm{div}\, F=u\quad\text{in } (S,T)\times \Omega$$
+ and
+$$\Vert G\Vert_{L_{s,q}((S,T)\times \Omega)}\leq N (\Vert{f}\Vert_{L_{s,q}((S,T)\times \Omega)}+\Vert{G}\Vert_{L_{s,q}((S,T)\times \Omega)}),$$
  where the constant $N$ depends on the diameter of $\Omega$, $s$, $q$, and $d$. This completes the proof.
 </div>
