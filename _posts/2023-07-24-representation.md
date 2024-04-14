@@ -20,7 +20,7 @@ While I am preparing new paper, I found that I need to use the parabolic analogu
 $$ \mathbb{H}^{-1}_{s,q}((S,T)\times \Omega) = \{ u : u=f+\mathrm{div} F\quad\text{in } (S,T)\times \Omega \}.$$    
 
 <blockquote>
-<strong>Proposition.</strong> Let $\Omega$ be a bounded domain in $\mathbb{R}^d$, $d\geq 2$ and $1<s,q<\infty$. If $u\in \mathbb{H}^{-q}_{s,q}((S,T)\times \Omega)$, then there exists $G\in L_{s,q}((S,T)\times \Omega)$ satisfying 
+<strong>Proposition.</strong> Let $\Omega$ be a bounded domain in $\mathbb{R}^d$, $d\geq 2$ and $1<s,q<\infty$. If $u\in \mathbb{H}^{-1}_{s,q}((S,T)\times \Omega)$, then there exists $G\in L_{s,q}((S,T)\times \Omega)$ satisfying 
 $$ u= \mathrm{div}\,G$$
                                                                                                    and 
                                                                                                    $$\Vert G\Vert_{s,q}\leq C \Vert{u}\Vert_{\mathbb{H}^{-1}_{s,q}}.$$
