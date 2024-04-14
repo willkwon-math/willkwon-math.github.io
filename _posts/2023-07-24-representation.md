@@ -25,6 +25,7 @@ $$ u= \mathrm{div}\,G$$
                                                                                                    and 
                                                                                                    $$\Vert G\Vert_{s,q}\leq C \Vert{u}\Vert_{\mathbb{H}^{-1}_{s,q}}.$$
 </blockquote>
+<div>
 Proof. The idea is essentially the same with some modification. Since $\Omega$ is bounded, choose $R>0$ so that $\Omega \subset B_{2R}$. Fix a.e. $t\in (S,T)$. Then there exists a unique $v(t)\in\mathring{W}^1_q(B_{2R})\cap W^{2}_q(B_{2R})$ satisfying 
 $$ -\Delta v(t) = f \quad \text{in } B_{2R}\quad v(t)=0\quad \text{on } \partial B_{2R}.$$
 A bit problematic one is that it is not clear whether $(t,x)\mapsto v(t,x)$ is measurable. To handle this issue, we use a Green function of $-\Delta$. Let $G$ be a Green function of $-\Delta$ on $B_{2R}$. Then 
@@ -34,3 +35,4 @@ $$ G(t,x) = \nabla_x v(t,x)|_{\Omega} + F(t,x).$$
 Then it is easy to show that 
 $$ \mathrm{div}\, G = f+\mathrm{div}\, F=u\quad\text{in } (S,T)\times \Omega \text{and}\quad \Vert G\Vert_{L_{s,q}((S,T)\times \Omega)}\leq N (\Vert{f}\Vert_{L_{s,q}((S,T)\times \Omega)}+\Vert{G}\Vert_{L_{s,q}((S,T)\times \Omega)}),$$
  where the constant $N$ depends on the diameter of $\Omega$, $s$, $q$, and $d$. This completes the proof.
+</div>
