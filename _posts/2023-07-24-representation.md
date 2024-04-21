@@ -31,10 +31,10 @@ $$ -\Delta v(t) = f \quad \text{in } B_{2R}\quad v(t)=0\quad \text{on } \partial
 A bit problematic one is that it is not clear whether $(t,x)\mapsto v(t,x)$ is measurable. To handle this issue, we use a Green function of $-\Delta$. Let $G$ be a Green function of $-\Delta$ on $B_{2R}$. Then 
 $$v(t,x)=\int_{B_{2R}} G(x,y) f(t,y)dy.$$
 From this representation formula, it is easy to show that $v$ is measurable in $(t,x)$. Define 
-$$ G(t,x) = \nabla_x v(t,x)|_{\Omega} + F(t,x).$$
+$$ H(t,x) = \nabla_x v(t,x)|_{\Omega} + F(t,x).$$
 Then it is easy to show that 
-$$ \mathrm{div}\, G = f+\mathrm{div}\, F=u\quad\text{in } (S,T)\times \Omega$$
+$$ \mathrm{div}\, H = f+\mathrm{div}\, F=u\quad\text{in } (S,T)\times \Omega$$
  and
-$$\Vert G\Vert_{L_{s,q}((S,T)\times \Omega)}\leq N (\Vert{f}\Vert_{L_{s,q}((S,T)\times \Omega)}+\Vert{G}\Vert_{L_{s,q}((S,T)\times \Omega)}),$$
+$$\Vert H\Vert_{L_{s,q}((S,T)\times \Omega)}\leq N (\Vert{f}\Vert_{L_{s,q}((S,T)\times \Omega)}+\Vert{F}\Vert_{L_{s,q}((S,T)\times \Omega)}),$$
  where the constant $N$ depends on the diameter of $\Omega$, $s$, $q$, and $d$. This completes the proof.
 </div>
