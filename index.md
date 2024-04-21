@@ -39,18 +39,19 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Working progress on kinetic equations with W. Huang </summary>
+<summary>1. Working progress on Stokes equations with H. Dong </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
 </details>
 
 <details>
-<summary>2. Working progress on Stokes equations with H. Dong </summary>
+<summary>2. Scattering of the Vlasov-Riesz system in three dimensions with W. Huang </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
 </details>
+
 
 <details>
 <summary>3. Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
