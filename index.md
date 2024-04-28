@@ -28,7 +28,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 
 ## Research Interests
  
-- Partial Differential Equations
+- Partial Differential Equations (elliptic/parabolic PDEs, Fluid equations, and Kinetic Equations)
 - Harmonic Analysis (real-variable methods)
 
 ## Activity
