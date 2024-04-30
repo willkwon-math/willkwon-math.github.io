@@ -46,7 +46,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 </details>
 
 <details>
-<summary>2. Scattering of the Vlasov-Riesz system in three dimensions with W. Huang </summary>
+<summary>2. Working progress on kinetic equations with W. Huang </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
