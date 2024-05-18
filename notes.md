@@ -13,6 +13,10 @@ Also, these are some slide files that were presented in several classes and semi
 
 - [Bilinear estimates in BMO and the Navier-Stokes equations(based on the paper of Kozono-Taniuchi)](https://willkwon-math.github.io/assets/files/0515-Kozono-Taniuchi.pdf)
 
+My own note on harmonic analysis and its application to PDEs (I will keep update it)
+- [Link](https://www.dropbox.com/scl/fi/lks4hs8a3h7c4o1vpyffp/Seminar.pdf?rlkey=rubo5kdbfzyueddnaz675easf&dl=0)
+
+
 The following notes are available upon request (incomplete note/not open to public)
 
 - Introduction to Partial Differential Equation (written in Korean)
@@ -21,7 +25,7 @@ The following notes are available upon request (incomplete note/not open to publ
 - Introduction to Random process (based on the book of Krylov)
 - Littlewood-Paley theory and Kato-Ponce inequality (based on the paper of Dong Li, Fractional Leibniz rules and Kato-Ponce inequality) 
 - Local well-posedness and gradient blow up of Burgers type equations
-- 
+
 ## ${\rm \LaTeX{}}$
 
 Below are lecture notes on LaTeX (usually written in Korean)
