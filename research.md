@@ -92,7 +92,7 @@ Here $a^{ij}(t,x)$ is uniformly elliptic as in the first section. Also, $U$ is a
   
 In the case of the heat equation, it is easy to show that if $u \in L^2(Q_1)$ is a very weak solution to heat equations $\partial_t u-\Delta u =0$ in $Q_1$, then $u$ is smooth in $Q_1$. Moreover, one can also show that 
 $$ \Vert D^2 u \Vert_{L_{2}(Q_{1/2})}\leq N \Vert u \Vert_{L_{2}(Q_1)}.$$
-However, it is not easy to verify that such an estimate holds for Stokes equations due to the presence of pressure. This is captured by a well-known example given by Serrin (1962): consider 
+However, unlike heat equation, Stokes equation may not have good regularity properties. This is captured by a well-known example given by Serrin (1962): consider 
 $$ u(t,x)=c(t)\nabla \phi(x),\quad p(t,x)=-c(t)\phi(x),$$
 where $\phi$ is harmonic. Then $(u,p)$ satisfies 
 $$ \partial_t u -\Delta u + \nabla p=0,\quad \mathrm{div} u= 0.$$
