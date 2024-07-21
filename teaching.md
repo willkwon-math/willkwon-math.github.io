@@ -3,6 +3,7 @@ layout: ordinary
 use_math: true 
 ---
 ## At Brown (2022-Present) as a TA and instructor
+- Summer 2024 - APMA Summer Bridge Program (crash course on real analysis)
 - Spring 2024 - APMA 0360 Applied Partial Differential Equations I
 - Fall 2023 - APMA 1210 Operations Research: Deterministic Models
 
