@@ -7,6 +7,9 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Scattering of the Vlasov-Riesz systems in three dimensions, PDE and Applied Analysis at POSTECH (online), Sep. 2024.
+- Scattering of the Vlasov-Riesz systems in three dimensions, PDE seminar at Yonsei University(online), Aug. 2024.
+- Scattering of the Vlasov-Riesz systems in three dimensions, Nonlinear PDEs Summer School, UC Berkeley, Jun. 2024.
 - Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, Joint Mathematical Meeting 2024, Jan. 2024.
 - Elliptic equations with singular drifts on Lipschitz domains, Analysis Seminar at Temple University, Nov. 2023.
 - Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, 19th Praire Analysis Seminar at Kansas State University, Nov. 2023.
