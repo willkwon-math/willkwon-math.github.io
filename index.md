@@ -46,9 +46,9 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 </details>
 
 <details>
-<summary>2. Scattering of Vlasov-Riesz systems in the three dimensions, with W. Huang </summary>
+<summary>2. Scattering of Vlasov-Riesz systems in the three dimensions, with W. Huang, <a href="http://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a></summary> </summary>
 <div markdown="1">
-**Abstract.** We consider the asymptotic behavior of solutions to the Vlasov-Riesz system of order $\alpha$ in $\mathbb{R}^3$ which is a kinetic model induced by Riesz interaction. We prove the global existence of solutions to this system of order $\alpha$ in $\mathbb{R}^3$ when $\alpha \in (1/2,1+\delta)\setminus\{1\}$ and the initial data is sufficiently small. These solutions exhibit scattering when $\alpha<1$ and modified scattering when $\alpha>1$. Moreover, we show the existence of wave/modified-wave operators for such a regime. To the best of our knowledge, the result presented in this paper is the first result on the existence of polynomial corrective modified scattering in kinetic models.
+**Abstract.** We consider an asymptotic behavior of solutions to the Vlasov-Riesz system of order $\alpha$ in $\mathbb{R}^3$ which is a kinetic model induced by Riesz interactions. We prove small data scattering when $1/2<\alpha<1$ and modified scattering when $1<\alpha<1+\delta$ for some $\delta>0$. Moreover, we show the existence of (modified) wave operators for such a regime. To the best of our knowledge, this is the first result on the existence of modified scattering with polynomial correction in kinetic models.
   </div>
 </details>
 
