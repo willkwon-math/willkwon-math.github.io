@@ -109,7 +109,6 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
 </details>
 
 ## Previous events
-- [2023 Workshop for admission to graduate school for Sogang alumni](https://radical-target-92f.notion.site/2023-c4efffa1ec9b49ae85e06e2073155fdb?pvs=4), co-organized with various alumni in Sogang, July 2023.
 - [Workshop for young mathematicians in Korea](https://sites.google.com/view/wym2022/), co-organized with D. Ko and B. Sohn, January 2022.
 - [Workshop for students in Analysis and PDE](https://sites.google.com/view/wsap2018/), co-organized with S. Ryoo, H. Kim, and Y. Lee, July 2018.
  
