@@ -39,7 +39,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Working progress on Stokes equations with H. Dong </summary>
+<summary>1. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
