@@ -39,7 +39,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong </summary>
+<summary>1. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider nonstationary Stokes equations in nondivergence form with variable viscosity coefficients and Navier slip boundary conditions with slip coefficient $\alpha$ in a domain $\Omega$. On the one hand, if $\alpha$ is sufficiently smooth, then we obtain a priori local regularity estimates for solutions near a curved portion of the boundary of the domain. On the other hand, if $\alpha$ depends on the curvature of the boundary of the domain, then we obtain local boundary estimates of Hessians of solutions where the right-hand side does not contain the pressure. Our results are new even if the viscosity coefficients are constant.
   </div>
