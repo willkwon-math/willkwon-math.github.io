@@ -29,6 +29,7 @@ data I-III
 
 ## Courselog
 9/11 - We introduced the Muskat problem and reformulated the original problem via the Dirichlet-to-Neumann operator
+9/18 - We proved the continuity of the Dirichlet-to-Neumann operator from $H^{1/2}$ to $H^{-1/2}$. Moreover, we explained a motivation to study paradifferential calculus.
 
 ## Notes
 
