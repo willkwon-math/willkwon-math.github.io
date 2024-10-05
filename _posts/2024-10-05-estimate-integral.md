@@ -12,7 +12,7 @@ $$  \phi(r,X_0)=\sup_{t\in (t_0-r^2,t_0)} \frac{c}{r^2}\left(\fint_{B_r(x_0)} |u
 for some $q_{X_0,r}(x)=a_{X_0,r}+ b_{X_0,r} \cdot (x-x_0) + (x-x_0)^T C_{X_0,r}(x-x_0)$. 
   </div>
   
-<div>
+
 If we take
 \begin{align*}
  q_{X_0,r}-q_{X_0,\kappa r} &= (a_{X_0,r}-a_{X_0,\kappa r}) + (b_{X_0,r}-b_{X_0,\kappa r})\cdot (x-x_0)\\
@@ -36,7 +36,7 @@ Using polar coordinates and oddness of $(b\cdot y)$ and $2(b\cdot y)y^T Ay$, we 
 &=\int_{\mathbb{S}^{d-1}}\int_0^r \left(a^2 + \rho^2(b\cdot \omega)^2+\rho^4 |\omega^T A \omega|^2 +2a\rho^2(\omega^T A \omega)\right) \rho^{d-1}d\rho d\sigma(\omega)\\
 &=\int_{\mathbb{S}^{d-1}} \frac{a^2}{d}r^d+\frac{(b\cdot \omega)^2}{d+2} r^{d+2}+\frac{|\omega^T A\omega|^2}{d+4}r^{d+4}+\frac{2a(\omega^T A\omega)}{d+2}r^{d+2} d\sigma(\omega).
 \end{align*}
-  </div>
+
 
 <div>
 By Young's inequality, we have 
