@@ -32,6 +32,9 @@ data I-III
 9/18 - We proved the continuity of the Dirichlet-to-Neumann operator from $H^{1/2}$ to $H^{-1/2}$. Moreover, we explained a motivation to study paradifferential calculus.<br>
 9/25 - We introduced paradifferential operators and some estimates on paraproduct.
 10/2 - We continue the discussion on the paradifferential calculus. We proved the paracomposition.
+10/9 - Application of paradifferential calculus to Dirichlet-to-Neumann operator
+10/16 - A priori estimates for Muskat problems
+10/23 - Finish the proof of theorem of Nguyen-Pausader and begin the discussion on Dong-Nguyen-Gancedo.
 
 ## Notes
 
