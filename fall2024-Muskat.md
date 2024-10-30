@@ -35,6 +35,8 @@ data I-III
 10/9 - Application of paradifferential calculus to Dirichlet-to-Neumann operator<br>
 10/16 - A priori estimates for Muskat problems<br>
 10/23 - Finish the proof of theorem of Nguyen-Pausader and begin the discussion on Dong-Nguyen-Gancedo.<br>
+10/30 - Crash course on layer potential theory and reformulation of the Dirichlet-to-Neumann operator via layer potentials
+
 
 ## Notes
 
