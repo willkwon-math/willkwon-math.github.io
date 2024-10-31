@@ -11,7 +11,7 @@ The goal of the learning seminar held at Brown is to study the well-posedness pr
 
 ## Time/Venue
 
-Every Wednesday 10:00 – 11:15 (US Eastern Time) / Location : Kassar 205 (Zoom Hybrid)
+Every Wednesday 9:00 – 10:15 (US Eastern Time) / Location : Zoom
 
 ## Contents and tentative schedule
 
