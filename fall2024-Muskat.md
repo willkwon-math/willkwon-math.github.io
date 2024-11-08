@@ -39,7 +39,9 @@ data I-III
 11/06 - A precise bound for the inverse of the layer potential operators
 11/13 -
 11/20 -
-11/27 - 
+11/27 - No seminar
+12/04 - 
+
 
 
 
