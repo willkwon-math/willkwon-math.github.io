@@ -155,5 +155,13 @@ E[f](t,x)=c_\alpha \nabla_x \int_{\mathbb{R}^3_{y,v}} \frac{1}{|x-y|^{3-2\alpha}
 </div>
 
 <div>
-  
+  Let me first describe the Vlasov-Poisson system, $\alpha=1$. Global existence with small initial data was first obtained by Bardos-Degond. Later, the global existence of classical solution with large initial data was independently obtained by Lions-Perthame and Pfaffelmoser. Hence, it is natural to ask its asymptotic behavior. Choi-Ha proved that any nontrivial solution does not have linear scattering, i.e., the nonlinear solution does not behave like linear kinetic transport equation. Instead, Choi-Kwon proved the existence of the modified scattering of the Vlasov-Poisson system, that is, the solution to a nonlinear equation converges to a solution of a linear equation with a suitable correction. In this situation, the solution converges to a function following natural linear trajectory with logarithmic correction. However, their trajector was not explicit. Recenetly, there are several ongoing works on kinetic equations by applying techniques from dispersive equations. In this philosophy, Ionescu-Pausader-Wang-Widmayer gave another proof with a concrete scattering trajectory by using so called $Z$-norm method. Later, Flynn-Ouyang-Pausader-Widmayer gave another proof by using pseudo-conformal symmetry of the equation as well as the Hamiltonian structure of the equation. 
+</div>
+
+<div>
+However, there are few works when $\alpha \neq 1$. For local well-posedness, Choi-Jeong proved the local existence and uniqueness of solution in a weighted Sobolev space on $\mathbb{R}^3$ when $\alpha>3/8$. Moreover, they proved a finite-time singularity formation of solutions for the gravitational case. 
+</div>
+
+<div>
+  In a joint work with Wenrui Huang, we have obtained global well-posedness with small initial data. Moreover, the solution exhibits scattering when $\alpha \in (1/2,1)$ and modified scattering when $\alpha \in (1,1+\delta)$. Unlike the case $\alpha=1$, the nonlinear solution converges to a solution along the natural linear trajectory with polynomial correction. Moreover, we constructed modified wave operator as well.
 </div>
