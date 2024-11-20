@@ -112,10 +112,48 @@ Another natural question is the validity of such regularity estimates when we im
 </div>
 
 <div>
-In the joint work with Hongjie Dong, we proved that when $a^{ij}$ is merely measurable in $t$ and has small mean oscillation in small cylinders, we proved that interior local $L_{s,q}$-Hessian estimates are possible for $u\in\tilde{W}^{1,2}_{q_0}(Q_1)$ in the case of nondivergence form equation and $u\in W^{0,1}_{q_0}(Q_1)$ in the case of equations in divergence form. For the boundary estimate, we proved the similar result for the equation in nondivergence form if we impose Lions boundary conditions.
+In the joint work with Hongjie Dong, we proved in [[DK23]](https://arxiv.org/abs/2308.09220) that when $a^{ij}$ is merely measurable in $t$ and has small mean oscillation in small cylinders, we proved that interior local $L_{s,q}$-Hessian estimates are possible for $u\in\tilde{W}^{1,2}_{q_0}(Q_1)$ in the case of nondivergence form equation and $u\in W^{0,1}_{q_0}(Q_1)$ in the case of equations in divergence form. For the boundary estimate, we proved the similar result for the equation in nondivergence form if we impose Lions boundary conditions. This result was further extended to curved boundary case in [[DK24]](http://arxiv.org/abs/2408.17321). 
 </div>
+
+<div>
+As a natural counterpart to Sobolev estimates, one can also ask the validity of $C^1$ or $C^2$ estimates for Stokes equations with variable viscosity coefficients. In a joint work with Hongjie Dong, we also obtained $C^1_x$-estimates for equations in divergence form when the viscosity coefficients satisfy $L_2$-$\mathrm{DMO}_x$ condition. As a corollary, we also obtained spatial Schauder estimates as well. Unlike usual parabolic equations, we cannot expect temporal smoothing of the equation as we can observe this phenomenon via Serrin's example.
+</div>
+
+
 
 ## Kinetic equations
 
-Working progress
+Also, I have worked kinetic equations in partiuclar, long-time dynamics of kinetic equations induced by Riesz interactions. To explain this problem, consider the following systems of ODEs:
+<div>
+\begin{equation}
+  \left\{
+  \begin{aligned}
+  \dot{x}_i &= v_i\\
+  \dot{v}_i &=-\frac{1}{N} \nabla_{x_i} H_N(x_1,\dots,x_N),\quad i=1,\dots,N,\\
+  x_i(0)=x_i^0,\quad v_i(0)=v_i^0,
+  \end{aligned}
+  \right.
+\end{equation}
+where 
+\begin{equation}
+H_N^\alpha(x_1,\dots,x_N)=\lambda\sum_{i\neq j} V_\alpha(x_i-x_j),\quad V_\alpha(x)=\frac{\Gamma((3-2\alpha)/2)}{\pi^{3/2}2^{2\alpha}\Gamma(\alpha)}\frac{1}{|x|^{3-2\alpha}}
+\end{equation}
+for $\lambda\in\{-1,1\}$ and $0<\alpha<3/2$. We call $V_\alpha(x)$ as a Riesz kernel. When $\alpha=1$, the kernel becomes the classical Coulomb potential. As $N\rightarrow \infty$, one can formally derive a system of partial differential equations, we call this equation as Vlasov-Riesz systems of order $\alpha$:
+\begin{equation}
+  \left\{
+  \begin{aligned}
+  \partial_t f + v\cdot \nabla_x f +\lambda E[f]\cdot\nabla_v f=0\quad \text{in } (0,\infty)\times\mathbb{R}^3_x\times \mathbb{R}^3_v,\\
+  f=f_0\quad \text{on } \{t=0\}\times \mathbb{R}^3_x\times \mathbb{R}^3_v,
+  \end{aligned}
+  \right.
+\end{equation}
+where the vector field $E[f]$ is given by 
+\begin{equation}
+E[f](t,x)=c_\alpha \nabla_x \int_{\mathbb{R}^3_{y,v}} \frac{1}{|x-y|^{3-2\alpha}} f(t,y,v)dydv
+\end{equation}
+  and $\lambda \in \{-1,1\}$. The case $\lambda =1$ describes an attracdtive case that can be observed in galactic settings. When $\lambda=-1$, the system describes a repulsive case that can be seen in a plasma or ion gas. However, we are interested in small data long-time dynamics, so the sign of $\lambda$ does not play an important role. When $\alpha=1$, the system is called Vlasov-Poisson system which was studied by many reseachers. 
+</div>
 
+<div>
+  
+</div>
