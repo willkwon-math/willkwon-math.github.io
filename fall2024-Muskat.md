@@ -36,21 +36,15 @@ data I-III
 10/16 - A priori estimates for Muskat problems<br>
 10/23 - Finish the proof of theorem of Nguyen-Pausader and begin the discussion on Dong-Nguyen-Gancedo.<br>
 10/30 - Crash course on layer potential theory and reformulation of the Dirichlet-to-Neumann operator via layer potentials<br>
-11/06 - A precise bound for the inverse of the layer potential operators
-11/13 -
-11/20 -
-11/27 - No seminar
-12/04 - 
-
-
-
-
-
-
+11/06 - A precise bound for the inverse of the layer potential operators<br>
+11/13 - Global existence of the regularized Muskat problem <br>
+11/20 - Comparision principle for the Dirichlet-to-Neumann operator and the motivation of Viscosity solution <br>
+11/27 - No seminar <br>
+12/04 - Comparison principle for viscosity solution of the Muskat problem (end)
 
 ## Notes
-
+- upon request
 
 ## References
-
+- [Link](https://willkwon-math.github.io/assets/files/Muskat-References.pdf)
 
