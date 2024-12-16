@@ -41,14 +41,21 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
+<summary>1. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, preprint</a> </summary>
+<div markdown="1">
+**Abstract.** TBA
+  </div>
+</details>
+
+<details>
+<summary>2. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider nonstationary Stokes equations in nondivergence form with variable viscosity coefficients and Navier slip boundary conditions with slip coefficient $\alpha$ in a domain $\Omega$. On the one hand, if $\alpha$ is sufficiently smooth, then we obtain a priori local regularity estimates for solutions near a curved portion of the boundary of the domain. On the other hand, if $\alpha$ depends on the curvature of the boundary of the domain, then we obtain local boundary estimates of Hessians of solutions where the right-hand side does not contain the pressure. Our results are new even if the viscosity coefficients are constant.
   </div>
 </details>
 
 <details>
-<summary>2. Scattering of Vlasov-Riesz systems in the three dimensions, with W. Huang, <a href="http://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a></summary> 
+<summary>3. Scattering of Vlasov-Riesz systems in the three dimensions, with W. Huang, <a href="http://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a></summary> 
 <div markdown="1">
 **Abstract.** We consider an asymptotic behavior of solutions to the Vlasov-Riesz system of order $\alpha$ in $\mathbb{R}^3$ which is a kinetic model induced by Riesz interactions. We prove small data scattering when $1/2<\alpha<1$ and modified scattering when $1<\alpha<1+\delta$ for some $\delta>0$. Moreover, we show the existence of (modified) wave operators for such a regime. To the best of our knowledge, this is the first result on the existence of modified scattering with polynomial correction in kinetic models.
   </div>
@@ -56,20 +63,20 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 
 
 <details>
-<summary>3. Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
+<summary>4. Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.** In this paper, we investigate a Stokes-Magneto system with fractional diffusions. We first deal with the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness with initial magnetic field $\boldsymbol{b}_0\in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resisitive case with initial data $\boldsymbol{b}_0$ in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that the $L^p$-norm of $\boldsymbol{b}(t)$ converges to zero as $t\rightarrow\infty$ if the initial data is sufficiently small.
   </div>
 </details>
 
 <details>
-<summary>4. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
+<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form with variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
 </details>
 <details>
-<summary>5. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with <a href="https://math.sogang.ac.kr/math/math02_1_4.html">H. Kim</a>, J. Differential Equations (2023), vol. 374, 497--547, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039623005181">[Journal] </a> <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
+<summary>6. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with <a href="https://math.sogang.ac.kr/math/math02_1_4.html">H. Kim</a>, J. Differential Equations (2023), vol. 374, 497--547, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039623005181">[Journal] </a> <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider a Stokes-Magneto system  in $\mathbb{R}^d$ ($d\geq 2)$ with fractional diffusions   $\Lambda^{2\alpha}\boldsymbol{u}$ and $\Lambda^{2\beta}\boldsymbol{b}$ for the velocity $\boldsymbol{u}$ and the magnetic field $\boldsymbol{b}$, respectively. Here $\alpha,\beta$ are positive constants and $\Lambda^s = (-\Delta)^{s/2}$ is the fractional Laplacian of order $s$. We establish global existence of weak solutions of the  Stokes-Magneto system   for any initial data in $L_{2}$ when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$,
 and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$. It is also shown that weak solutions are   unique  if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
@@ -77,7 +84,7 @@ and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$. It is also shown that weak solutio
 </details>
 
 <details>
-<summary>6. Elliptic equations in divergence form with drifts in $L^2$, Proc. Amer. Math. Soc. 150(2022), no. 8, 3415–-3429, 2022 <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6">[Journal]</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
+<summary>7. Elliptic equations in divergence form with drifts in $L^2$, Proc. Amer. Math. Soc. 150(2022), no. 8, 3415–-3429, 2022 <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6">[Journal]</a>, <a href ="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a></summary> 
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet problem for second-order linear elliptic equations in divergence form
 <center>
@@ -88,7 +95,7 @@ in bounded Lipschitz domain $\Omega$ in $\mathbb{R}^2$, where $A:\mathbb{R}^2\ri
 </details>
 
 <details>
-<summary>7. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
+<summary>8. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equations with drifts in weak-$L^{n}$ spaces, J. Math. Anal. Appl. 500(1) (2021) 125165, <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">[Journal]</a>,  <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.**  We consider the following Dirichlet problems for elliptic equations with singular drift $\mathbf{b}$:
 <center>
@@ -99,7 +106,7 @@ where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assum
 </details>
 
 <details>
-<summary>8. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with <a href="https://math.sogang.ac.kr/math/math02_1_4.html">H. Kim</a>, Trans. Amer. Math. Soc. 375(9), 2022, <a href = "https://doi.org/10.1090/tran/8730">[Journal]</a>, <a href ="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP] </a>
+<summary>9. Dirichlet and Neumann problems for elliptic equations with singular drifts on Lipschitz domain, with <a href="https://math.sogang.ac.kr/math/math02_1_4.html">H. Kim</a>, Trans. Amer. Math. Soc. 375(9), 2022, <a href = "https://doi.org/10.1090/tran/8730">[Journal]</a>, <a href ="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP] </a>
 </summary>
 <div markdown="1">
 **Abstract.**  We consider the Dirichlet and Neumann problems for second-order linear elliptic equations:
