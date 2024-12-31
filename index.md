@@ -41,9 +41,9 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 ## Publications / Preprints
 
 <details>
-<summary>1. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, preprint</a> </summary>
+<summary>1. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
 <div markdown="1">
-**Abstract.** TBA
+**Abstract.** We establish the spatial differentiability of weak solutions to nonstationary Stokes equations in divergence form with variable viscosity coefficients having $L_2$-Dini mean oscillations. As a corollary, we derive local spatial Schauder estimates for such equations if the viscosity coefficient belongs to $C^\alpha_x$. Similar results also hold for strong solutions to nonstationary Stokes equations in nondivergence form.
   </div>
 </details>
 
