@@ -13,7 +13,7 @@ Let us consider
 \begin{equation}
 \partial_t u- u_{xx}=0\quad \text{in } (0,\infty)\times \mathbb{R},\quad u=u_0\quad \text{on } \{t=0\}\times \mathbb{R}.
 \end{equation}
-It is well-known that if $u_0 \in L^2(\mathbb{R})$, then the solution $u$ is instantaneously smooth for $t>0$. However, the solution does not have good norm control in derivatives. However, if we assume that the initial data has a compact support, say $\mathrm{supp}\, u_0 \subset (-1,1)$, then we can show that 
+It is well-known that if $u_0 \in L^2(\mathbb{R})$, then the solution $u$ is instantaneously smooth for $t>0$. However, the solution does not have good norm control in derivatives. However, if we assume that the initial data has a compact support, say $\mathrm{supp}\, u_0 \subset (-1/4,1/4)$, then we can show that 
 $$ u\in L^{\infty}(0,\infty;L^{2}((-2,2)^c). $$
 </div>
 
