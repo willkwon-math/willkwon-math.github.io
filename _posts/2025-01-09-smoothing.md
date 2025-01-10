@@ -48,7 +48,7 @@ Hence it follows that $u \in L^\infty((0,\infty);H^1((-2,2)^c))$. Then by induct
 </div>
  
 <div>
-In fact, we can obtain better smoothing estimate. In fact, it belongs to Gevrey $1/s$-class $G^s$ for $0<s<1$. Choose the following parameters 
+In fact, we can obtain better smoothing estimate. It belongs to Gevrey $1/s$-class $G^s$ for $0<s<1$ outside $(-1,1)$. Choose the following parameters 
 $$ x_1 = \frac{3}{8},\quad x_{n+1}=x_n+\frac{c_\sigma}{n^{1+\sigma}},\quad y_n = x_n + \frac{c_\sigma}{100 n^{1+\sigma}},$$
 where the constant $c_\sigma$ is chosen so that $c_\sigma \sum_{n=1}^\infty \frac{1}{n^{1+\sigma}}<1/8$. Define $\chi_n$ so that $\chi_n(y)=0$ for $-x_n<y<x_n$, and $\chi_n(y)=1$ for $\{-\infty<y<-y_n\}\cup \{y_n<y<\infty\}$ for $n\geq 1$. Then note that 
 $$ \bigcap _{n=1}^\infty \{x_n=1\}\supset \left(-\infty,-\frac{1}{2}\right)\cup\left(\frac{1}{2},\infty\right),$$
