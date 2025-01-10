@@ -96,3 +96,5 @@ Since $2/s-2(1+\sigma)>0$, the series converges. This implies that
 $$ \sum_{n=0}^\infty \left(\frac{1}{n!}\right)^{2/s}\int_{(-1,1)^c} |\partial_x^n u(t)|^2 dx<\infty.$$
 Hence $u$ belongs to $L^\infty(0,\infty;G^{s}((-1,1)^c))$. 
 </div>
+
+As we can see, the above argument does not work if $s=1$.
