@@ -48,7 +48,7 @@ Hence it follows that $u \in L^\infty((0,\infty);H^1((-2,2)^c))$. Then by induct
 </div>
  
 <div>
-In fact, we can obtain better smoothing estimate. It belongs to Gevrey $1/s$-class $G^s$ for $0<s<1$ outside $(-1,1)$. Choose the following parameters 
+In fact, we can obtain better smoothing estimate. It belongs to Gevrey $1/s$-class $G^s$ for $0<s<1$ outside $(-1/2,1/2)$. Choose the following parameters 
 $$ x_1 = \frac{3}{8},\quad x_{n+1}=x_n+\frac{c_\sigma}{n^{1+\sigma}},\quad y_n = x_n + \frac{c_\sigma}{100 n^{1+\sigma}},$$
 where the constant $c_\sigma$ is chosen so that $c_\sigma \sum_{n=1}^\infty \frac{1}{n^{1+\sigma}}<1/8$. Define $\chi_n$ so that $\chi_n(y)=0$ for $-x_n<y<x_n$, and $\chi_n(y)=1$ for $\{-\infty<y<-y_n\}\cup \{y_n<y<\infty\}$ for $n\geq 1$. Then note that 
 $$ \bigcap _{n=1}^\infty \{x_n=1\}\supset \left(-\infty,-\frac{1}{2}\right)\cup\left(\frac{1}{2},\infty\right),$$
@@ -94,7 +94,7 @@ and so
 $$ \sum_{n=0}^\infty \left(\frac{1}{(n+1)!}\right)^{2/s}a_{n+1} \leq \Vert{b_0}\Vert_{L^2} \sum_{n=0}^\infty C^n \left(\frac{1}{n!} \right)^{2/s-2(1+\sigma)} .$$
 Since $2/s-2(1+\sigma)>0$, the series converges. This implies that 
 $$ \sum_{n=0}^\infty \left(\frac{1}{n!}\right)^{2/s}\int_{(-1,1)^c} |\partial_x^n u(t)|^2 dx<\infty.$$
-Hence $u$ belongs to $L^\infty(0,\infty;G^{s}((-1,1)^c))$. 
+Hence $u$ belongs to $L^\infty(0,\infty;G^{s}((-1/2,1/2)^c))$. 
 </div>
 
 As we can see, the above argument does not work if $s=1$.
