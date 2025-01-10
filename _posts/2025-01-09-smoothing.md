@@ -65,23 +65,29 @@ $$ \sum_{n=0}^\infty \left(\frac{1}{n!}\right)^{2/s} \Vert{\partial_x^n u}\Vert_
 Note that 
 $$  \partial_y^2 (\chi_{n+1}^2)\leq C (n+1)^{2(1+\sigma)}\chi_n^2.$$
 So it follows that 
-\begin{align*}
+\begin{equation}
+\begin{aligned}
 &\int_{\mathbb{R}}|\partial_x^{n+1} u(t)|^2 \chi_{n+1}^2 d{x}+\int_0^t \int_{\mathbb{R}}|\partial_x^{n+2}u|^2 \chi_{n+1}^2 dxds\\
 &\leq C(n+1)^{2(1+\sigma)}\int_0^t \int_{\mathbb{R}}|\partial_x^{n+1}u|^2 \chi_n^2 dxds.
-\end{align*}
+\end{aligned}
+\end{equation}
  Since $\sigma<1/s-1$, it follows that
-\begin{align*}
+\begin{equation}
+\begin{aligned}
 &\left(\frac{1}{(n+1)!}\right)^{2/s}\int_{\mathbb{R}}|\partial_x^{n+1} u(t)|^2 \chi_{n+1}^2 d{x}+\left(\frac{1}{(n+1)!}\right)^{2/s}\int_0^t \int_{\mathbb{R}}|\partial_x^{n+2}u|^2 \chi_{n+1}^2 dxds\\
 &\leq C\left(\frac{1}{n!}\right)^{2/s}\int_0^t \int_{\mathbb{R}}|\partial_x^{n+1}u|^2 \chi_n^2 dxds.
-\end{align*}
+\end{aligned}
+\end{equation} 
 </div>
  
 <div>
 If we set 
-\begin{align*}
+\begin{equation}
+\begin{aligned}
 a_n &=\int_{\mathbb{R}}|\partial_x^{n} u(t)|^2 \chi_{n}^2 d{x},\\
 b_n &=\int_0^t\int_{\mathbb{R}}|\partial_x^{n+1} u|^2 \chi_{n+1}^2 d{x}ds,
-\end{align*}
+\end{aligned}
+\end{equation} 
 then by induction, we have 
 $$ b_n \leq C^n (n!)^{2(1+\sigma)}\Vert b_0\Vert_{L^2} $$
 and so 
