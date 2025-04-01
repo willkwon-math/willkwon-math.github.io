@@ -7,6 +7,7 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Scattering of the Vlasov-Riesz systems in three dimensions, AMS Eastern Sectional Meeting, Apr. 2025.
 - Local Sobolev, $C^1$, $C^2$, and Schauder estimates for Stokes equations with variable coefficients, GLESPA, Nov. 2024.
 - Scattering of the Vlasov-Riesz systems in three dimensions, PDE and Applied Analysis at POSTECH (online), Sep. 2024.
 - Scattering of the Vlasov-Riesz systems in three dimensions, PDE seminar at Yonsei University(online), Aug. 2024.
