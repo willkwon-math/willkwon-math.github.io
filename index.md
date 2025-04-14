@@ -29,6 +29,8 @@ Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 The drawing was given by one of my students at the Republic of Korea Air Force Academy.
 
 ## Research Interests
+
+I am someone who seeks to understand why certain objects, embraced by our world, exist from a mathematical perspective. My interests include:
  
 - Partial Differential Equations (elliptic/parabolic PDEs, Fluid equations, and Kinetic Equations)
 - Harmonic Analysis (real-variable methods)
