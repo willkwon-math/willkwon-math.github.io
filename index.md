@@ -30,7 +30,7 @@ The drawing was given by one of my students at the Republic of Korea Air Force A
 
 ## Research Interests
 
-I am someone who seeks to understand why certain objects, embraced by our world, exist from a mathematical perspective. My research is driven by questions of existence, uniqueness, regularity, and instability of mathematical structures, particularly in the analysis of partial differential equations and related systems. Topics I have explored include:
+I am someone who seeks to understand why certain objects, embraced by our world, exist from a mathematical perspective. My research is driven by questions of existence, uniqueness, regularity, and instability of mathematical structures, particularly in the analysis of partial differential equations and related fields.
  
 - Partial Differential Equations (elliptic/parabolic PDEs, Fluid equations, and Kinetic Equations)
 - Harmonic Analysis (real-variable methods)
