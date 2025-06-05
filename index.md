@@ -18,7 +18,7 @@ Email. hyunwoo_kwon[at]brown[dot]edu<br>
 
 ## About me  
 
-I am 3rd year Ph. D. student (with candidacy) in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). My thesis advisor is Prof. [Hongjie Dong](https://appliedmath.brown.edu/people/hongjie-dong). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was an assistant professor and lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](https://math.sogang.ac.kr/math/math02_1_4.html). 
+I am 4th year Ph. D. student (with candidacy) in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). My thesis advisor is Prof. [Hongjie Dong](https://appliedmath.brown.edu/people/hongjie-dong). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was an assistant professor and lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](https://math.sogang.ac.kr/math/math02_1_4.html). 
 
 You can pronounce my Korean name as "Hyeo-nu" (there is a linking sound between un and woo)
 However, I found that many people pronounce my name as "hahn woo" which means 'Korean beef'....  
@@ -73,7 +73,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 </details>
 
 <details>
-<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
+<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, to appear Comm. Contemp. Math., <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form with variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
