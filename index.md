@@ -51,7 +51,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 </details>
 
 <details>
-<summary>2. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
+<summary>2. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, to appear Discrete Contin. Dyn. Syst. <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider nonstationary Stokes equations in nondivergence form with variable viscosity coefficients and generalized Navier slip boundary conditions with slip tensor $\mathcal{A}$ in a domain $\Omega$ in $\mathbb{R}^d$. First, under the assumption that slip matrix $\mathcal{A}$ is sufficiently smooth, we establish a priori local regularity estimates for solutions near a curved portion of the domain boundary. Second, when $\mathcal{A}$ is the shape operator, we derive local boundary estimates for the Hessians of the solutions, where the right-hand side does not involve the pressure. Notably, our results are new even if the viscosity coefficients are constant.
   </div>
@@ -73,7 +73,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 </details>
 
 <details>
-<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, to appear Comm. Contemp. Math., <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
+<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, to appear Commun. Contemp. Math., <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form with variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
