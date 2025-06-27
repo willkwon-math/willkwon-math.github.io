@@ -66,7 +66,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 
 
 <details>
-<summary>4. Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
+<summary>4. Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, to appear Partial Differ. Equ. Appl. <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.** In this paper, we investigate a Stokes-Magneto system with fractional diffusions. We first deal with the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness with initial magnetic field $\boldsymbol{b}_0\in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resisitive case with initial data $\boldsymbol{b}_0$ in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that the $L^p$-norm of $\boldsymbol{b}(t)$ converges to zero as $t\rightarrow\infty$ if the initial data is sufficiently small.
   </div>
