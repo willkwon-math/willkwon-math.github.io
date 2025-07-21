@@ -51,14 +51,14 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 </details>
 
 <details>
-<summary>2. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, to appear Discrete Contin. Dyn. Syst. <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
+<summary>2. Boundary mixed norm estimates for nonstationary Stokes equations on domains with curved boundary with H. Dong, <a href="https://doi.org/10.3934/dcds.2025092">Discrete Contin. Dyn. Syst.</a>, <a href="http://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider nonstationary Stokes equations in nondivergence form with variable viscosity coefficients and generalized Navier slip boundary conditions with slip tensor $\mathcal{A}$ in a domain $\Omega$ in $\mathbb{R}^d$. First, under the assumption that slip matrix $\mathcal{A}$ is sufficiently smooth, we establish a priori local regularity estimates for solutions near a curved portion of the domain boundary. Second, when $\mathcal{A}$ is the shape operator, we derive local boundary estimates for the Hessians of the solutions, where the right-hand side does not involve the pressure. Notably, our results are new even if the viscosity coefficients are constant.
   </div>
 </details>
 
 <details>
-<summary>3. Scattering of Vlasov-Riesz systems in the three dimensions, with W. Huang, <a href="http://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a></summary> 
+<summary>3. Scattering of Vlasov-Riesz systems in three dimensions, with W. Huang, <a href="http://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a></summary> 
 <div markdown="1">
 **Abstract.** We consider an asymptotic behavior of solutions to the Vlasov-Riesz system of order $\alpha$ in $\mathbb{R}^3$ which is a kinetic model induced by Riesz interactions. We prove small data scattering when $1/2<\alpha<1$ and modified scattering when $1<\alpha<1+\delta$ for some $\delta>0$. Moreover, we show the existence of (modified) wave operators for such a regime. To the best of our knowledge, this is the first result on the existence of modified scattering with polynomial correction in kinetic models.
   </div>
@@ -66,14 +66,15 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 
 
 <details>
-<summary>4. Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, to appear Partial Differ. Equ. Appl. <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
+<summary>4. Local and Global solutions to Stokes-Magneto equations with fractional dissipations, with <a href="https://sites.google.com/view/hantaekbae">H. Bae </a> and <a href="https://sites.google.com/view/jaeyong-shin">J. Shin</a>, <a href="https://doi.org/10.1007/s42985-025-00341-2
+"> Partial Differ. Equ. Appl. 6, 32</a> <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a></summary>
 <div markdown="1">
 **Abstract.** In this paper, we investigate a Stokes-Magneto system with fractional diffusions. We first deal with the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness with initial magnetic field $\boldsymbol{b}_0\in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resisitive case with initial data $\boldsymbol{b}_0$ in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that the $L^p$-norm of $\boldsymbol{b}(t)$ converges to zero as $t\rightarrow\infty$ if the initial data is sufficiently small.
   </div>
 </details>
 
 <details>
-<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, to appear Commun. Contemp. Math., <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
+<summary>5. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with <a href="https://www.dam.brown.edu/people/hdong/">H. Dong</a>, <a href="https://doi.org/10.1142/S0219199725500695">Commun. Contemp. Math. (2025) 2550069</a>, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form with variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
