@@ -26,7 +26,7 @@ However, I found that many people pronounce my name as "hahn woo" which means 'K
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
 The drawing was given by one of my students at the Republic of Korea Air Force Academy.
-I frequently see a play or musical, and sometimes I write an informal review of each performance in [this blog](https://brunch.co.kr/@skykite9) (written in Korean).
+I frequently see plays and musicals, and sometimes write informal reviews of them on [this blog](https://brunch.co.kr/@skykite9) (in Korean).
 
 ## Research Interests
 
