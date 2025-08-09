@@ -23,10 +23,10 @@ I am 4th year Ph. D. student (with candidacy) in [the Division of Applied Mathem
 You can pronounce my Korean name as "Hyeo-nu" (there is a linking sound between un and woo)
 However, I found that many people pronounce my name as "hahn woo" which means 'Korean beef'....  
 
- 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
 The drawing was given by one of my students at the Republic of Korea Air Force Academy.
+I frequently see a play or musical, and sometimes I write an informal review of each performance in [this blog](https://brunch.co.kr/@skykite9) (written in Korean).
 
 ## Research Interests
 
