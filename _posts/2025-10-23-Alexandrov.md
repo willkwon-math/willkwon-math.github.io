@@ -16,3 +16,25 @@ In my previous blog post, [Aleksandrov estimate]("https://willkwon-math.kr/2022/
 \end{equation}
 for some constant $C_d>0$.
 </div>
+
+<div>
+There is an interesting connection with Blashcke-Santalo inequality and this estimate. To state this, let us define the polar dual
+\begin{equation*}
+D^*=\{x\in\mathbb{R}^d : x\cdot y \leq 1\quad \text{for all } y \in D\}.
+\end{equation*}
+In 1939, Mahler proved that 
+\begin{equation*}
+4^n (n!)^{-2}\leq  |D| |D^*|\leq 4^n.
+\end{equation*}
+Later, Santalo proved that the upper bound has a precise geometric bound
+\begin{equation*}
+|D| |D^*|\leq |B_d|^2,
+\end{equation*}
+where $B_d$ is the $d$-dimensional unit ball. The inequality becomes equality when $D=B_d$. After this work, several interesting improvements were made to determine the precise lower bound for $|D| |D^*|$. I do not have a clear picture of how researchers could obtain optimal estimates by using the geometry of Banach spaces (this is slightly unclear to me). Bourgan-Milman proved the following estimate:
+</div>
+
+<blockquote> **Theorem 1** (Bourgain-Milman). There exists an absolute constant $c>0$ such that 
+\begin{equation*}
+|D| |D^*| \geq c^n |B|^2.
+\end{equation*}
+</blockquote>
