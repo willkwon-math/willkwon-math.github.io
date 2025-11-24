@@ -10,5 +10,5 @@ Yesterday, while I am attending ICERM conference on [fluid dynamics and turbluen
 I appreciate his passion for sharing this knowledge with me.
 
 In my previous blog post, [Aleksandrov estimate]("https://willkwon-math.kr/2022/07/31/Amax") plays an important role in regularity theory for equations in nondivergence form or fully nonlinear equations. For simplicity, we consider a convex function $h:D\rightarrow\mathbb{R}$ defined on a convex body $D$ satisfying $h=0$ on $\partial D$. Furthermore, we assume that the center of mass of $D$ is the origin. A classical Aleksandrov estimate is that 
-\[ \Vert h \Vert_{L^\infty(D)} \leq C_d|D|^{1/d}|\nabla h(D)| \]
+$$ \Vert h \Vert_{L^\infty(D)} \leq C_d|D|^{1/d}|\nabla h(D)| $$
 for some constant $C_d>0$.
