@@ -2,7 +2,7 @@
 layout: post
 comments: true
 use_math: true
-title:  "Blashcke-Santalo inequality and Alexandrov estimates"
+title:  "Blashcke-Santalo inequality and Aleksandrov estimates"
 date:   2025-10-23 10:00:40 
 ---
 
