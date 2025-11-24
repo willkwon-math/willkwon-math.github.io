@@ -38,3 +38,11 @@ where $B_d$ is the $d$-dimensional unit ball. The inequality becomes equality wh
 |D| |D^*| \geq c^n |B|^2.
 \end{equation*}
 </blockquote>
+
+Let us try to connect this fact with Aleksandrov estimate. The first observation is that the gradient of $h$ maps $D$ to $D^*$ when $h=0$ on $\partial D$, and $h=-1$ at the origin.
+
+<blockquote> **Lemma** 1. If $h$ is convex, $h=0$ on $\partial D$, and $h=-1$ at the origin, then 
+\begin{equation*}
+\nabla h(D)=D^*.
+\end{equation*}
+</blockquote>
