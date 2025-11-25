@@ -33,16 +33,4 @@ Later, Santalo proved that the upper bound has a precise geometric bound
 where $B_d$ is the $d$-dimensional unit ball. The inequality becomes equality when $D=B_d$. After this work, several interesting improvements were made to determine the precise lower bound for $|D| |D^*|$. I do not have a clear picture of how researchers could obtain optimal estimates by using the geometry of Banach spaces (this is slightly unclear to me). Bourgan-Milman proved the following estimate, which is now called Blashcke-Santalo inequality.
 </div>
 
-<blockquote> **Theorem 1** (Bourgain-Milman). There exists an absolute constant $c>0$ such that 
-\begin{equation*}
-|D| |D^*| \geq c^n |B|^2.
-\end{equation*}
-</blockquote>
-
-Let us try to connect this fact with Aleksandrov estimate. The first observation is that the gradient of $h$ maps $D$ to $D^*$ when $h=0$ on $\partial D$, and $h=-1$ at the origin.
-
-<blockquote> **Lemma 1**. If $h$ is convex, $h=0$ on $\partial D$, and $h=-1$ at the origin, then 
-\begin{equation*}
-\nabla h(D)=D^*.
-\end{equation*}
-</blockquote>
+ongoing....
