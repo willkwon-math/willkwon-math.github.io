@@ -57,7 +57,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 </details>
 
 <details>
-<summary>3. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
+<summary>3. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, to appear Calc. Var. PDE, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We establish the spatial differentiability of weak solutions to nonstationary Stokes equations in divergence form with variable viscosity coefficients having $L_2$-Dini mean oscillations. As a corollary, we derive local spatial Schauder estimates for such equations if the viscosity coefficient belongs to $C^\alpha_x$. Similar results also hold for strong solutions to nonstationary Stokes equations in nondivergence form.
   </div>
