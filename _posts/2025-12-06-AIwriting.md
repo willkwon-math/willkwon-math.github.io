@@ -6,7 +6,7 @@ title:  "Art of Academic Writing: my perspective"
 date:   2025-12-06 10:00:40 
 ---
 
-I wrote it in [Korean first](https://brunch.co.kr/@skykite9/35) and I rewrote it in English. Hopely, the writing is not that awkward.
+I wrote it in [Korean first](https://brunch.co.kr/@skykite9/35) and I rewrote it in English. 
 
 I cannot remember where I saw the link (probably Facebook or LinkedIn). Someone made a toolkit for writing a paper that checks references and writing at the same time. While I agree that AI could greatly shape one's point of view, I am highly skeptical of relying on generative AI to write a paper.
 
