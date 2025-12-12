@@ -7,7 +7,7 @@ use_math: true
 
 ## Goal
 
-The goal of the learning seminar held at Brown is to study the well-posedness problems of the evolution of the free surface separating air from an incompressible perfect fluid. Necessary mathematics tools will be introduced as a crash course.
+The goal of the learning seminar held at Brown is to study the well-posedness problems of the evolution of the free surface separating air from a flow in porous media. Necessary mathematics tools will be introduced as a crash course.
 
 ## Time/Venue
 
