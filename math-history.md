@@ -8,6 +8,19 @@ Some of these figures I deeply admire; others leave me feeling deeply conflicted
 
 # Greatest person
 
+
+- [Ennio DeGiorgi](https://en.wikipedia.org/wiki/Ennio_De_Giorgi)
+
+Writing...
+
+His work with Amnesty International in the 70s greatly extended his already-immense fame within and outside of his scientific career. He also taught mathematics at the University of Asmara, Eritrea from 1966 to 1973.
+
+[Biography](https://mathshistory.st-andrews.ac.uk/Biographies/De_Giorgi)
+
+[His interview](https://www.ams.org/notices/199709/emmer.pdf)
+
+[His memoir](https://www.ams.org/notices/199709/murat.pdf)
+
 - [Jean Leray](https://en.wikipedia.org/wiki/Jean_Leray)
 
 Writing....
@@ -22,15 +35,6 @@ She was a hard worker until she passed away at 81. She was initially denied admi
 
 Beyond her mathematics, she protected Aleksandr Solzhenitsyn during his years of political persecution in Soviet union.
 
-- [Ennio DeGiorgi](https://en.wikipedia.org/wiki/Ennio_De_Giorgi)
-
-Writing...
-
-His work with Amnesty International in the 70s greatly extended his already-immense fame within and outside of his scientific career. He also taught mathematics at the University of Asmara, Eritrea from 1966 to 1973.
-
-[Biography](https://mathshistory.st-andrews.ac.uk/Biographies/De_Giorgi)
-
-[His interview](https://www.ams.org/notices/199709/emmer.pdf)
 
 - [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 
