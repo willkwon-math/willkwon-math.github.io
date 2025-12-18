@@ -4,9 +4,7 @@ use_math: true
 ---
 
 In mathematics, we study the theorems but rarely the people behind them. I have gathered some stories here that show the human side. 
-
 Some of these figures I deeply admire; others leave me feeling deeply conflicted. And frankly, some of them were just terrible human beings no matter how brilliant their work was.
-
 
 # Greatest person
 
@@ -33,6 +31,18 @@ His work with Amnesty International in the 70s greatly extended his already-imme
 
 [His interview](https://www.ams.org/notices/199709/emmer.pdf)
 
+- [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+
+Writing...
+
+- [Henri Poincare](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
+
+Writing...
+
+- [Karl Weierstrass](https://en.wikipedia.org/wiki/Karl_Weierstrass)
+
+Writing...
+
 # Mixed person
 
 - [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) 
@@ -53,6 +63,12 @@ After that event, Sobolev became acamically and politically successful. It is ha
 
 Writing (early day, he was not a good man, but after several years, he became better human being)
 
-# Disgusting
+- [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 
+Authorative figure
 
+# Absolute Dislike
+
+- [Issac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
+
+- [Ludwig Bieberbach](https://en.wikipedia.org/wiki/Ludwig_Bieberbach)
