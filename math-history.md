@@ -48,6 +48,10 @@ Writing...
 
 Writing...
 
+- [Elias Stein](https://en.wikipedia.org/wiki/Elias_M._Stein)
+
+- [Videos](https://www.simonsfoundation.org/2017/03/13/elias-stein/)
+
 # Mixed person
 
 - [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss) 
