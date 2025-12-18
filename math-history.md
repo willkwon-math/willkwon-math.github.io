@@ -31,7 +31,7 @@ According to some people, he was humble in academic perspective. He highly appre
 He had good relationship with Laurant Schwarz, who made the theory of distribution. Also, he was kind to young people and appreicated their idea.
 
 However, in his 30, one of terrible story on him is related to [1936 Luzin affair](https://mathshistory.st-andrews.ac.uk/Extras/Luzin/) who advocated the exclusion of him from the Academy (Luzin was his advisor). In fact, this was related to political ruthlessness.
-After that event, Sobolev became acamically and politically successful. It is hard to say to blame him because of Great Purge due to the greatest asshole Stalin.
+After that event, Sobolev became acamically and politically successful. It is hard to blame him because of Great Purge due to the greatest asshole Stalin.
 
 # Disgusting
 
