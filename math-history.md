@@ -21,6 +21,10 @@ His work with Amnesty International in the 70s greatly extended his already-imme
 
 [His memoir](https://www.ams.org/notices/199709/murat.pdf)
 
+- [Cathleen Morawetz](https://en.wikipedia.org/wiki/Cathleen_Synge_Morawetz)
+
+[Her interview](https://www.simonsfoundation.org/2012/12/20/cathleen-morawetz/)
+
 - [Jean Leray](https://en.wikipedia.org/wiki/Jean_Leray)
 
 Writing....
