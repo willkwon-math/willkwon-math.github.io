@@ -18,8 +18,7 @@ Writing...
 
 - [Olga Ladyzhenskaya](https://en.wikipedia.org/wiki/Olga_Ladyzhenskaya)
 
-She was hard worker until she passed away at 81. She was initially denied to the university in the Soviet Union because her father had been executed as an 'enemy of the people'. 
-However, after several hardwork, she was finally admitted to the university thanks to Ivan Petrovsky. She could earn the Fields medal. However, due to the cold war, she could not earn the prize. However, she didn't care that much.
+She was a hard worker until she passed away at 81. She was initially denied admission to the university in the Soviet Union because her father had been executed as an 'enemy of the people'. After several hardwork, she was finally admitted to the university thanks to Ivan Petrovsky. She could earn the Fields medal. Due to the Cold War, she was unable to earn the prize. However, she didn't care that much.
 
 Beyond her mathematics, she protected Aleksandr Solzhenitsyn during his years of political persecution in Soviet union.
 
