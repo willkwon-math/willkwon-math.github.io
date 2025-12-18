@@ -28,6 +28,8 @@ Writing...
 
 His work with Amnesty International in the 70s greatly extended his already-immense fame within and outside of his scientific career. He also taught mathematics at the University of Asmara, Eritrea from 1966 to 1973.
 
+[Biography](https://mathshistory.st-andrews.ac.uk/Biographies/De_Giorgi)
+
 [His interview](https://www.ams.org/notices/199709/emmer.pdf)
 
 - [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)
