@@ -39,7 +39,6 @@ She was a hard worker until she passed away at 81. She was initially denied admi
 
 Beyond her mathematics, she protected Aleksandr Solzhenitsyn during his years of political persecution in Soviet union.
 
-
 - [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 
 Writing...
@@ -55,6 +54,8 @@ Writing...
 - [Elias Stein](https://en.wikipedia.org/wiki/Elias_M._Stein)
 
 - [Videos](https://www.simonsfoundation.org/2017/03/13/elias-stein/)
+
+- [Juliusz Schauder](https://en.wikipedia.org/wiki/Juliusz_Schauder)
 
 # Mixed person
 
