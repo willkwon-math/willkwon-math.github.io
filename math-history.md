@@ -74,3 +74,5 @@ Authorative figure
 - [Ludwig Bieberbach](https://en.wikipedia.org/wiki/Ludwig_Bieberbach)
 
 - [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker)
+
+- [Lev Landau](https://en.wikipedia.org/wiki/Lev_Landau)
