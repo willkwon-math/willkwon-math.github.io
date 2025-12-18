@@ -10,12 +10,28 @@ Some of these figures I deeply admire; others leave me feeling deeply conflicted
 
 # Greatest person
 
+- [Jean Leray](https://en.wikipedia.org/wiki/Jean_Leray)
+
+Writing....
+
+- [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert)
+
+Writing...
+
 - [Olga Ladyzhenskaya](https://en.wikipedia.org/wiki/Olga_Ladyzhenskaya)
 
 She was hard worker until she passed away at 81. She was initially denied to the university in the Soviet Union because her father had been executed as an 'enemy of the people'. 
 However, after several hardwork, she was finally admitted to the university thanks to Ivan Petrovsky. She could earn the Fields medal. However, due to the cold war, she could not earn the prize. However, she didn't care that much.
 
 Beyond her mathematics, she protected Aleksandr Solzhenitsyn during his years of political persecution in Soviet union.
+
+- [Ennio DeGiorgi](https://en.wikipedia.org/wiki/Ennio_De_Giorgi)
+
+Writing...
+
+His work with Amnesty International in the 70s greatly extended his already-immense fame within and outside of his scientific career. He also taught mathematics at the University of Asmara, Eritrea from 1966 to 1973.
+
+[His interview](https://www.ams.org/notices/199709/emmer.pdf)
 
 # Mixed person
 
