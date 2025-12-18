@@ -49,6 +49,10 @@ He had good relationship with Laurant Schwarz, who made the theory of distributi
 However, in his 30, one of terrible story on him is related to [1936 Luzin affair](https://mathshistory.st-andrews.ac.uk/Extras/Luzin/) who advocated the exclusion of him from the Academy (Luzin was his advisor). In fact, this was related to political ruthlessness.
 After that event, Sobolev became acamically and politically successful. It is hard to blame him because of Great Purge due to the greatest asshole Stalin.
 
+- [John Nash](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.)
+
+Writing (early day, he was not a good man, but after several years, he became better human being)
+
 # Disgusting
 
 
