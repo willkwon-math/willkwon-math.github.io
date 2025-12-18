@@ -72,3 +72,5 @@ Authorative figure
 - [Issac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
 
 - [Ludwig Bieberbach](https://en.wikipedia.org/wiki/Ludwig_Bieberbach)
+
+- [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker)
