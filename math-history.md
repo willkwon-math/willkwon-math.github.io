@@ -29,10 +29,6 @@ His work with Amnesty International in the 70s greatly extended his already-imme
 
 Writing....
 
-- [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert)
-
-Writing...
-
 - [Olga Ladyzhenskaya](https://en.wikipedia.org/wiki/Olga_Ladyzhenskaya)
 
 She was a hard worker until she passed away at 81. She was initially denied admission to the university in the Soviet Union because her father had been executed as an 'enemy of the people'. After several hardwork, she was finally admitted to the university thanks to Ivan Petrovsky. She could earn the Fields medal. Due to the Cold War, she was unable to earn the prize. However, she didn't care that much.
@@ -80,6 +76,10 @@ Writing (early day, he was not a good man, but after several years, he became be
 - [Augustin-Louis Cauchy](https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 
 Authorative figure
+
+- [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert)
+
+Writing... generally he was a good man but the Annalenstreit...
 
 # Absolute Dislike
 
