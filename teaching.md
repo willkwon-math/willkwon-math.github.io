@@ -34,5 +34,5 @@ use_math: true
 ## Mentoring
 - Lloyd Sangwoo Ko, Lucas Sha, Fourier Analysis, (2026 Spring independent study, Brown University)
 - Charlotte Kouroriez, Joseph Han, Well-posedness of KdV equation (2025 Fall DRP, Brown University)
-- Yongxi Lin(Now in Ph. D. student in CMU), Introduction to the mathematical theory on incompressible fluids (2025 Summer independent study, Brown University)
+- Yongxi Lin(Now Ph. D. student in CMU), Introduction to the mathematical theory on incompressible fluids (2025 Summer independent study, Brown University)
 - Lloyd Sangwoo Ko, Lean Quimbo, Long-time behavior of fluids (2025 Spring DRP, Brown University)
