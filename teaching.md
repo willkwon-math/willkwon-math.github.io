@@ -6,7 +6,7 @@ use_math: true
 - Fall 2025 - APMA 0360 Applied Partial Differential Equations I
 - Summer 2025 - APMA 1210 Operations Research: Deterministic Models (as an instructor), APMA Summer Bridge Program (crash course on real analysis)
 - Spring 2025 - APMA 0350 Applied Ordinary Differential Equations I
-- Fall 2024 - No teaching in undergraduate course; but see [Learning seminars on free surface flows](https://willkwon-math.kr/fall2024-Muskat)
+- Fall 2024 - No official teaching duty; but see [Learning seminars on free surface flows](https://willkwon-math.kr/fall2024-Muskat)
 - Summer 2024 - APMA Summer Bridge Program (crash course on real analysis)
 - Spring 2024 - APMA 0360 Applied Partial Differential Equations I
 - Fall 2023 - APMA 1210 Operations Research: Deterministic Models
