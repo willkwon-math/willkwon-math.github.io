@@ -57,7 +57,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 </details>
 
 <details>
-<summary>3. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, to appear Calc. Var. PDE, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
+<summary>3. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations with Dini mean oscillation coefficients with H. Dong, <a href="https://doi.org/10.1007/s00526-025-03206-z">Calc. Var. 65, 43 (2026)</a>, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We establish the spatial differentiability of weak solutions to nonstationary Stokes equations in divergence form with variable viscosity coefficients having $L_2$-Dini mean oscillations. As a corollary, we derive local spatial Schauder estimates for such equations if the viscosity coefficient belongs to $C^\alpha_x$. Similar results also hold for strong solutions to nonstationary Stokes equations in nondivergence form.
   </div>
@@ -93,7 +93,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
   </div>
 </details>
 <details>
-<summary>8. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with <a href="https://math.sogang.ac.kr/math/math02_1_4.html">H. Kim</a>, J. Differential Equations (2023), vol. 374, 497--547, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039623005181">[Journal] </a> <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
+<summary>8. Global existence and uniqueness of weak solutions of a Stokes-Magneto system with fractional diffusions, with <a href="https://math.sogang.ac.kr/math/math02_1_4.html">H. Kim</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022039623005181">J. Differential Equations (2023)</a>, vol. 374, 497--547,  <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider a Stokes-Magneto system  in $\mathbb{R}^d$ ($d\geq 2)$ with fractional diffusions   $\Lambda^{2\alpha}\boldsymbol{u}$ and $\Lambda^{2\beta}\boldsymbol{b}$ for the velocity $\boldsymbol{u}$ and the magnetic field $\boldsymbol{b}$, respectively. Here $\alpha,\beta$ are positive constants and $\Lambda^s = (-\Delta)^{s/2}$ is the fractional Laplacian of order $s$. We establish global existence of weak solutions of the  Stokes-Magneto system   for any initial data in $L_{2}$ when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$,
 and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$. It is also shown that weak solutions are   unique  if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
