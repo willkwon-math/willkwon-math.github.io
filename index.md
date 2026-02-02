@@ -44,7 +44,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 ## Publications / Preprints
 
 <details>
-<summary>1. Working progress with W. Huang </summary>
+<summary>1. TBA with W. Huang </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
