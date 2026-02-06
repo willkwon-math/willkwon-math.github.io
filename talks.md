@@ -7,6 +7,8 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Global solution to the one-phase Muskat problem with surface tension, Workshop in PDE and Applied Math in the Northeast Region, University of Connecticut, CT, USA, Mar. 7, 2026.
+- Global solution to the one-phase Muskat problem with surface tension, KIAS Analysis, PDE\&Probability Seminar (online), South Korea, Feb. 3, 2026.
 - Global solution to the one-phase Muskat problem, Brown PDE Seminar, Sep. 2025.
 - Scattering of the Vlasov-Riesz systems in three dimensions, [AMS Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2320_program_ss25.html#title), Apr. 2025.
 - Local Sobolev, $C^1$, $C^2$, and Schauder estimates for Stokes equations with variable coefficients, GLESPA, Nov. 2024.
