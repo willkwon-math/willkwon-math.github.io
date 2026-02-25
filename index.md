@@ -59,7 +59,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 <summary>3. Scattering map for the Vlasov--Poisson system with a repulsive harmonic potential with W. Huang </summary>
 <div markdown="1">
 **Abstract.** We consider the Vlasov--Poisson system with a repulsive harmonic potential and prove the (modified) scattering of solutions, as well as the existence of wave operators, in any spatial dimension $d\geq 2$.
-The main novelty of this work is the construction of the wave operators and the introduction of the lens transform for the Vlasov--Poisson system. In addition, we provide a new and simpler proof that relaxes the assumptions on the initial data compared with those in Bigorgne, Velozo Ruiz, Velozo Ruiz (2025) and Velozo Ruiz, Velozo Ruiz (2025).
+The main novelty of this work is the construction of the wave operators and the introduction of the lens transform for the Vlasov--Poisson system. In addition, we provide a new and simpler proof that relaxes the assumptions on the initial data compared with those in Bigorgne, Velozo Ruiz, Velozo Ruiz (2025) and Velozo Ruiz, Velozo Ruiz (2024).
   </div>
 </details>
 
