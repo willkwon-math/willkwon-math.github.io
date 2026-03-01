@@ -165,6 +165,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
   - [Stupid Mathematics Seminar in Korea](https://www.facebook.com/mungseminar)  (I am a founder of this seminar)
 
 - My favorite quotes
+  - 꼰대란 별게 아니다. 끊임없이 내 언어로만 이야기하는 사람이다. (인남식 교수) / A stubborn person is nothing special — it's simply someone who insists on speaking only in their own language
   - 희망을 버려. 그리고 힘내 (사이보그지만 괜찮아, 박찬욱-정서경) / Let your hope go, and cheer up. (I'm a cyborg but that's ok" written by Chanwook Park and Suhkyung Seo-kyung Chung)
   - The opposite of war is not a peace, it's creation (Jonathan Larson)
   - 不爲也, 非不能也 (孟子) / A lack of effort, not a lack of ability. (Mencius) [translation source](http://www.acmuller.net/con-dao/mencius.html)
