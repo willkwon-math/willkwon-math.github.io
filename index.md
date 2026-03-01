@@ -167,6 +167,7 @@ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\ma
 - My favorite quotes
   - 꼰대란 별게 아니다. 끊임없이 내 언어로만 이야기하는 사람이다. (인남식 교수) / A stubborn person is nothing special — it's simply someone who insists on speaking only in their own language
   - 희망을 버려. 그리고 힘내 (사이보그지만 괜찮아, 박찬욱-정서경) / Let your hope go, and cheer up. (I'm a cyborg but that's ok" written by Chanwook Park and Suhkyung Seo-kyung Chung)
+  - I don't need a life that's normal. That's way too far away. But something next to normal... would be okay. Yeah, something next to normal, that's the thing I'd like to try. (Next to normal, Brian Yorkey)
   - The opposite of war is not a peace, it's creation (Jonathan Larson)
   - 不爲也, 非不能也 (孟子) / A lack of effort, not a lack of ability. (Mencius) [translation source](http://www.acmuller.net/con-dao/mencius.html)
   - It is not only courage to boldly jump into a dangerous place. It is also courage to ignore the strong temptation to jump in and go on my own path silently. It is foolish to react immediately when a reverse flow occurs in a forward flow. Maintaining your current flow when your opponent has reversed flow becomes countercurrent from the opponent's point of view. Therefore, the attitude of maintaining my flow without wavering is the best defense and offensive means. (Changho Lee, one of the best "baduk(Go)" player) [translated by Google]
