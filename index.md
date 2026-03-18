@@ -37,7 +37,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 - Harmonic Analysis (real-variable methods)
 
 ## Activity 
-- In Fall 2024, I organized learning seminar on the [Cauchy problem on free surface flows](https://willkwon-math.github.io/fall2024-Muskat).
+- In Fall 2024, I organized learning seminar on the [Cauchy problem on free surface flows](https://willkwon-math.github.io/fall2024-Muskat) which leads me to work on Muskat problems for remaining Ph. D. program.
 - Starting from Spring 2023, I am organizing seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with Fernando Benito Fernández de la Cigoña and Marcus Pasquariello.
 - In Fall 2022, I organized learning seminar on [Harmonic analysis related to PDEs](https://willkwon-math.github.io/fall2022-HAPDE).
 
