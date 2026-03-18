@@ -31,7 +31,7 @@ I frequently see plays and musicals, and sometimes write informal reviews of the
 
 ## Research Interests
 
-I am someone who seeks to understand why certain objects, embraced by our world, exist from a mathematical perspective. My research is driven by questions of existence, uniqueness, regularity, and instability of mathematical structures, particularly in the analysis of partial differential equations and related fields.
+I am someone who seeks to understand why certain objects, embraced by our world, exist from a mathematical perspective. More precisely, I have interested in the following topics
  
 - Partial Differential Equations (elliptic/parabolic PDEs, Fluid equations, and Kinetic Equations)
 - Harmonic Analysis (real-variable methods)
