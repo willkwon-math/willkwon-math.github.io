@@ -52,7 +52,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 <details>
 <summary>2. Global well-posedness of the one-phase Muskat problem with surface tension, with H. Dong </summary>
 <div markdown="1">
-**Abstract.** In this paper, we establish the global well-posedness of the one-phase Muskat problem with surface tension for small initial data. This problem describes the motion of the interface separating a wet region from a dry region within a porous medium, a process governed by Darcy’s law. Although physically essential, the inclusion of surface tension introduces an additional challenge. We prove the existence of a unique global strong solution for small initial data. Moreover, if the initial data is periodic, then the solution converges to zero as $t\rightarrow\infty$. To the best of our knowledge, this work constitutes the first global well-posedness result for the one-phase Muskat problem with surface tension.
+**Abstract.** In this paper, we establish the global well-posedness of the one-phase Muskat problem with surface tension for small initial data. This problem describes the motion of the interface separating a wet region from a dry region within a porous medium, a process governed by Darcy’s law. Although physically essential, the inclusion of surface tension introduces an additional challenge. We prove that if the initial free boundary is sufficiently small in $H^s$, $s>d/2+1$, then the problem admits a unique global strong solution. Moreover, the solution converges to zero in Lipschitz norm as $t\rightarrow\infty$. To the best of our knowledge, this work constitutes the first global well-posedness result for the one-phase Muskat problem with surface tension.
   </div>
 </details>
 <details>
