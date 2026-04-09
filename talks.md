@@ -7,15 +7,15 @@ use_math: true
 
 
 ## Mathematics(Research talks)
-- Global well-posedness of the one-phase Muskat problem with surface tension, Contribution talks, ICM 2026, Jul. 2026.
-- Global well-posedness of the one-phase Muskat problem with surface tension, Special Session on Fluid dynamics and nonlinear PDEs, 2026 AMS Spring Southeastern Sectional Meeting, Mar. 2026.
-- Global well-posedness of the one-phase Muskat problem with surface tension, KIAS Analysis, PDE & Probability Seminar (online), Feb. 2026.
-- Elliptic equations with singular drifts on Lipschitz domains, Workshop on Harmonic Analysis and PDEs, University of Pittsburgh, Nov. 2025.
+- Global well-posedness of the one-phase Muskat problem surface tension, Contribution talks, ICM 2026, Jul. 2026.
+- Global well-posedness of the one-phase Muskat problem surface tension, Special Session on Fluid dynamics and nonlinear PDEs, 2026 AMS Spring Southeastern Sectional Meeting, Mar. 2026.
+- Global well-posedness of the one-phase Muskat problem surface tension, KIAS Analysis, PDE & Probability Seminar (online), Feb. 2026.
+- Elliptic equations singular drifts on Lipschitz domains, Workshop on Harmonic Analysis and PDEs, University of Pittsburgh, Nov. 2025.
 - Global solutions to Muskat problem, PDE seminar, Brown University, Sep. 2025.
 - Recent progress on local regularity estimates for nonstationary Stokes equations, Theory and Applications of Elliptic PDE, UC Irvine, Jun. 2025.
 - Recent progress on local regularity estimates for nonstationary Stokes equations, Workshop for Research and Workforce Development in Fluid Mechanics, University of Nebraska-Lincoln, May 2025.
 - Scattering of the Vlasov-Riesz systems in three dimensions, Special Session on Recent developments in nonlinear evolution equations, Spring 2025 AMS Eastern Sectional Meeting, Apr. 2025.
-- Nonstationary Stokes equations on a domain with curved boundary under slip boundary conditions, Winter School: Boundary and Singularity in Fluid Mechanics, Stony Brook University, Jan. 2025.
+- Nonstationary Stokes equations on a domain curved boundary under slip boundary conditions, Winter School: Boundary and Singularity in Fluid Mechanics, Stony Brook University, Jan. 2025.
 - Scattering of the Vlasov-Riesz systems in three dimensions, PDE and Applied Analysis Seminar, POSTECH (online), Sep. 2024.
 - Scattering of the Vlasov-Riesz systems in three dimensions, Spectral Analysis of Schrödinger operators, ICERM, Aug. 2024.
 - Scattering of the Vlasov-Riesz systems in three dimensions, PDE seminar, Yonsei University (online), Aug. 2024.
@@ -24,25 +24,25 @@ use_math: true
 - Boundary mixed norm estimates for non-stationary Stokes equations under no-slip conditions, 2024 AMS New England Graduate Student Conference, Apr. 2024.
 - Interior and boundary mixed norm derivative estimates for non-stationary Stokes equations, BK Seminar for Graduate Students, Yonsei University, Mar. 2024.
 - Interior and boundary mixed derivative estimates for nonstationary Stokes equations, AMS Special Session on Dynamics and Regularity of PDEs, 2024 Joint Mathematical Meeting, Jan. 2024.
-- Elliptic equations with singular drifts on Lipschitz domains, Analysis seminar, Temple University, Nov. 2023.
+- Elliptic equations singular drifts on Lipschitz domains, Analysis seminar, Temple University, Nov. 2023.
 - Interior and boundary mixed derivative estimates for nonstationary Stokes equations, Prairie Analysis Seminar, Kansas State University, Nov. 2023.
 - Interior and boundary mixed derivative estimates for nonstationary Stokes equations, PDE and Differential Geometry seminar, University of Connecticut, Oct. 2023.
 - Interior mixed derivative estimates for nonstationary Stokes equations, PDE & Applied Analysis Seminar, Sogang University, Jun. 2023.
-- On global weak solutions of a Stokes-Magneto system with fractional diffusions, Special Session on Dynamics of PDEs, 2023 AMS Spring Southeastern Sectional Meeting, Mar. 2023.
-- Elliptic equations with singular drifts, PDE seminar, UNIST, Jun. 2022.
+- On global weak solutions of a Stokes-Magneto system fractional diffusions, Special Session on Dynamics of PDEs, 2023 AMS Spring Southeastern Sectional Meeting, Mar. 2023.
+- Elliptic equations singular drifts, PDE seminar, UNIST, Jun. 2022.
 - Survey on Landau damping, PDE and Applied Analysis Seminar, POSTECH, Jun. 2022.
-- Elliptic equations in divergence form with drifts in $L^2$, Contribution talks in Analysis session, 2022 Spring Meeting of KMS (online), Apr. 2022.
-- Elliptic equations with singular drifts on planar domains, Workshop for young mathematicians in Korea (online), Jan. 2022.
-- $W^{1,2+\varepsilon}$-results for elliptic equations with singular drifts in weak $L^n$-spaces, Contribution talks in Analysis session, 2021 Spring Meeting of KMS (online), Apr. 2021.
-- $W^{1,2+\varepsilon}$-results for elliptic equations with drifts in weak $L^n$-spaces, KIAS Analysis, PDE & Probability Seminar (online), Jan. 2021.
-- Elliptic equations with singular drifts on Lipschitz domains, HA-GMT-PDE seminar at University of Minnesota (online), Sep. 2020.
-- Elliptic equations with singular drifts on Lipschitz domains, KIAS Analysis, PDE & Probability Seminar, Dec. 2019.
-- Neumann problems for elliptic equations with singular drifts on Lipschitz domains, Contribution talks in Analysis session, 2019 Spring Meeting of KMS, Oct. 2019.
-- Elliptic equations with singular drifts on Lipschitz domains, IBS-CGP Seminar, Jan. 2019.
+- Elliptic equations in divergence form drifts in $L^2$, Contribution talks in Analysis session, 2022 Spring Meeting of KMS (online), Apr. 2022.
+- Elliptic equations singular drifts on planar domains, Workshop for young mathematicians in Korea (online), Jan. 2022.
+- $W^{1,2+\varepsilon}$-results for elliptic equations singular drifts in weak $L^n$-spaces, Contribution talks in Analysis session, 2021 Spring Meeting of KMS (online), Apr. 2021.
+- $W^{1,2+\varepsilon}$-results for elliptic equations drifts in weak $L^n$-spaces, KIAS Analysis, PDE & Probability Seminar (online), Jan. 2021.
+- Elliptic equations singular drifts on Lipschitz domains, HA-GMT-PDE seminar at University of Minnesota (online), Sep. 2020.
+- Elliptic equations singular drifts on Lipschitz domains, KIAS Analysis, PDE & Probability Seminar, Dec. 2019.
+- Neumann problems for elliptic equations singular drifts on Lipschitz domains, Contribution talks in Analysis session, 2019 Spring Meeting of KMS, Oct. 2019.
+- Elliptic equations singular drifts on Lipschitz domains, IBS-CGP Seminar, Jan. 2019.
 - $L^2$-boundedness of the Cauchy integral operator on Lipschitz curves, KIAS Analysis & PDE Learning seminar, Oct. 2018.
-- Dirichlet problems for elliptic equations with singular drifts in Lipschitz domains, Contribution talks in Analysis session, 2018 Joint Meeting of KMS and DMV, Oct. 2018.
-- Dirichlet problems for elliptic equations with singular drifts in Lipschitz domains, Graduate student seminar, Yonsei University, Sep. 2018.
-- Elliptic equations with singular drifts on Lipschitz domains, Workshop for students in Analysis and PDE, Jul. 2018.
+- Dirichlet problems for elliptic equations singular drifts in Lipschitz domains, Contribution talks in Analysis session, 2018 Joint Meeting of KMS and DMV, Oct. 2018.
+- Dirichlet problems for elliptic equations singular drifts in Lipschitz domains, Graduate student seminar, Yonsei University, Sep. 2018.
+- Elliptic equations singular drifts on Lipschitz domains, Workshop for students in Analysis and PDE, Jul. 2018.
 ## Mathematics(Expository talks since 2016)
 - Local Well-posedness and singularity formuation of Burgers equations I, II, GLESPA, Mar. 2024.
 - A role of pressures in Navier-Stokes equations, GLESPA, Feb. 2023.
