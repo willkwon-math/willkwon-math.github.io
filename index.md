@@ -44,73 +44,79 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 ## Publications / Preprints
 
 <details>
-<summary>1. TBA B. Pausader </summary>
+<summary>1. TBA H. Dong </summary>
 <div markdown="1">
 **Abstract.** TBA
   </div>
 </details>
 <details>
-<summary>2. Global well-posedness of the one-phase Muskat problem surface tension, with H. Dong, <a href="https://arxiv.org/abs/2604.06545">arXiv:2604.06545 [math.AP]</a> </summary>
+<summary>2. TBA B. Pausader </summary>
+<div markdown="1">
+**Abstract.** TBA
+  </div>
+</details>
+<details>
+<summary>3. Global well-posedness of the one-phase Muskat problem surface tension, with H. Dong, <a href="https://arxiv.org/abs/2604.06545">arXiv:2604.06545 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** In this paper, we establish the global well-posedness of the one-phase Muskat problem with surface tension for small initial data. This problem describes the motion of the interface separating a wet region from a dry region within a porous medium, a process governed by Darcy's law. Although physically essential, the inclusion of surface tension introduces an additional challenge. We prove that if the initial free boundary is sufficiently small in $H^s$, $s>d/2+1$, then the problem admits a unique global strong solution. Moreover, the solution converges to zero in Lipschitz norm as $t\rightarrow\infty$. To the best of our knowledge, this work constitutes the first global well-posedness result for the one-phase Muskat problem with surface tension.
   </div>
 </details>
 <details>
-<summary>3. Scattering map for the Vlasov-Poisson system a repulsive harmonic potential, with W. Huang, <a href="https://arxiv.org/abs/2602.21344">arXiv:2602.21344 [math.AP]</a> </summary>
+<summary>4. Scattering map for the Vlasov-Poisson system a repulsive harmonic potential, with W. Huang, <a href="https://arxiv.org/abs/2602.21344">arXiv:2602.21344 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider the Vlasov--Poisson system a repulsive harmonic potential and prove the (modified) scattering of solutions, as well as the existence of wave operators, in any spatial dimension $d\geq 2$. The main novelty of this work is the construction of the wave operators and the introduction of the lens transform for the Vlasov--Poisson system. In addition, we provide a new and simpler proof that relaxes the assumptions on the initial data compared with those in Bigorgne, Velozo Ruiz, Velozo Ruiz (2025) and Velozo Ruiz, Velozo Ruiz (2024).
   </div>
 </details>
 <details>
-<summary>4. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations Dini mean oscillation coefficients, with H. Dong, <a href="https://doi.org/10.1007/s00526-025-03206-z">Calc. Var. 65, 43 (2026)</a>, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
+<summary>5. Spatial $C^1$, $C^2$, and Schauder estimates for Nonstationary Stokes equations Dini mean oscillation coefficients, with H. Dong, <a href="https://doi.org/10.1007/s00526-025-03206-z">Calc. Var. 65, 43 (2026)</a>, <a href="https://arxiv.org/abs/2412.20125">arXiv:2412.20125 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We establish the spatial differentiability of weak solutions to nonstationary Stokes equations in divergence form variable viscosity coefficients having $L_2$-Dini mean oscillations. As a corollary, we derive local spatial Schauder estimates for such equations if the viscosity coefficient belongs to $C^\alpha_x$. Similar results also hold for strong solutions to nonstationary Stokes equations in nondivergence form.
   </div>
 </details>
 <details>
-<summary>5. Boundary mixed norm estimates for nonstationary Stokes equations on domains curved boundary, with H. Dong, <a href="https://doi.org/10.3934/dcds.2025092">Discrete Contin. Dyn. Syst.</a>, <a href="https://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
+<summary>6. Boundary mixed norm estimates for nonstationary Stokes equations on domains curved boundary, with H. Dong, <a href="https://doi.org/10.3934/dcds.2025092">Discrete Contin. Dyn. Syst.</a>, <a href="https://arxiv.org/abs/2408.17321">arXiv:2408.17321 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider nonstationary Stokes equations in nondivergence form variable viscosity coefficients and generalized Navier slip boundary conditions slip tensor $\mathcal{A}$ in a domain $\Omega$ in $\mathbb{R}^d$. First, under the assumption that slip matrix $\mathcal{A}$ is sufficiently smooth, we establish a priori local regularity estimates for solutions near a curved portion of the domain boundary. Second, when $\mathcal{A}$ is the shape operator, we derive local boundary estimates for the Hessians of the solutions, where the right-hand side does not involve the pressure. Notably, our results are new even if the viscosity coefficients are constant.
   </div>
 </details>
 <details>
-<summary>6. Scattering of the Vlasov-Riesz system in the three dimensions, with W. Huang, <a href="https://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a> </summary>
+<summary>7. Scattering of the Vlasov-Riesz system in the three dimensions, with W. Huang, <a href="https://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider an asymptotic behavior of solutions to the Vlasov-Riesz system of order $\alpha$ in $\mathbb{R}^3$ which is a kinetic model induced by Riesz interactions. We prove small data scattering when $1/2<\alpha<1$ and modified scattering when $1<\alpha<1+\delta$ for some $\delta>0$. Moreover, we show the existence of (modified) wave operators for such a regime. To the best of our knowledge, this is the first result on the existence of modified scattering polynomial correction in kinetic models.
   </div>
 </details>
 <details>
-<summary>7. Local and global solutions to Stokes-Magneto equations fractional dissipations, with H. Bae and J. Shin, <a href="https://doi.org/10.1007/s42985-025-00341-2">Partial Differ. Equ. Appl. 6, 32</a>, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a> </summary>
+<summary>8. Local and global solutions to Stokes-Magneto equations fractional dissipations, with H. Bae and J. Shin, <a href="https://doi.org/10.1007/s42985-025-00341-2">Partial Differ. Equ. Appl. 6, 32</a>, <a href="http://arxiv.org/abs/2310.03255">arXiv:2310.03255 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** In this paper, we investigate a Stokes-Magneto system fractional diffusions. We first deal the non-resistive case in $\mathbb{T}^d$ and establish the local and global well-posedness initial magnetic field $\boldsymbol{b}_0\in H^s(\mathbb{T}^d)$. We also show the existence of a unique mild solution of the resistive case initial data $\boldsymbol{b}_0$ in the critical $L^p(\mathbb{R}^d)$ space. Moreover, we show that the $L^p$-norm of $\boldsymbol{b}(t)$ converges to zero as $t\rightarrow\infty$ if the initial data is sufficiently small.
   </div>
 </details>
 <details>
-<summary>8. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with H. Dong, <a href="https://doi.org/10.1142/S0219199725500695">Commun. Contemp. Math. (2025) 2550069</a>, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
+<summary>9. Interior and boundary mixed norm derivative estimates for nonstationary Stokes equations, with H. Dong, <a href="https://doi.org/10.1142/S0219199725500695">Commun. Contemp. Math. (2025) 2550069</a>, <a href="https://arxiv.org/abs/2308.09220">arXiv:2308.09220 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We obtain weighted mixed norm Sobolev estimates in the whole space for nonstationary Stokes equations in divergence and nondivergence form variable viscosity coefficients that are merely measurable in time variable and have small mean oscillation in spatial variables in small cylinders. As an application, we prove interior mixed norm derivative estimates for solutions to both equations. We also discuss boundary mixed norm Hessian estimates for solutions to equations in nondivergence form under the Lions boundary conditions.
   </div>
 </details>
 <details>
-<summary>9. Global existence and uniqueness of weak solutions of a Stokes-Magneto system fractional diffusions, with H. Kim, <a href="https://www.sciencedirect.com/science/article/pii/S0022039623005181">J. Differential Equations 374(2023), 497--547</a>, <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
+<summary>10. Global existence and uniqueness of weak solutions of a Stokes-Magneto system fractional diffusions, with H. Kim, <a href="https://www.sciencedirect.com/science/article/pii/S0022039623005181">J. Differential Equations 374(2023), 497--547</a>, <a href="https://arxiv.org/abs/2302.02046">arXiv:2302.02046 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider a Stokes-Magneto system in $\mathbb{R}^d$ ($d\geq 2)$ fractional diffusions $\Lambda^{2\alpha}\boldsymbol{u}$ and $\Lambda^{2\beta}\boldsymbol{b}$ for the velocity $\boldsymbol{u}$ and the magnetic field $\boldsymbol{b}$, respectively. Here $\alpha,\beta$ are positive constants and $\Lambda^s = (-\Delta)^{s/2}$ is the fractional Laplacian of order $s$. We establish global existence of weak solutions of the Stokes-Magneto system for any initial data in $L_{2}$ when $\alpha$, $\beta$ satisfy $1/2<\alpha<(d+1)/2$, $\beta >0$, and $\min(\alpha+\beta,2\alpha+\beta-1)>d/2$. It is also shown that weak solutions are unique if $\beta \geq 1$ and $\min (\alpha+\beta,2\alpha+\beta-1)\geq d/2+1$, in addition.
   </div>
 </details>
 <details>
-<summary>10. Elliptic equations in divergence form drifts in $L^2$, <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6/">Proc. Amer. Math. Soc. 150(2022), no. 8, 3415--3429</a>, <a href="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a> </summary>
+<summary>11. Elliptic equations in divergence form drifts in $L^2$, <a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2022-15828-6/">Proc. Amer. Math. Soc. 150(2022), no. 8, 3415--3429</a>, <a href="https://arxiv.org/abs/2104.01300">arXiv:2104.01300 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider the Dirichlet problem for second-order linear elliptic equations in divergence form $-\mathrm{div} (A\nabla u) + \mathbf{b}\cdot \nabla u +\lambda u = f+\mathrm{div} \mathbf{F}$ in $\Omega$ and $u=0$ on $\partial\Omega$, in bounded Lipschitz domain $\Omega$ in $\mathbb{R}^2$, where $A:\mathbb{R}^2\rightarrow \mathbb{R}^{2^2}$, $\mathbf{b}: \Omega\rightarrow \mathbb{R}^2$, and $\lambda \geq 0$ are given. If $2<p<\infty$ and $A$ has a small mean oscillation in small balls, $\Omega$ has small Lipschitz constant, and $\mathrm{div} A, \mathbf{b}\in L^2(\Omega;\mathbb{R}^2)$, then we prove existence and uniqueness of weak solutions in $W_0^{1,p}(\Omega)$ of the problem. Similar result also holds for the dual problem.
   </div>
 </details>
 <details>
-<summary>11. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equation drifts in weak-$L^{n}$ spaces, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">J. Math. Anal. Appl. 500(1) (2021) 125165</a>, <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a> </summary>
+<summary>12. Existence and uniqueness of weak solution in $W^{1,2+\varepsilon}$ for elliptic equation drifts in weak-$L^{n}$ spaces, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X21002444">J. Math. Anal. Appl. 500(1) (2021) 125165</a>, <a href="https://arxiv.org/abs/2011.07524">arXiv:2011.07524 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider the following Dirichlet problems for elliptic equations singular drift $\mathbf{b}$: (a) $-\mathrm{div}(A\nabla u)+\mathrm{div}(u\mathbf{b})=f$, (b) $-\mathrm{div}(A^T\nabla v)-\mathbf{b}\cdot\nabla v=g$ in $\Omega$, where $\Omega$ is a bounded Lipschitz domain in $\mathbb{R}^n$, $n\geq 2$. Assuming that $\mathbf{b}\in L^{n,\infty}(\Omega)^n$ has non-negative weak divergence in $\Omega$, we establish existence and uniqueness of weak solution in $W^{1,2+\varepsilon}_0(\Omega)$ of the problem (b) when $A$ is bounded and uniformly elliptic. As an application, we prove unique solvability of weak solution $u$ in $W^{1,2-}_0(\Omega)$ for the problem (a) for every $f\in W^{-1,2-}(\Omega)$.
   </div>
 </details>
 <details>
-<summary>12. Dirichlet and Neumann problems for elliptic equations singular drifts on Lipschitz domains, with H. Kim, <a href="https://www.ams.org/journals/tran/2022-375-09/S0002-9947-2022-08730-4/home.html">Trans. Amer. Math. Soc. 375 (2022), 6537--6574</a>, <a href="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP]</a> </summary>
+<summary>13. Dirichlet and Neumann problems for elliptic equations singular drifts on Lipschitz domains, with H. Kim, <a href="https://www.ams.org/journals/tran/2022-375-09/S0002-9947-2022-08730-4/home.html">Trans. Amer. Math. Soc. 375 (2022), 6537--6574</a>, <a href="https://arxiv.org/abs/1811.12619">arXiv:1811.12619 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider the Dirichlet and Neumann problems for second-order linear elliptic equations $-\triangle u+\mathrm{div}(u\mathbf{b})=f$ and $-\triangle v-\mathbf{b}\cdot\nabla v=g$ in a bounded Lipschitz domain $\Omega$ in $\mathbb{R}^n$ ($n\geq 3$), where $\mathbf{b}:\Omega\rightarrow \mathbb{R}^n$ is a given vector field. Under the assumption that $\mathbf{b}\in L^n(\Omega)^n$, we first establish existence and uniqueness of solutions in $L^p_{\alpha}(\Omega)$ for the Dirichlet and Neumann problems. Here $L^p_{\alpha}(\Omega)$ denotes the Sobolev space (or Bessel potential space) the pair $(\alpha,p)$ satisfying certain conditions. These results extend the classical works of Jerison-Kenig (1995) and Fabes-Mendez-Mitrea (1998) for the Poisson equation. We also prove existence and uniqueness of solutions of the Dirichlet problem boundary data in $L^2(\partial\Omega)$. Our results for the Dirichlet problems hold even for the case $n=2$.
   </div>
