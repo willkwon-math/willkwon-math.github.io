@@ -38,7 +38,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 
 ## Activity 
 - In Fall 2024, I organized learning seminar on the [Cauchy problem on free surface flows](https://willkwon-math.github.io/fall2024-Muskat).
-- Starting from Spring 2023, I am organizing seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with Fernando Benito Fernández de la Cigoña and Marcus Pasquariello.
+- Starting from Spring 2023 to Spring 2026, I organized seminar [Graduate Lecture Series in Analysis and PDEs](https://glespa-brown.github.io) with Fernando Benito Fernández de la Cigoña, Marcus Pasquariello, and Tainara Borges.
 - In Fall 2022, I organized learning seminar on [Harmonic analysis related to PDEs](https://willkwon-math.github.io/fall2022-HAPDE).
 
 ## Publications / Preprints
