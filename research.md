@@ -12,6 +12,7 @@ Some of topics are
 - Mathematical Fluid Dynamics
   - Equations from magnetohydrodynamics
   - Local regularity theory for Stokes equations
+  - Free boundary problem from petroleum engineering
 - Long time behavior of solutions to Kinetic equations
 
 ## Elliptic equations with singular drift terms
@@ -128,6 +129,12 @@ As a natural counterpart to Sobolev estimates, one can also ask the validity of 
 
 
 
+## Mathematical Fluid Dynamics: free boundary problems from petroleum engineering
+
+Writing on progress....
+
+
+
 ## Kinetic equations
 
 Also, I have worked kinetic equations in partiuclar, long-time dynamics of kinetic equations induced by Riesz interactions. To explain this problem, consider the following systems of ODEs:
@@ -172,3 +179,4 @@ However, there are few works when $\alpha \neq 1$. For local well-posedness, Cho
 <div>
   In a joint work with Wenrui Huang, we have obtained global well-posedness with small initial data. Moreover, the solution exhibits scattering when $\alpha \in (1/2,1)$ and modified scattering when $\alpha \in (1,1+\delta)$. Unlike the case $\alpha=1$, the nonlinear solution converges to a solution along the natural linear trajectory with polynomial correction. Moreover, we constructed modified wave operator as well.
 </div>
+
