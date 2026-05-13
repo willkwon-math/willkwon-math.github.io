@@ -118,6 +118,8 @@ In the previous research work, we only proved the uniqueness of weak solutions w
 
 ## Kinetic equations
 
+(Need to modify)
+
 Also, I have worked kinetic equations in partiuclar, long-time dynamics of kinetic equations induced by Riesz interactions. To explain this problem, consider the following systems of ODEs:
 <div>
 \begin{equation}
