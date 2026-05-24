@@ -3,7 +3,7 @@ layout: home
 use_math: true
 ---
 
-<img src="https://willkwon-math.github.io/assets/images/profile.jpg">
+<img src="https://willkwon-math.github.io/assets/img/profile.jpg" class="profile-pic">
 <div style="text-align: right; font-size: 11px; color: #888; margin-top: -5px; margin-bottom: 10px; padding-right: 5px;">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald </a></div>
 
 <h2><strong>Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon</strong></h2>
