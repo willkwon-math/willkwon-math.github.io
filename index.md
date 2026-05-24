@@ -1,11 +1,10 @@
 ---
 layout: home
 use_math: true
-profile_picture:
-  src: /assets/img/profile.jpg
-  alt: website picture
 ---
 
+<img src="/assets/images/profile.jpg" class="profile-pic">
+<div style="text-align: right; font-size: 11px; color: #888; margin-top: -5px; margin-bottom: 10px; padding-right: 5px;">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald </a></div>
 
 <h2><strong>Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon</strong></h2>
 
@@ -24,8 +23,6 @@ You can pronounce my Korean name as "Hyeo-nu" (there is a linking sound between 
 However, I found that many people pronounce my name as "hahn woo" which means 'Korean beef'....  
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
-
-The drawing was given by one of my students at the Republic of Korea Air Force Academy.
 
 I frequently see plays and musicals, and sometimes write informal reviews of them on [this blog](https://brunch.co.kr/@skykite9) (in Korean).
 
