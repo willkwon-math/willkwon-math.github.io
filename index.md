@@ -2,10 +2,7 @@
 layout: home
 use_math: true
 ---
-<div class="profile-box">
-  <img src="https://willkwon-math.github.io/assets/img/profile.jpg" class="profile-pic">
-  <div class="profile-caption">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald</a></div>
-</div>
+<div class="profile-box"><img src="https://willkwon-math.github.io/assets/img/profile.jpg" class="profile-pic"><div class="profile-caption">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald</a></div></div>
 
 <h2><strong>Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon</strong></h2>
 
