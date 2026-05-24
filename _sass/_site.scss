@@ -1,20 +1,32 @@
-.profile-pic {
+/* 사진과 캡션을 묶은 전체 박스 스타일 */
+.profile-box {
   float: right;
-  width: 150px;        
-  height: auto;
-  display: block;       /* 이미지를 블록 요소로 지정해 레이아웃 꼬임 방지 */
-  margin-left: 20px;    /* 왼쪽 글자와의 간격 */
-  margin-bottom: 15px;  /* 아래쪽 글자와의 간격 */
+  width: 150px;         /* 사진 크기 지정 */
+  margin-left: 20px;
+  margin-bottom: 15px;
 
   @include media-query($on-mobile) {
     float: none;
-    margin-bottom: 20px;
-    margin-left: 0px;
-    width: 100%;        /* 모바일에서는 화면 너비에 맞춤 (선택) */
-    max-width: 200px;   /* 모바일에서 너무 커지는 것 방지 */
+    margin: 0 auto 20px auto; /* 모바일에서는 가운데 정렬 */
+    width: 100%;
+    max-width: 200px;
   }
 }
 
+/* 박스 내부의 이미지 스타일 */
+.profile-box .profile-pic {
+  width: 100%;          /* 부모 박스(150px) 너비에 꽉 맞춤 */
+  height: auto;
+  display: block;
+}
+
+/* 이미지 바로 밑에 붙는 캡션 스타일 */
+.profile-box .profile-caption {
+  text-align: center;   /* 사진 중앙 기준으로 글자 정렬 */
+  font-size: 11px;
+  color: #888;
+  margin-top: 8px;      /* 사진과 글자 사이의 간격 */
+}
 .footer-col {
   font-size: 12px;
 
