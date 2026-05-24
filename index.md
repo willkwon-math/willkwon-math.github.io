@@ -2,12 +2,14 @@
 layout: home
 use_math: true
 ---
-<img src="https://willkwon-math.github.io/assets/img/profile.jpg" class="profile-pic">
-<div style="text-align: right; font-size: 11px; color: #888; margin-top: -5px; margin-bottom: 10px; padding-right: 5px;">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald </a></div>
+<div class="profile-box">
+  <img src="https://willkwon-math.github.io/assets/img/profile.jpg" class="profile-pic">
+  <div class="profile-caption">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald</a></div>
+</div>
 
 <h2><strong>Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon</strong></h2>
 
-### Contact 
+## Contact 
 Division of Applied Mathematics,<br>
 Brown University,<br>
 182 George Street, Providence, RI 02912, USA
