@@ -5,16 +5,16 @@ use_math: true
 <img src="https://willkwon-math.github.io/assets/img/profile.jpg" class="profile-pic">
 <div style="text-align: right; font-size: 11px; color: #888; margin-top: -5px; margin-bottom: 10px; padding-right: 5px;">Photo by <a href="https://elisefitzgerald.design">Elise Fitzgerald </a></div>
 
-<div style="clear: both;"></div>
-
 <h2><strong>Hyunwoo Kwon (권현우, 權賢宇) / Will Kwon</strong></h2>
 
-## Contact 
+### Contact 
 Division of Applied Mathematics,<br>
 Brown University,<br>
 182 George Street, Providence, RI 02912, USA
 
 Email. hyunwoo_kwon[at]brown[dot]edu<br>
+
+<div style="clear: both;"></div>
 
 ## About me  
 
