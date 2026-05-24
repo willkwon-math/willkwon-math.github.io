@@ -2,12 +2,16 @@
   float: right;
   width: 150px;        
   height: auto;
-  margin-left: 20px;
+  display: block;       /* 이미지를 블록 요소로 지정해 레이아웃 꼬임 방지 */
+  margin-left: 20px;    /* 왼쪽 글자와의 간격 */
+  margin-bottom: 15px;  /* 아래쪽 글자와의 간격 */
 
   @include media-query($on-mobile) {
     float: none;
     margin-bottom: 20px;
     margin-left: 0px;
+    width: 100%;        /* 모바일에서는 화면 너비에 맞춤 (선택) */
+    max-width: 200px;   /* 모바일에서 너무 커지는 것 방지 */
   }
 }
 
