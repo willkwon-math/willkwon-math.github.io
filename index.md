@@ -19,14 +19,9 @@ Email. hyunwoo_kwon[at]brown[dot]edu<br>
 
 I am 5th year Ph. D. student (with candidacy) in [the Division of Applied Mathematics](https://appliedmath.brown.edu) at [Brown University](https://www.brown.edu). My thesis advisor is Prof. [Hongjie Dong](https://appliedmath.brown.edu/people/hongjie-dong). Previously, I worked as a researcher in the Department of Mathematics at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). I was an assistant professor and lecturer (with the rank Lieutenant) in the Department of Mathematics at [Republic of Korea Air Force Academy](http://www.afa.ac.kr). I did my Bachelor and Master in [mathematics](https://math.sogang.ac.kr) at [Sogang University](https://wwwe.sogang.ac.kr/wwwe/index_new.html). My master thesis advisor was Prof. [Hyunseok Kim](https://math.sogang.ac.kr/math/math02_1_4.html). 
 
-**I am currently in the market for a postdoctoral position starting in Fall 2027.**
-
-You can pronounce my Korean name as "Hyeo-nu" (there is a linking sound between un and woo)
-However, I found that many people pronounce my name as "hahn woo" which means 'Korean beef'....  
+<strong>I am currently in the market for a postdoctoral position starting in Fall 2027.</strong>
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
-
-I frequently see plays and musicals, and sometimes write informal reviews of them on [this blog](https://brunch.co.kr/@skykite9) (in Korean).
 
 ## Research Interests
 
@@ -129,6 +124,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
 
 ## Miscellaneous
 - I am collecting [mathematician story](https://willkwon-math.github.io/math-history).
+- I frequently see plays and musicals, and sometimes write informal reviews of them on [this blog](https://brunch.co.kr/@skykite9) (in Korean).
 - My footprints related to LaTeX (can be found on the Internet)
   - I was a technical editor of ICM Proceedings 2014 which can be found in pdf files in [IMU homepage](https://www.mathunion.org/icm/proceedings/2014).
   - My name was written in the acknowledgement of [Sobolev and Viscosity Solutions for Fully Nonlinear Elliptic and Parabolic Equations](https://bookstore.ams.org/cdn-1612203880278/surv-233/~~FreeAttachments/surv-233-pref.pdf) written by N. V. Krylov.  
