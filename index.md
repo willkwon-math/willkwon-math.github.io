@@ -151,3 +151,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
    - When I was young, I made a train simulator addon based on the program [Bve Transim 4](https://en.wikipedia.org/wiki/BVE_Trainsim). 
 - Some random quote made by me? (Usually I do this joke when I teach proof by a contradiction)
 ![image info](/assets/img/typorama.jpg)
+
+
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
