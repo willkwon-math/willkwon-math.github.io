@@ -23,6 +23,13 @@ I am 5th year Ph. D. student (with candidacy) in [the Division of Applied Mathem
 
 Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 
+## Upcoming travels
+
+Reach out to me anytime if you have a chance to come to these!
+
+- International Congress of Mathematicians 2026, Philadelphia, PA, 7/22-7/30
+- ICERM workshop, Providence, RI, 8/3-8/7
+
 ## Research Interests
 
 I am someone who seeks to understand why certain objects, embraced by our world, exist from a mathematical perspective. My research is driven by questions of existence, uniqueness, regularity, and instability of mathematical structures, particularly in the analysis of partial differential equations and related fields.
