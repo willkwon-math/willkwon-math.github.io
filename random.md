@@ -1,3 +1,7 @@
+---
+layout: ordinary
+use_math: true 
+---
 
 ## Miscellaneous
 - I am collecting [mathematician story](https://willkwon-math.github.io/math-history).
