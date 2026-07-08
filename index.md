@@ -76,7 +76,7 @@ I am someone who seeks to understand why certain objects, embraced by our world,
   </div>
 </details>
 <details>
-<summary>7. Scattering of the Vlasov-Riesz system in the three dimensions, with W. Huang, <a href="https://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a> </summary>
+<summary>7. Scattering of the Vlasov-Riesz system in the three dimensions, with W. Huang, to appear Annales Henri Poincaré, <a href="https://arxiv.org/abs/2407.16919">arXiv:2407.16919 [math.AP]</a> </summary>
 <div markdown="1">
 **Abstract.** We consider an asymptotic behavior of solutions to the Vlasov-Riesz system of order $\alpha$ in $\mathbb{R}^3$ which is a kinetic model induced by Riesz interactions. We prove small data scattering when $1/2<\alpha<1$ and modified scattering when $1<\alpha<1+\delta$ for some $\delta>0$. Moreover, we show the existence of (modified) wave operators for such a regime. To the best of our knowledge, this is the first result on the existence of modified scattering polynomial correction in kinetic models.
   </div>
