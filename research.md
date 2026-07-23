@@ -18,6 +18,11 @@ Some of topics are
 
 
 
+## Mathematical Fluid Dynamics: free boundary problems from petroleum engineering
+
+Writing on progress....
+
+
   
 ## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
 
@@ -57,11 +62,6 @@ In the joint work with Hongjie Dong, we proved in [[DK23]](https://arxiv.org/abs
 As a natural counterpart to Sobolev estimates, one can also ask the validity of $C^1$ or $C^2$ estimates for Stokes equations with variable viscosity coefficients. In a joint work with Hongjie Dong, we also obtained $C^1_x$-estimates for equations in divergence form when the viscosity coefficients satisfy $L_2$-$\mathrm{DMO}_x$ condition. As a corollary, we also obtained spatial Schauder estimates as well. Unlike usual parabolic equations, we cannot expect temporal smoothing of the equation as we can observe this phenomenon via Serrin's example.
 </div>
 
-
-
-## Mathematical Fluid Dynamics: free boundary problems from petroleum engineering
-
-Writing on progress....
 
 
 
