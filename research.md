@@ -7,7 +7,7 @@ use_math: true
 
 From Newton’s mechanics, many scientists and mathematicians have devoted to studying differential equations to explain several phenomena in the nature.  It is  natural to ask whether we can solve boundary value problems of given partial differential equations. If we know an existence of solution of the problem, one can also ask some properties of solutions that have. 
 
-Some of topics are
+I have worked on various research projects to find a good perspective of studying those problems. Some of topics are
 - Mathematical Fluid Dynamics
   - Free boundary problem from petroleum engineering
   - Local regularity theory for Stokes equations
@@ -17,12 +17,30 @@ Some of topics are
 
 
 
-
 ## Mathematical Fluid Dynamics: free boundary problems from petroleum engineering
 
-Writing on progress....
+In 1934, Muskat introduced the free-boundary problem for two immiscible fluids in porous media to study the mechanism of oil recovery. This problem has received considerable attention due to the widespread use of waterflooding, which led to petroleum overproduction before the Great Depression (see [Pennsylvania oil rush](https://en.wikipedia.org/wiki/Pennsylvania_oil_rush) and references therein). 
 
-
+Since we consider a flow in porous media, the flow is governed by an experimental Darcy's law
+<div>
+  $$ \frac{\mu}{\kappa}u +\nabla_{x,y} p =-\rho g e_{d+1},\quad \mathrm{div}_{x,y} u=0.
+</div>
+Here $u$ denotes the velocity of the fluid, $p$ denotes the pressure $\mu>0$ stands for the dynamic viscosity, $\kappa>0$ the permeability of the porous media, $\rho>0$ the density of the fluid, and $g>0$ the gravity constant. The fluid is occupied in 
+<div>
+  \Omega_f=\{(x,y) : x\in \mathbb{R}^d, y<f(x)\}
+</div>
+and we impose that the normal velocity is continuous 
+<div>
+$$ u\cdot n=0\quad \text{on } \Sigma_f$$
+</div>
+satisfies the kinematic boundary condition:
+<div>
+  \partial_t f=\sqrt{1+|\nabla f|^2}(u\cdot n)\quad \text{on } \Sigma_f.
+</div>
+and by Young-Laplace eqation, the pressure jump is proportional to the mean curvature of the interface 
+<div>
+  $$ p=\mathfrak{s}H(f)\quad \text{on } \Sigma_f(t).$$
+</div>
   
 ## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
 
