@@ -41,7 +41,29 @@ and by Young-Laplace eqation, the pressure jump is proportional to the mean curv
 <div>
   $$p=\mathfrak{s}H(f)\quad \text{on } \Sigma_f(t).$$
 </div>
+This problem is called the one-phase Muskat problem. While the horizontal Hele-Shaw problem driven by injection or suction has been widely studied mathematically, the one-phase Muskat problem exhibits a different physical nature and mathematical structure due to gravity. 
   
+Pioneered by the work by Cordoba and Gancedo, there are plenty of works on local well-posedness, global well-posedness, finite-time singularity formation, and regularity properties of solutions to the Muskat problem such as desingularization of corners, existence of self-similar solutions which immediately smooth out from an exact corner. However, there are few results on global solvability of the one-phase Muskat problem. For the global solvability result, Gancedo, Garcia-Juarez, Patel, Strain (2019)  global well-posedness of the one-phase Muskat problem when initial data is in Wiener spaces with medium size. Later, Nguyen (2020) proved small data global well-posedness of the one-phase Muskat problem whose initial data belongs to critical Besov spaces. These result allows viscosity jumps. However, both results do not include the effect of surface tensions. For peridioc Lipschitz initial data with arbitrary size, Dong, Gancedo, Nguyen (2023, 2026) proved global well-posedness of the one-phase Muskat problem by introducing layer potential techinques. Moreover, the solution is unique in viscosity solution sense. 
+
+If we include surface tension effects, only available global solvabilitiy results are due to Chen, Nguyen, Xu (2023, 2026) and Lazar (2026) for two-fluid cases. However, these result assumed equal viscosity and hence those results cannot cover the one-phase problem. 
+
+In my joint work with Hongjie Dong [DK26](https://arxiv.org/abs/2604.06545), we proved small-data global well-posedness of the one-phase Muskat problem with surface tensions. Moreover, we proved that the Lipschitz norm of interface converges to zero as $t\rightarrow\infty$. 
+
+We reformulate the one-phase Muskat problem in terms of interface. Then the problem becomes an evolution equation in terms of interface
+<div>
+$$\partial_t f + G(f)(f+H(f))=0.$$
+</div>
+Then the operator $G(\eta)(\eta+H(\eta))$ is a third order parabolic equations and hence it is delicate to apply viscosity solution approach due to lack of comparision pricniple which is not available in higher order parabolic equations. 
+
+<div>
+To overcome this difficulty, we prove that $L^2$-norm of interface is Lyapunov functional. This was first observed by Alazard and Bresch (2024) in periodic domain case. We extend this to whole space case by a suitable approximation argument and regularity esetimates for harmonic functions. Moreover, using a rigidity estimate 
+$$|D^2u|^2 |Du|^2-|D^2 u Du|^2 \geq \frac{1}{d+1}|D^2 u|^2 |Du|,$$ 
+we can further show that $f$ satisfies 
+$$ \frac{1}{2}\frac{d}{dt}\int_{\mathbb{R}^d} |f|^2 dx+\frac{1}{\mathcal{F}(\Vert f \Vert_{H^s})} \Vert f\Vert_{\dot{H}^{3/2}}^2 \leq 0.$$
+This and a refined expansion of the Dirichlet-Neumann operator, we can show that the solution exists globally and the Lipschitz norm of the interface converges to zero as $t\rightarrow\infty$.
+</div>
+
+   
 ## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
 
 <div>
