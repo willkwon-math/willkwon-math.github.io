@@ -95,7 +95,7 @@ Another natural question is the validity of such regularity estimates when we im
 </div>
 
 <div>
-In the joint work with Hongjie Dong, we proved in [[DK23]](https://arxiv.org/abs/2308.09220) that when $a^{ij}$ is merely measurable in $t$ and has small mean oscillation in small cylinders, we proved that interior local $L_{s,q}$-Hessian estimates are possible for $u\in\tilde{W}^{1,2}_{q_0}(Q_1)$ in the case of nondivergence form equation and $u\in W^{0,1}_{q_0}(Q_1)$ in the case of equations in divergence form. For the boundary estimate, we proved the similar result for the equation in nondivergence form if we impose Lions boundary conditions. This result was further extended to curved boundary case in [[DK24]](http://arxiv.org/abs/2408.17321).<br> 
+In the joint work with Hongjie Dong, we proved in [(DK23)](https://arxiv.org/abs/2308.09220) that when $a^{ij}$ is merely measurable in $t$ and has small mean oscillation in small cylinders, we proved that interior local $L_{s,q}$-Hessian estimates are possible for $u\in\tilde{W}^{1,2}_{q_0}(Q_1)$ in the case of nondivergence form equation and $u\in W^{0,1}_{q_0}(Q_1)$ in the case of equations in divergence form. For the boundary estimate, we proved the similar result for the equation in nondivergence form if we impose Lions boundary conditions. This result was further extended to curved boundary case in [[DK24]](http://arxiv.org/abs/2408.17321).<br> 
 </div>
 
 <div>
@@ -157,9 +157,7 @@ In the previous research work, we only proved the uniqueness of weak solutions w
 
 
 ## Kinetic equations
-
-(Need to modify)
-
+ 
 Also, I have worked kinetic equations in partiuclar, long-time dynamics of kinetic equations induced by Riesz interactions. To explain this problem, consider the following systems of ODEs:
 <div>
 \begin{equation}
@@ -200,9 +198,12 @@ However, there are few works when $\alpha \neq 1$. For local well-posedness, Cho
 </div>
 
 <div>
-  In a joint work with Wenrui Huang, we have obtained global well-posedness with small initial data. Moreover, the solution exhibits scattering when $\alpha \in (1/2,1)$ and modified scattering when $\alpha \in (1,1+\delta)$. Unlike the case $\alpha=1$, the nonlinear solution converges to a solution along the natural linear trajectory with polynomial correction. Moreover, we constructed modified wave operator as well.
+  In a joint work with Wenrui Huang [(HK26)](https://link.springer.com/article/10.1007/s00023-026-01735-7), we have obtained global well-posedness with small initial data. Moreover, the solution exhibits scattering when $\alpha \in (1/2,1)$ and modified scattering when $\alpha \in (1,1+\delta)$. Unlike the case $\alpha=1$, the nonlinear solution converges to a solution along the natural linear trajectory with polynomial correction. Moreover, we constructed modified wave operator as well.
 </div>
 
+  In a joint work with Wenrui Huang [(HK26b)](https://arxiv.org/abs/2602.21344), we included repulsive harmonic potentials into the problem and show linear scattering in $d\geq 3$ and modified scattering in $d=2$. We also constructed modified wave operator as well. 
+
+  In both papers, we adapted a technique from dispersive equations: using a pseudoconformal symmetry and a bootstrap argument, we can show the desired result. In particular, the recent paper introduced kinetic lens transform which relaxes decay condition appears in the previous papers due to [Bigorgne, Velozo Ruiz, and Velozo Ruiz](https://epubs.siam.org/doi/abs/10.1137/24M1631018).  
 
 ## Elliptic equations with singular drift terms
 
