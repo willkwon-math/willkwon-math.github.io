@@ -23,23 +23,23 @@ In 1934, Muskat introduced the free-boundary problem for two immiscible fluids i
 
 Since we consider a flow in porous media, the flow is governed by an experimental Darcy's law
 <div>
-  $$ \frac{\mu}{\kappa}u +\nabla_{x,y} p =-\rho g e_{d+1},\quad \mathrm{div}_{x,y} u=0.
+  $$\frac{\mu}{\kappa}u +\nabla_{x,y} p =-\rho g e_{d+1},\quad \mathrm{div}_{x,y} u=0.
 </div>
 Here $u$ denotes the velocity of the fluid, $p$ denotes the pressure $\mu>0$ stands for the dynamic viscosity, $\kappa>0$ the permeability of the porous media, $\rho>0$ the density of the fluid, and $g>0$ the gravity constant. The fluid is occupied in 
 <div>
-  \Omega_f=\{(x,y) : x\in \mathbb{R}^d, y<f(x)\}
+$$\Omega_f=\{(x,y) : x\in \mathbb{R}^d, y<f(x)\}$$
 </div>
 and we impose that the normal velocity is continuous 
 <div>
-$$ u\cdot n=0\quad \text{on } \Sigma_f$$
+$$u\cdot n=0\quad \text{on } \Sigma_f$$
 </div>
 satisfies the kinematic boundary condition:
 <div>
-  \partial_t f=\sqrt{1+|\nabla f|^2}(u\cdot n)\quad \text{on } \Sigma_f.
+$$\partial_t f=\sqrt{1+|\nabla f|^2}(u\cdot n)\quad \text{on } \Sigma_f.$$
 </div>
 and by Young-Laplace eqation, the pressure jump is proportional to the mean curvature of the interface 
 <div>
-  $$ p=\mathfrak{s}H(f)\quad \text{on } \Sigma_f(t).$$
+  $$p=\mathfrak{s}H(f)\quad \text{on } \Sigma_f(t).$$
 </div>
   
 ## Mathematical Fluid Dynamics: local regularity theory for Stokes equations
