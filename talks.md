@@ -7,6 +7,8 @@ use_math: true
 
 
 ## Mathematics(Research talks)
+- Scattering map for the Vlasov-Poisson system a repulsive harmonic potential, PDE&Applied Mathematics Seminar, POSTECH(online), Aug. 2026.
+- Scattering map for the Vlasov-Poisson system a repulsive harmonic potential, Poster session, ICERM, Aug. 2026.
 - Global well-posedness of the one-phase Muskat problem surface tension, Contribution talks, ICM 2026, Jul. 2026.
 - Global well-posedness of the one-phase Muskat problem surface tension, Special Session on Fluid dynamics and nonlinear PDEs, 2026 AMS Spring Southeastern Sectional Meeting, Mar. 2026.
 - Global well-posedness of the one-phase Muskat problem surface tension, KIAS Analysis, PDE & Probability Seminar (online), Feb. 2026.
