@@ -23,7 +23,7 @@ In 1934, Muskat introduced the free-boundary problem for two immiscible fluids i
 
 Since we consider a flow in porous media, the flow is governed by an experimental Darcy's law
 <div>
-  $$\frac{\mu}{\kappa}u +\nabla_{x,y} p =-\rho g e_{d+1},\quad \mathrm{div}_{x,y} u=0.
+  $$\frac{\mu}{\kappa}u +\nabla_{x,y} p =-\rho g e_{d+1},\quad \mathrm{div}_{x,y} u=0$$.
 </div>
 Here $u$ denotes the velocity of the fluid, $p$ denotes the pressure $\mu>0$ stands for the dynamic viscosity, $\kappa>0$ the permeability of the porous media, $\rho>0$ the density of the fluid, and $g>0$ the gravity constant. The fluid is occupied in 
 <div>
