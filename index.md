@@ -28,6 +28,7 @@ Here is my [CV](https://willkwon-math.github.io/assets/files/CV_HKwon.pdf).
 Reach out to me anytime if you have a chance to come to these!
 
 - 2026 AMS Fall Eastern Sectional Meeting, George Washington University, Washington, DC, 10/03/2026-10/04/2026
+- PDE/GA seminar, University of Wisconsin-Madison, Madison, WI, 10/25/2026-10/27/2026
 
 ## Research Interests
 
