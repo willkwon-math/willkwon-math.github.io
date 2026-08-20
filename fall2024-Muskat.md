@@ -9,6 +9,10 @@ use_math: true
 
 The goal of the learning seminar held at Brown is to study the well-posedness problems of the evolution of the free surface separating air from a flow in porous media. Necessary mathematics tools will be introduced as a crash course.
 
+## Link
+
+[Playlist](https://youtube.com/playlist?list=PL1Gm01mQA9ZCE8dx2fqBQgSmEdDkNd8ol&si=gLus3JU7wkBpAqbQ)
+
 ## Time/Venue
 
 Every Wednesday 9:00 – 10:15 (US Eastern Time) / Location : Zoom
