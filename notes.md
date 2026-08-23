@@ -25,6 +25,8 @@ The following notes are available upon request (incomplete note/not open to publ
 - Introduction to Random process (based on the book of Krylov)
 - Littlewood-Paley theory and Kato-Ponce inequality (based on the paper of Dong Li, Fractional Leibniz rules and Kato-Ponce inequality) 
 - Local well-posedness and gradient blow up of Burgers type equations
+- Lecture notes on Muskat problems
+- Introduction to Dynamical Systems toward PDE theory (working on)
 
 ## ${\rm \LaTeX{}}$
 
