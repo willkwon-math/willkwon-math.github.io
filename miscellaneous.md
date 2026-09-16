@@ -14,6 +14,7 @@ use_math: true
 - Lean
   - https://palomar-registry.org/
   - https://cbirkbeck.github.io/natural_number_game/
+  - [Landau Damping](https://github.com/Jacob24876/LandauDamping-Public)
 
 - Others
   - [CVGMT](https://cvgmt.sns.it)
