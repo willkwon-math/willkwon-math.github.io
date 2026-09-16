@@ -13,7 +13,7 @@ use_math: true
  
 - Lean
   - https://palomar-registry.org/
-  - 
+  - https://cbirkbeck.github.io/natural_number_game/
 
 - Others
   - [CVGMT](https://cvgmt.sns.it)
