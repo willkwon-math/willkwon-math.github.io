@@ -11,9 +11,10 @@ use_math: true
   - I gave several online lectures on Youtube (in Korean) [link](https://www.youtube.com/channel/UCE9KYJ_vqV0NHkvIJy4UIvA). Lecture notes can be found in 'Notes' page.
  
 - Lean
-  - https://palomar-registry.org/
-  - https://cbirkbeck.github.io/natural_number_game/
+  - [Palomar Registry](https://palomar-registry.org/)
+  - [Natural Number Game](https://cbirkbeck.github.io/natural_number_game/)
   - [Landau Damping](https://github.com/Jacob24876/LandauDamping-Public)
+  - [Formalising Linear Elliptic PDE Theory in Lean 4](https://arxiv.org/abs/2609.32561)
 
 - Others
   - [CVGMT](https://cvgmt.sns.it)
