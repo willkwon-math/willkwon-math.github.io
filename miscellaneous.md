@@ -15,6 +15,7 @@ use_math: true
   - [Natural Number Game](https://cbirkbeck.github.io/natural_number_game/)
   - [Landau Damping](https://github.com/Jacob24876/LandauDamping-Public)
   - [Formalising Linear Elliptic PDE Theory in Lean 4](https://arxiv.org/abs/2609.32561)
+  - [Hexagon Math](https://hexagonmath.org/)
 
 - Others
   - [CVGMT](https://cvgmt.sns.it)
