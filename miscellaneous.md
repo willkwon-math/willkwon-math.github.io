@@ -16,6 +16,7 @@ use_math: true
   - [Landau Damping](https://github.com/Jacob24876/LandauDamping-Public)
   - [Formalising Linear Elliptic PDE Theory in Lean 4](https://arxiv.org/abs/2609.32561)
   - [Hexagon Math](https://hexagonmath.org/)
+  - [Guide to using Lean](https://mathematics-explained.com/lean)
 
 - Others
   - [CVGMT](https://cvgmt.sns.it)
