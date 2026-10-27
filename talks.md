@@ -7,10 +7,10 @@ use_math: true
 
 
 ## Mathematics(Research talks)
-- TBA, University of Wisconsin-Madison, Oct. 2026
-- TBA, Brown University, Oct. 2026
+- Global well-posedness of the one-phase Muskat problem with  surface tension, University of Wisconsin-Madison, Oct. 2026
+- Global well-posedness of the one-phase Muskat problem with  surface tension, Brown University, Oct. 2026
 - A role of $A_p$-theory to local regularity estimates for nonstationary Stokes equations, Special Session on AMS Special Session on Harmonic Analysis and PDEs, 2026 AMS Fall Eastern Sectional Meeting, Oct. 2026.
-- TBA, Portmac PDE seminar, Sep. 2026
+- Global well-posedness of the one-phase Muskat problem with  surface tension, Portmac PDE seminar, Sep. 2026
 - Scattering map for the Vlasov-Poisson system a repulsive harmonic potential, PDE&Applied Mathematics Seminar, POSTECH(online), Aug. 2026.
 - Global well-posedness of the one-phase Muskat problem with  surface tension, Contribution talks, ICM 2026, Jul. 2026.
 - Global well-posedness of the one-phase Muskat problem with surface tension, Current Trends in Fluid Dynamics, University of Maryland, Apr. 2026.
