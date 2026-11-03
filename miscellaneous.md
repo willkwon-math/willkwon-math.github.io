@@ -27,6 +27,7 @@ use_math: true
   - [Stupid Mathematics Seminar in Korea](https://www.facebook.com/mungseminar)  (I am a founder of this seminar)
 
 - My favorite quotes
+  - Infatti nessun uomo può parlare con competenza della sapienza, ma d’altra parte tutti sono chiamati a ricercarla; nessuno può aspirare al titolo di sofologo, tutti e in special modo coloro che insegnano materie scientifiche, devono aspirare al titolo di filosofo, persona che ama la sapienza con molta semplicità, modestia e ne riconosce il grande valore. (Ennio De Giorgi) / No one can speak about wisdom as an expert, yet everyone is called to seek it. No one may claim to be a master of wisdom; rather, all of us, and above all those who teach the sciences, should strive to be philosophers: people who love wisdom with simplicity and humility, and who recognize its great worth. (Claude translation)
   - 꼰대란 별게 아니다. 끊임없이 내 언어로만 이야기하는 사람이다. (인남식 교수) / A stubborn person is nothing special — it's simply someone who insists on speaking only in their own language
   - 희망을 버려. 그리고 힘내 (사이보그지만 괜찮아, 박찬욱-정서경) / Let your hope go, and cheer up. (I'm a cyborg but that's ok" written by Chanwook Park and Suhkyung Seo-kyung Chung)
   - I don't need a life that's normal. That's way too far away. But something next to normal... would be okay. Yeah, something next to normal, that's the thing I'd like to try. (Next to normal, Brian Yorkey)
