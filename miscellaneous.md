@@ -12,6 +12,7 @@ use_math: true
  
 - Lean
   - [Palomar Registry](https://palomar-registry.org/)
+  - [Visual Paper](https://github.com/amelieloher/math-paper-skills/tree/main/skills/visual-paper)
   - [Natural Number Game](https://cbirkbeck.github.io/natural_number_game/)
   - [Tau Ceti](https://github.com/TauCetiProject/TauCeti)
   - [Landau Damping](https://github.com/Jacob24876/LandauDamping-Public)
